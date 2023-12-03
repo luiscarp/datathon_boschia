@@ -1,0 +1,1392 @@
+posición,area,á.liq.,grupo_de_personal,codigo_postal,motivo_de_la_renuncia,banda,baja,reglapht,alta,años,meses,antigüedad,clave_de_sexo,lugar_de_nacimiento,nacionalidad,edad_del_empleado,estado_civil,hijos
+POS514,LOG,S6,Exempt,32520,Vol-Otro empleo,E3,2023-02-01,ADMINIST,2018-06-21,5,55.2,1656,femenino,JUAREZ,Mexican,31,solter,0
+POS1745,MFS,S5,Direct,32217,Vol-Otro empleo,DNO,2023-03-01,ADMINIST,2017-07-20,6,66.43333333,1993,masculino,DURANGO,Mexican,25,solter,0
+POS1230,VS7,S5,Direct,32600,Vol-Otro empleo,DNO,2023-03-01,JT012324,2019-08-29,4,40.76666667,1223,masculino,JUAREZ,Mexican,23,solter,0
+POS1661,MFS,S5,Direct,32575,Vol-Estudios,DO,2023-03-01,JT012324,2022-03-11,1,2.033333333,61,femenino,JUAREZ,Mexican,18,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-03-01,JT012324,2017-02-03,6,71.1,2133,masculino,JUAREZ,Mexican,26,solter,0
+POS2803,VS1,S5,Direct,32600,Vol-Otro empleo,DNO,2023-03-01,JF050600,2018-06-09,5,52.66666667,1580,masculino,JUANACATLAN,Mexican,38,casad.,3
+POS538,VS9-ABS,S5,Direct,32575,Vol-Estudios,DO,2023-03-01,JF060600,2020-09-01,3,36.33333333,1090,femenino,JUAREZ,Mexican,21,solter,0
+POS1380,MFS,S5,Direct,32575,Vol-Otro empleo,DO,2023-03-01,JF060600,2020-12-17,3,24.9,747,femenino,JUAREZ,Mexican,27,solter,1
+POS2094,TEF,S5,Direct,32674,Vol-Otro empleo,DNO,2023-03-01,ADMINIST,2020-05-03,3,34.46666667,1034,masculino,CHIHUAHUA,Mexican,25,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-03-01,JS011500,2020-01-16,3,36.1,1083,femenino,JUAREZ,Mexican,32,solter,0
+POS1661,MFS,S5,Direct,32575,Vol-Estudios,DO,2023-03-01,JS011500,2022-11-10,1,2.8,84,femenino,CHIHUAHUA,Mexican,18,solter,0
+POS2003,VS4,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-03-01,JS011500,2016-02-03,7,83.26666667,2498,femenino,SANTA BARBARA,Mexican,41,U.Libr,2
+POS347,LOG,S5,Direct,32575,Vol-No regreso / no dio razón,DNO,2023-03-01,JF010600,2022-08-12,1,0.8666666667,26,masculino,DURANGO,Mexican,40,U.Libr,2
+POS1230,VS1,S5,Direct,32690,Vol-Otro empleo,DNO,2023-03-01,JF010600,2018-08-30,5,52.9,1587,masculino,JUAREZ,Mexican,25,solter,0
+POS1376,VS9-ABS,S5,Direct,32576,Vol-Insatisfacción personal,DNO,2023-03-01,JF010600,2019-01-24,4,48,1440,femenino,JUAREZ,Mexican,27,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-04-01,JF010600,2022-11-08,1,4.866666667,146,femenino,JUAREZ,Mexican,33,solter,2
+POS1323,VS5,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-04-01,JT012324,2019-05-09,4,40.56666667,1217,femenino,JUAREZ,Mexican,23,solter,1
+POS1323,VS7,S5,Direct,32540,Vol-No regreso / no dio razón,DO,2023-04-01,JT012324,2020-08-10,3,27.26666667,818,femenino,JUAREZ,Mexican,20,solter,1
+POS2939,VS1-HOUS,S5,Direct,32584,Vol-No regreso / no dio razón,DO,2023-04-01,JT012324,2022-10-20,1,2.533333333,76,masculino,JUAREZ,Mexican,31,U.Libr,0
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-04-01,JT012324,2022-11-17,1,1.6,48,femenino,JUAREZ,Mexican,18,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-04-01,JS011500,2022-08-09,1,3.933333333,118,masculino,TUXTLA GUTIERREZ,Mexican,21,solter,0
+POS1323,VS1,S5,Direct,32599,Vol-Transferencia entre planta,DO,2023-05-01,JF010600,2018-06-09,5,52.73333333,1582,femenino,GUERRERO,Mexican,23,solter,0
+POS347,LOG,S5,Direct,32575,Vol-Transferencia entre planta,DNO,2023-06-01,JT012324,2022-12-15,1,0.7333333333,22,masculino,OAXACA,Mexican,24,solter,0
+POS581,LOG,S6,Exempt,32433,Vol-Otro empleo,E3,2023-06-01,JF010600,2021-05-27,2,19.63333333,589,masculino,CHIHUAHUA,Mexican,30,solter,0
+POS2803,VS5,S5,Direct,32600,Imp.Tra-LFT y/o Reglamento int,DNO,2023-07-01,JF050600,2017-07-13,6,66.8,2004,masculino,TORREON,Mexican,45,casad.,2
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-09-01,JS011500,2022-08-12,1,1.066666667,32,masculino,JUAREZ,Mexican,18,solter,0
+POS538,VS4,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-09-01,JT031800,2022-06-10,1,3.166666667,95,masculino,COATZACOALCOS,Mexican,30,solter,0
+POS1380,MFS,S5,Direct,32599,Vol-Otro empleo,DO,2023-10-01,JT031800,2019-03-28,4,46.13333333,1384,femenino,JUAREZ,Mexican,22,solter,0
+POS1230,VS7,S5,Direct,32575,Vol-Otro empleo,DNO,2023-10-01,JF010600,2019-12-09,4,40.53333333,1216,masculino,JUAREZ,Mexican,24,solter,0
+POS1380,MFS,S5,Direct,32696,Vol-Otro empleo,DO,2023-10-01,JT031800,2021-04-02,2,23.5,705,femenino,TEMIXO,Mexican,23,U.Libr,1
+POS1921,MFS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-10-01,JF010600,2021-04-02,2,23.5,705,femenino,VERACRUZ,Mexican,23,solter,0
+POS538,VS7,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-10-01,JT031800,2022-11-08,1,5.066666667,152,masculino,DURANGO,Mexican,20,solter,0
+POS1323,VS5,S5,Direct,32599,Vol-Insatisfacción personal,DO,2023-10-01,JS011500,2022-09-14,1,3.933333333,118,femenino,DURANGO,Mexican,48,casad.,3
+POS1323,VS9-ABS,S5,Direct,32570,Vol-Prob personales y/o fam.,DO,2023-10-01,JF010600,2022-03-10,1,3.3,99,masculino,JUAREZ,Mexican,45,U.Libr,2
+POS1921,MFS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-10-01,JF010600,2022-03-10,1,3.3,99,femenino,CHIHUAHUA,Mexican,33,U.Libr,0
+POS2939,VS9-ABS,S5,Direct,32598,Vol-No regreso / no dio razón,DO,2023-10-01,JF010600,2022-01-12,1,1.333333333,40,masculino,VERACRUZ,Mexican,22,solter,0
+POS347,LOG,S5,Direct,32696,Imp.Tra-Ausentismos continuos,DNO,2023-10-01,JS011500,2022-12-15,1,0.8666666667,26,masculino,CHIHUAHUA,Mexican,31,solter,1
+POS2384,QMM,S5,Direct,32217,Vol-Otro empleo,DNO,2023-10-01,JF010600,2005-02-11,18,209.2666667,6278,masculino,SAN RAFAEL DE ARRIBA,Mexican,45,casad.,4
+POS2553,QMM,S5,Direct,32150,Vol-Prob personales y/o fam.,DNO,2023-10-01,JT012324,2013-07-15,10,115.5333333,3466,femenino,SAN PEDRO VALPARAISO,Mexican,39,casad.,3
+POS2802,TEF,S5,Direct,32599,Vol-Prob personales y/o fam.,DNO,2023-10-01,JF010600,2015-04-13,8,94.3,2829,femenino,GOMEZ PALACIO,Mexican,27,U.Libr,0
+POS538,VS9-ABS,S5,Direct,32540,Vol-Insatisfacción personal,DO,2023-10-01,JF060600,2016-02-11,7,75.33333333,2260,femenino,POBLADO EL LUCERO,Mexican,36,U.Libr,2
+POS1661,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-11-01,JT012324,2022-08-12,1,1.133333333,34,femenino,CAMARGO,Mexican,36,casad.,3
+POS1230,VS9-ABS,S5,Direct,32665,Vol-Transferencia entre planta,DNO,2023-01-13,JF010600,2018-08-11,5,50.9,1527,masculino,JUAREZ,Mexican,24,U.Libr,0
+POS2076,HRL,S6,Exempt,32695,Imp.Pat-Pensionado IMSS,E3,2023-01-13,ADMINIST,2006-01-23,17,206.6333333,6199,femenino,NUEVO CASAS GRANDES,Mexican,42,solter,1
+POS1921,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-01-13,JS011500,2022-07-28,1,5.633333333,169,femenino,JUAREZ,Mexican,24,solter,0
+POS2046,VS4,S6,Exempt,32410,Vol-Transferencia entre planta,E4,2023-01-13,ADMINIST,2006-05-15,17,202.9,6087,femenino,CUAUHTEMOC,Mexican,42,solter,2
+POS2856,VS5,S6,Exempt,32587,Vol-Otro empleo,E3,2023-01-13,ADMINIST,2014-04-23,9,106.2333333,3187,masculino,JUAREZ,Mexican,28,solter,0
+POS2939,VS1-HOUS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-01-16,JF010600,2022-01-12,1,1.533333333,46,femenino,GUERRERO,Mexican,24,solter,1
+POS347,LOG,S5,Direct,32697,Vol-No regreso / no dio razón,DNO,2023-01-16,JS011500,2022-12-22,1,0.8333333333,25,masculino,JIQUIPILAS,Mexican,20,U.Libr,0
+POS347,LOG,S5,Direct,32575,Vol-No regreso / no dio razón,DNO,2023-01-16,JT021800,2022-01-12,1,1.533333333,46,masculino,JUAREZ,Mexican,28,divorc,1
+POS538,VS5,S5,Direct,32575,Vol-Otro empleo,DO,2023-01-17,JF060600,2020-08-10,3,27.7,831,femenino,JUAREZ,Mexican,20,solter,0
+POS538,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-01-17,JT031800,2020-11-26,3,26.06666667,782,masculino,CHIHUAHUA,Mexican,45,U.Libr,1
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-01-17,JT031800,2022-08-25,1,4.833333333,145,femenino,OAXACA,Mexican,38,casad.,3
+POS1323,VS9-ABS,S5,Direct,32599,Vol-Cambio de domicilio,DO,2023-01-17,JF010600,2022-08-09,1,4.366666667,131,masculino,TABASCO,Mexican,39,U.Libr,3
+POS538,VS9-ABS,S5,Direct,32575,Vol-Estudios,DO,2023-01-17,JF060600,2022-11-17,1,2.033333333,61,femenino,JUAREZ,Mexican,20,solter,0
+POS2803,VS7,S5,Direct,32576,Vol-Otro empleo,DNO,2023-01-17,JF010600,2017-08-06,6,68.3,2049,masculino,JUAREZ,Mexican,47,casad.,2
+POS2803,VS7,S5,Direct,32594,Vol-Prob personales y/o fam.,DNO,2023-01-17,JS011500,2016-06-04,7,82.56666667,2477,masculino,VERACRUZ,Mexican,65,casad.,4
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-01-18,JT012324,2022-03-11,1,2.533333333,76,femenino,SAN DIMAS,Mexican,37,U.Libr,2
+POS1380,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-01-19,JT031800,2020-02-20,3,35.46666667,1064,femenino,COSAMALOAPAN,Mexican,28,casad.,0
+POS1921,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-01-20,JS011500,2013-04-12,10,111.1333333,3334,femenino,VERACRUZ,Mexican,39,U.Libr,2
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-01-23,JT031800,2022-03-11,1,2.7,81,femenino,ANGEL R CABADA,Mexican,46,U.Libr,2
+POS538,VS5,S5,Direct,32696,Vol-No regreso / no dio razón,DO,2023-01-23,JF060600,2022-12-15,1,1.3,39,femenino,CHIHUAHUA,Mexican,31,U.Libr,3
+POS1380,MFS,S5,Direct,32695,Vol-No regreso / no dio razón,DO,2023-01-23,JF060600,2022-12-15,1,1.3,39,femenino,DURANGO,Mexican,53,casad.,3
+POS1380,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-01-23,JF060600,2022-12-15,1,1.3,39,femenino,COAHUILA,Mexican,42,casad.,3
+POS1380,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-01-24,JT031800,2022-09-14,1,4.4,132,femenino,DURANGO,Mexican,30,solter,0
+POS538,VS1,S5,Direct,32543,Vol-Estudios,DO,2023-01-24,JT031800,2019-04-07,4,43.33333333,1300,femenino,JUAREZ,Mexican,21,solter,0
+POS1323,VS9-ABS,S5,Direct,32599,Vol-Otro empleo,DO,2023-01-24,JF010600,2020-02-13,3,35.86666667,1076,femenino,COATZACOALCOS,Mexican,21,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Razones médicas,DO,2023-01-24,JT012324,2020-03-12,3,26.06666667,782,femenino,VERACRUZ,Mexican,52,solter,1
+POS1323,VS9-ABS,S5,Direct,32570,Vol-Prob personales y/o fam.,DO,2023-01-24,JF010600,2021-04-03,2,23.03333333,691,femenino,JUAREZ,Mexican,30,casad.,1
+POS1323,VS5,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-01-24,JT012324,2022-01-09,1,4.833333333,145,femenino,JUAREZ,Mexican,25,U.Libr,3
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-01-24,JT031800,2022-11-17,1,2.266666667,68,femenino,SAN FRANCISCO DEL MAR,Mexican,31,casad.,3
+POS347,LOG,S5,Direct,32575,Vol-Insatisfacción personal,DNO,2023-01-24,JS011500,2014-08-20,9,102.6333333,3079,masculino,JUAREZ,Mexican,27,casad.,2
+POS1230,VS7,S5,Direct,32599,Vol-Otro empleo,DNO,2023-01-24,JF010600,2016-09-11,7,75.56666667,2267,masculino,DURANGO,Mexican,34,divorc,1
+POS538,VS1,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-01-24,JF060600,2017-11-16,6,63.16666667,1895,femenino,TORREON,Mexican,27,U.Libr,2
+POS347,LOG,S5,Direct,32599,Vol-Transferencia entre planta,DNO,2023-01-26,JS011500,2023-01-19,0,0.2333333333,7,masculino,JUAREZ,Mexican,22,U.Libr,1
+POS1323,VS5,S5,Direct,32600,Vol-Transferencia entre planta,DO,2023-01-27,JS011500,2017-12-14,6,62.33333333,1870,masculino,VERACRUZ,Mexican,42,U.Libr,1
+POS1683,CTG,S6,Exempt,32575,Vol-Transferencia entre planta,E4,2023-01-29,ADMINIST,2015-02-12,8,87.16666667,2615,femenino,JUAREZ,Mexican,29,solter,0
+POS538,VS1-HOUS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-01-30,JF060600,2022-08-09,1,4.8,144,femenino,CUENCAME,Mexican,31,solter,3
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-01-30,JT031800,2022-03-11,1,2.933333333,88,femenino,TUXTEPEC,Mexican,24,solter,0
+POS1376,VS5,S5,Direct,32599,Vol-No regreso / no dio razón,DNO,2023-01-30,JT021800,2007-03-09,16,187.6,5628,femenino,VERACRUZ,Mexican,39,U.Libr,4
+POS347,LOG,S5,Direct,32599,Vol-Prob personales y/o fam.,DNO,2023-01-31,JS011500,2019-01-10,4,40.6,1218,femenino,JUAREZ,Mexican,22,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Otro empleo,DO,2023-01-31,JF060600,2022-08-09,1,4.833333333,145,masculino,JUAREZ,Mexican,24,solter,0
+POS1380,MFS,S5,Direct,32583,Vol-Otro empleo,DO,2023-01-31,JF060600,2017-08-31,6,65.96666667,1979,masculino,OAXACA,Mexican,25,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-01-31,JF010600,2022-03-10,1,4,120,femenino,MINATITLAN,Mexican,23,solter,0
+POS1661,MFS,S5,Direct,32599,Vol-Estudios,DO,2023-01-31,JS011500,2022-10-20,1,3.433333333,103,masculino,JUAREZ,Mexican,24,solter,0
+POS1376,MFS,S5,Direct,32160,Vol-Otro empleo,DNO,2023-01-31,JF050600,2012-02-02,11,133.8666667,4016,masculino,TOLUCA,Mexican,30,solter,0
+POS1661,MFS,S5,Direct,32695,Vol-Estudios,DO,2023-01-31,JF010600,2022-11-24,1,2.266666667,68,femenino,JUAREZ,Mexican,18,solter,0
+POS1921,MFS,S5,Direct,32600,Vol-Otro empleo,DO,2023-01-31,JS011500,2017-12-28,6,62,1860,masculino,GUERRERO,Mexican,25,U.Libr,2
+POS538,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-01-31,JT031800,2022-11-08,1,5.766666667,173,femenino,VERACRUZ,Mexican,22,solter,1
+POS1380,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-01-31,JT031800,2022-09-29,1,4.133333333,124,masculino,CHIHUAHUA,Mexican,30,casad.,2
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-01-02,JT012324,2022-11-17,1,2.533333333,76,femenino,CORDOBA,Mexican,33,U.Libr,2
+POS750,TEF,S5,Indirect,32545,Vol-Transferencia entre planta,DNO,2023-03-02,ADMINIST,2019-02-05,4,45.76666667,1373,masculino,JUAREZ,Mexican,30,solter,0
+POS750,TEF,S5,Indirect,32100,Vol-Transferencia entre planta,DNO,2023-03-02,ADMINIST,2021-06-05,2,21.26666667,638,masculino,CHIHUAHUA,Mexican,30,solter,0
+POS907,VS9-ABS,S6,Exempt,32540,Vol-Otro empleo,E3,2023-03-02,ADMINIST,2017-10-23,6,64.3,1929,femenino,JUAREZ,Mexican,30,solter,0
+POS2745,MFS,S6,Exempt,32546,Vol-Otro empleo,E4,2023-03-02,ADMINIST,2016-06-15,7,80.8,2424,masculino,JUAREZ,Mexican,47,divorc,2
+POS1230,VS7,S5,Direct,32599,Vol-Transferencia entre planta,DNO,2023-03-02,JF010600,2016-06-04,7,83.13333333,2494,masculino,JUCHITAN,Mexican,38,solter,1
+POS347,LOG,S5,Direct,32575,Vol-No regreso / no dio razón,DNO,2023-06-02,JF010600,2017-07-09,6,65.93333333,1978,masculino,OAXACA,Mexican,34,solter,0
+POS538,VS9-ABS,S5,Direct,32563,Vol-Estudios,DO,2023-07-02,JF060600,2019-10-24,4,40.06666667,1202,femenino,CHIHUAHUA,Mexican,23,U.Libr,1
+POS1230,VS9-ABS,S5,Direct,32667,Vol-Otro empleo,DNO,2023-07-02,JT012324,2022-12-15,1,1.8,54,masculino,CHIHUAHUA,Mexican,22,solter,0
+POS750,TEF,S5,Indirect,32580,Vol-Otro empleo,DNO,2023-07-02,ADMINIST,2017-02-23,6,72.5,2175,femenino,GOMEZ PALACIO,Mexican,25,solter,0
+POS2003,VS5,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-07-02,JS011500,2015-05-20,8,94,2820,masculino,GOMEZ PALACIO,Mexican,57,U.Libr,3
+POS1884,DBE,S6,Exempt,32240,Vol-Otro empleo,E4,2023-09-02,ADMINIST,2014-08-25,9,103,3090,masculino,JUAREZ,Mexican,33,casad.,1
+POS2858,QMM,S6,Exempt,32618,Vol-Otro empleo,E3,2023-10-02,ADMINIST,2018-03-12,5,51,1530,femenino,JUAREZ,Mexican,26,casad.,0
+POS1323,VS1,S5,Direct,32599,Vol-Transferencia entre planta,DO,2023-10-02,JF010600,2018-08-30,5,54.16666667,1625,femenino,JUAREZ,Mexican,22,solter,0
+POS750,TEF,S5,Indirect,32575,Vol-Transferencia entre planta,DNO,2023-10-02,ADMINIST,2013-07-15,10,116.5666667,3497,masculino,JUAREZ,Mexican,31,U.Libr,0
+POS538,VS9-ABS,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2023-02-13,JF060600,2022-06-10,1,4.333333333,130,masculino,CHIHUAHUA,Mexican,20,solter,0
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-02-13,JS011500,2023-01-19,0,0.8333333333,25,masculino,VERACRUZ,Mexican,21,solter,0
+POS1380,MFS,S5,Direct,32575,Vol-Estudios,DO,2023-02-14,JF060600,2018-12-27,5,50.33333333,1510,femenino,JUAREZ,Mexican,23,solter,0
+POS1323,VS5,S5,Direct,32575,Vol-Estudios,DO,2023-02-14,JT012324,2022-01-09,1,5.533333333,166,femenino,CHIHUAHUA,Mexican,20,solter,0
+POS347,LOG,S5,Direct,32575,Vol-Prob personales y/o fam.,DNO,2023-02-14,JF010600,2022-03-10,1,4.466666667,134,masculino,GUADALAJARA,Mexican,36,solter,1
+POS2939,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-02-14,JF010600,2022-01-12,1,2.5,75,femenino,CHIHUAHUA,Mexican,33,solter,2
+POS750,TEF,S5,Indirect,32573,Vol-Otro empleo,DNO,2023-02-14,ADMINIST,2023-01-19,0,0.8666666667,26,femenino,JUAREZ,Mexican,24,solter,0
+POS538,VS1-HOUS,S5,Direct,32600,Vol-Estudios,DO,2023-02-14,JF060600,2017-07-13,6,68.06666667,2042,masculino,JUAREZ,Mexican,25,solter,0
+POS2939,VS9-ABS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-02-14,JS011500,2022-01-12,1,2.5,75,masculino,LERDO,Mexican,33,solter,3
+POS2939,VS5,S5,Direct,32573,Vol-No regreso / no dio razón,DO,2023-02-15,JT012324,2023-01-19,0,0.9,27,femenino,CINTALAPA,Mexican,33,U.Libr,2
+POS2939,VS9-ABS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-02-16,JS011500,2023-01-26,0,0.7,21,femenino,JUAREZ,Mexican,19,solter,1
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-02-16,JS011500,2023-01-26,0,0.7,21,femenino,TLAHUALILO DE ZARAGOZA,Mexican,24,U.Libr,0
+POS1921,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-02-17,JF010600,2019-10-17,4,40.63333333,1219,femenino,TABASCO,Mexican,32,U.Libr,2
+POS1921,MFS,S5,Direct,32424,Imp.Tra-Jubilación,DO,2023-02-17,JF010600,2006-01-16,17,208.0333333,6241,femenino,JUAREZ,Mexican,60,viud.,3
+POS347,LOG,S5,Direct,32575,Vol-Insatisfacción personal,DNO,2023-02-21,JS011500,2021-03-25,2,23.26666667,698,masculino,CHIHUAHUA,Mexican,50,casad.,3
+POS2939,VS5,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-02-21,JF010600,2023-01-26,0,0.8666666667,26,femenino,JUAREZ,Mexican,24,solter,0
+POS1323,VS1-HOUS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2023-02-21,JF010600,2019-01-24,4,49.63333333,1489,femenino,JUAREZ,Mexican,25,solter,2
+POS538,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-02-21,JT031800,2022-11-08,1,6.466666667,194,femenino,OAXACA,Mexican,26,U.Libr,1
+POS538,VS5,S5,Direct,32575,Vol-Estudios,DO,2023-02-21,JT031800,2022-08-25,1,6,180,masculino,JUAREZ,Mexican,21,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-02-21,JF060600,2022-03-11,1,3.666666667,110,femenino,CHIHUAHUA,Mexican,21,solter,0
+POS2939,VS9-ABS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-02-21,JS011500,2023-01-26,0,0.8666666667,26,masculino,JUAREZ,Mexican,20,solter,0
+POS2939,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-02-21,JS011500,2023-02-02,0,0.6333333333,19,femenino,OAXACA,Mexican,38,U.Libr,3
+POS2939,VS5,S5,Direct,32675,Vol-No regreso / no dio razón,DO,2023-02-22,JF010600,2023-12-01,0,1.366666667,41,masculino,JUAREZ,Mexican,20,U.Libr,1
+POS1230,TEF,S5,Indirect,32380,Vol-Transferencia entre planta,DNO,2023-02-24,ADMINIST,2021-02-25,2,24.3,729,femenino,CHIHUAHUA,Mexican,25,solter,0
+POS1559,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DNO,2023-02-24,JF010600,2021-10-14,2,16.6,498,masculino,CHIHUAHUA,Mexican,23,solter,0
+POS538,VS1,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2023-02-27,JT031800,2023-01-26,0,1.066666667,32,femenino,OAXACA,Mexican,27,U.Libr,2
+POS2939,VS5,S5,Direct,32600,Vol-No regreso / no dio razón,DO,2023-02-27,JS011500,2023-09-02,0,0.6,18,masculino,CHIHUAHUA,Mexican,30,casad.,2
+POS538,VS1,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-02-28,JF060600,2018-08-30,5,54.76666667,1643,femenino,JUAREZ,Mexican,24,solter,0
+POS1323,VS9-ABS,S5,Direct,32695,Vol-Otro empleo,DO,2023-02-28,JF010600,2019-10-24,4,40.76666667,1223,masculino,JUAREZ,Mexican,21,solter,0
+POS1323,VS4,S5,Direct,32575,Vol-Otro empleo,DO,2023-02-28,JF010600,2020-11-19,3,27.7,831,femenino,JUAREZ,Mexican,21,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Razones médicas,DO,2023-02-28,JF060600,2022-01-12,1,2.966666667,89,masculino,JUAREZ,Mexican,32,casad.,0
+POS907,VS4,S6,Exempt,32350,Vol-Transferencia entre planta,E3,2023-02-28,ADMINIST,2014-01-12,9,100.3666667,3011,masculino,JUAREZ,Mexican,30,casad.,0
+POS2939,VS5,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2023-02-28,JS011500,2023-01-26,0,1.1,33,femenino,JUAREZ,Mexican,19,solter,0
+POS1323,VS7,S5,Direct,32599,Vol-Insatisfacción personal,DO,2023-02-28,JT012324,2018-04-01,5,62.7,1881,masculino,JUAREZ,Mexican,25,solter,0
+POS1921,MFS,S5,Direct,32590,Vol-Otro empleo,DO,2023-02-28,JF010600,2017-02-03,6,72.96666667,2189,masculino,TEZIUTLAN,Mexican,24,solter,0
+POS1230,VS7,S5,Direct,32600,Vol-Otro empleo,DNO,2023-02-28,JS011500,2017-07-20,6,68.3,2049,masculino,MONTERREY,Mexican,24,solter,0
+POS1921,MFS,S5,Direct,32696,Vol-Cambio de domicilio,DO,2023-02-28,JT012324,2017-08-31,6,66.9,2007,femenino,TRES VALLES,Mexican,42,casad.,3
+POS1323,VS1,S5,Direct,32598,Vol-Prob personales y/o fam.,DO,2023-02-28,JS011500,2022-06-10,1,4.833333333,145,masculino,CHIHUAHUA,Mexican,33,solter,1
+POS1921,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-03-03,JS011500,2022-07-21,1,7.5,225,masculino,GOMEZ PALACIO,Mexican,29,U.Libr,3
+POS2939,VS9-ABS,S5,Direct,32590,Vol-Transferencia entre planta,DO,2023-03-03,JF010600,2022-12-29,1,2.133333333,64,femenino,JUAREZ,Mexican,18,solter,0
+POS1230,VS7,S5,Direct,32573,Vol-Transferencia entre planta,DNO,2023-03-03,JF050600,2017-05-10,6,65.83333333,1975,masculino,JUAREZ,Mexican,27,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-06-03,JT031800,2022-08-09,1,5.966666667,179,femenino,JUAREZ,Mexican,30,solter,0
+POS538,VS1,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-06-03,JT031800,2023-01-26,0,1.3,39,femenino,TUXTEPEC,Mexican,31,U.Libr,2
+POS347,LOG,S5,Direct,32160,Vol-Prob personales y/o fam.,DNO,2023-07-03,JS011500,2022-01-12,1,3.2,96,masculino,DURANGO,Mexican,31,casad.,4
+POS2939,VS7,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2023-07-03,JF010600,2023-02-16,0,0.6333333333,19,masculino,COAHUILA,Mexican,19,solter,0
+POS2939,VS7,S5,Direct,32599,Vol-Cambio de domicilio,DO,2023-07-03,JF010600,2023-02-16,0,0.6333333333,19,masculino,MOTOZINTLA,Mexican,21,solter,0
+POS347,LOG,S5,Direct,32600,Vol-Prob personales y/o fam.,DNO,2023-07-03,JT012324,2021-04-15,2,23.03333333,691,masculino,DURANGO,Mexican,31,U.Libr,2
+POS538,VS9-ABS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-07-03,JT031800,2022-08-09,1,6,180,masculino,GENERAL SIMON BOLIVAR,Mexican,26,U.Libr,1
+POS1921,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-07-03,JS011500,2022-03-10,1,5.166666667,155,masculino,JUAREZ,Mexican,28,U.Libr,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-07-03,JF010600,2022-10-11,1,3.9,117,masculino,JUAREZ,Mexican,27,solter,1
+POS347,LOG,S5,Direct,32575,Vol-No regreso / no dio razón,DNO,2023-09-03,JT012324,2022-12-15,1,2.8,84,masculino,OAXACA,Mexican,24,solter,0
+POS2076,HRL,S6,Exempt,32540,Vol-Otro empleo,E3,2023-10-03,ADMINIST,2018-10-18,5,53.46666667,1604,femenino,JUAREZ,Mexican,48,casad.,2
+POS2803,VS1,S5,Direct,32696,Imp.Tra-LFT y/o Reglamento int,DNO,2023-10-03,JS011500,2018-09-13,5,54.63333333,1639,masculino,CHIHUAHUA,Mexican,28,solter,0
+POS347,LOG,S5,Direct,32575,Vol-No regreso / no dio razón,DNO,2023-03-13,JF010600,2022-08-12,1,3.166666667,95,masculino,JUAREZ,Mexican,37,U.Libr,5
+POS538,VS1,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-03-13,JT031800,2023-02-16,0,0.8333333333,25,femenino,VERACRUZ,Mexican,41,casad.,3
+POS1323,VS9-ABS,S5,Direct,32599,Vol-Ambiente de trabajo,DO,2023-03-14,JF010600,2022-11-24,1,3.666666667,110,masculino,CHIHUAHUA,Mexican,20,solter,0
+POS2939,VS5,S5,Direct,32599,Vol-Insatisfacción personal,DO,2023-03-14,JT012324,2023-01-17,0,1.866666667,56,femenino,PENJAMO,Mexican,39,casad.,4
+POS2939,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-03-14,JF010600,2023-09-02,0,1.1,33,femenino,DURANGO,Mexican,19,solter,0
+POS1376,MFS,S5,Direct,32575,Vol-Otro empleo,DNO,2023-03-14,JS011500,2015-04-03,8,97.73333333,2932,masculino,TATAUICAPAN,Mexican,31,U.Libr,2
+POS1323,VS1-HOUS,S5,Direct,32575,Vol-Otro empleo,DO,2023-03-14,JS011500,2022-06-10,1,5.3,159,masculino,CHIHUAHUA,Mexican,28,solter,0
+POS1323,VS9-ABS,S5,Direct,32695,Vol-Prob personales y/o fam.,DO,2023-03-14,JS011500,2022-01-12,1,3.433333333,103,masculino,GOMEZ PALACIO,Mexican,46,solter,0
+POS1323,VS9-ABS,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2023-03-15,JF010600,2022-08-12,1,3.233333333,97,masculino,CHIHUAHUA,Mexican,35,solter,0
+POS2939,VS4,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-03-15,JT012324,2023-09-02,0,1.133333333,34,masculino,CHIHUAHUA,Mexican,26,U.Libr,0
+POS907,VS9-ABS,S6,Exempt,32546,Vol-Otro empleo,E4,2023-03-17,ADMINIST,2013-03-18,10,121.7,3651,masculino,TORREON,Mexican,51,casad.,3
+POS1921,MFS,S5,Direct,32599,Vol-Transferencia entre planta,DO,2023-03-17,JS011500,2021-07-01,2,26.63333333,799,femenino,JUAREZ,Mexican,26,solter,1
+POS347,LOG,S5,Direct,32594,Vol-Otro empleo,DNO,2023-03-21,JS011500,2022-01-12,1,3.666666667,110,masculino,VERACRUZ,Mexican,27,U.Libr,1
+POS1323,VS9-ABS,S5,Direct,32599,Vol-Insatisfacción personal,DO,2023-03-21,JF010600,2022-09-29,1,5.766666667,173,masculino,JUAREZ,Mexican,19,solter,0
+POS2939,VS9-ABS,S5,Direct,32599,Vol-Cambio de domicilio,DO,2023-03-21,JF010600,2023-05-01,0,2.5,75,femenino,JUAREZ,Mexican,20,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-03-21,JT031800,2023-10-01,0,2.333333333,70,masculino,JUAREZ,Mexican,25,casad.,2
+POS2939,VS5,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2023-03-21,JS011500,2023-10-01,0,2.333333333,70,femenino,DURANGO,Mexican,33,solter,1
+POS538,VS1,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-03-21,JT031800,2023-09-02,0,1.333333333,40,femenino,JUAREZ,Mexican,23,solter,1
+POS2939,VS1-HOUS,S5,Direct,32695,Vol-Transferencia entre planta,DO,2023-03-21,JF010600,2023-09-03,0,0.4,12,masculino,JUAREZ,Mexican,19,solter,0
+POS1380,MFS,S5,Direct,32576,Vol-Insatisfacción personal,DO,2023-03-21,JF060600,2017-01-18,6,75.1,2253,masculino,JUAREZ,Mexican,25,solter,0
+POS347,LOG,S5,Direct,32500,Vol-Prob personales y/o fam.,DNO,2023-03-21,JT012324,2017-03-08,6,68.53333333,2056,masculino,TUXTEPEC,Mexican,25,solter,0
+POS1230,VS7,S5,Direct,32200,Vol-Otro empleo,DNO,2023-03-21,JS011500,2013-06-02,10,123.1666667,3695,masculino,VERACRUZ,Mexican,41,casad.,2
+POS1323,VS7,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-03-21,JF010600,2016-09-21,7,79.06666667,2372,femenino,OAXACA,Mexican,35,solter,0
+POS2939,VS9-ABS,S5,Direct,32570,Vol-Estudios,DO,2023-03-21,JS011500,2022-12-29,1,2.733333333,82,masculino,JUAREZ,Mexican,19,solter,0
+POS841,HRL,S6,Managers,32472,Vol-Transferencia entre planta,SL1,2023-03-24,ADMINIST,2012-09-01,11,136.4,4092,masculino,JUAREZ,Mexican,33,solter,0
+POS1230,VS5,S5,Direct,32573,Vol-Transferencia entre planta,DNO,2023-03-24,ADMINIST,2014-10-22,9,102.5,3075,masculino,JUAREZ,Mexican,34,solter,0
+POS907,VS9-ABS,S6,Exempt,32668,Vol-Transferencia entre planta,E3,2023-03-25,ADMINIST,2016-05-18,7,83.4,2502,femenino,PARRAL,Mexican,42,solter,0
+POS2167,TEF,S5,Direct,32594,Vol-Prob personales y/o fam.,DNO,2023-03-28,JS011500,2016-08-31,7,80,2400,masculino,JUAREZ,Mexican,27,solter,1
+POS1323,VS9-ABS,S5,Direct,32584,Vol-Insatisfacción personal,DO,2023-03-28,JT012324,2018-12-13,5,52.2,1566,femenino,JUAREZ,Mexican,32,U.Libr,2
+POS1230,VS1,S5,Direct,32575,Vol-Otro empleo,DNO,2023-03-28,JF010600,2022-12-22,1,3.2,96,masculino,DURANGO,Mexican,24,casad.,2
+POS538,VS5,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-03-28,JT031800,2023-10-01,0,2.566666667,77,femenino,JUAREZ,Mexican,19,solter,0
+POS2939,VS1-HOUS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-03-28,JT012324,2023-01-17,0,2.333333333,70,femenino,JUAREZ,Mexican,26,solter,3
+POS2939,VS5,S5,Direct,32660,Vol-Otro empleo,DO,2023-03-28,JF010600,2023-01-26,0,2.033333333,61,femenino,JUAREZ,Mexican,31,U.Libr,3
+POS1376,VS5,S5,Direct,32585,Vol-Prob personales y/o fam.,DNO,2023-03-28,JF010600,2015-02-25,8,98.43333333,2953,masculino,COATZACOALCOS,Mexican,31,U.Libr,2
+POS907,VS4,S6,Exempt,32540,Vol-Otro empleo,E4,2023-03-31,ADMINIST,2006-03-13,17,207.5666667,6227,masculino,PARRAL,Mexican,48,casad.,2
+POS538,VS1-HOUS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-03-04,JT031800,2022-11-24,1,4.333333333,130,femenino,JUAREZ,Mexican,18,solter,0
+POS538,VS5,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-03-04,JF060600,2022-12-15,1,3.633333333,109,femenino,CHIHUAHUA,Mexican,20,U.Libr,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-03-04,JT031800,2022-12-22,1,3.4,102,femenino,SAN LUCAS OJITLAN,Mexican,51,U.Libr,4
+POS1380,MFS,S5,Direct,32600,Vol-No regreso / no dio razón,DO,2023-03-04,JT031800,2023-05-01,0,2.933333333,88,femenino,JUAREZ,Mexican,23,solter,0
+POS347,LOG,S5,Direct,32580,Vol-Prob personales y/o fam.,DNO,2023-04-04,JS011500,2023-02-23,0,1.333333333,40,masculino,DURANGO,Mexican,42,casad.,4
+POS1380,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-04-04,JF060600,2022-01-09,1,7.166666667,215,masculino,VERACRUZ,Mexican,40,casad.,3
+POS538,VS9-ABS,S5,Direct,32575,Vol-Estudios,DO,2023-04-04,JT031800,2022-12-29,1,3.2,96,masculino,JUAREZ,Mexican,21,solter,0
+POS2939,VS5,S5,Direct,32695,Vol-Prob personales y/o fam.,DO,2023-04-04,JF010600,2023-01-19,0,2.5,75,femenino,JUAREZ,Mexican,18,solter,0
+POS1661,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-04-04,JS011500,2023-02-03,0,1.1,33,femenino,VERACRUZ,Mexican,26,solter,2
+POS1323,VS4,S5,Direct,32696,Vol-Estudios,DO,2023-04-04,JS011500,2021-01-14,2,27,810,masculino,JUAREZ,Mexican,20,solter,0
+POS2817,LOG,S6,Exempt,32553,Vol-Otro empleo,E4,2023-06-04,ADMINIST,2010-08-23,13,153.6333333,4609,masculino,LOS MOCHIS,Mexican,44,casad.,1
+POS538,VS9-ABS,S5,Direct,32575,Vol-Estudios,DO,2023-11-04,JT031800,2022-03-11,1,5.3,159,femenino,SANTA BARBARA,Mexican,39,casad.,2
+POS2939,VS5,S5,Direct,32590,Vol-Estudios,DO,2023-11-04,JS011500,2023-12-01,0,2.966666667,89,femenino,JUAREZ,Mexican,21,solter,0
+POS2939,VS9-ABS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-11-04,JF010600,2023-01-19,0,2.733333333,82,femenino,JUAREZ,Mexican,44,casad.,1
+POS538,VS1,S5,Direct,3720,Vol-No regreso / no dio razón,DO,2023-11-04,JT031800,2023-02-02,0,2.266666667,68,femenino,JUAREZ,Mexican,24,U.Libr,1
+POS2939,VS7,S5,Direct,32599,Vol-Cambio de domicilio,DO,2023-11-04,JF010600,2023-02-23,0,1.566666667,47,femenino,COSAMALOAPAN DE CARPIO,Mexican,18,U.Libr,1
+POS2939,VS4,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-11-04,JF010600,2023-09-03,0,1.1,33,masculino,JUAREZ,Mexican,19,solter,0
+POS1373,QMM,S5,Direct,32573,Vol-Cambio de domicilio,DNO,2023-11-04,JF010600,2017-01-06,6,71.33333333,2140,masculino,DURANGO,Mexican,45,casad.,3
+POS1230,VS7,S5,Direct,32664,Vol-Transferencia entre planta,DNO,2023-04-14,JF010600,2021-10-14,2,18.23333333,547,masculino,CHIHUAHUA,Mexican,28,solter,0
+POS1323,VS9-ABS,S5,Direct,32107,Imp.Tra-Jubilación,DO,2023-04-14,JF010600,2006-03-04,17,207.3333333,6220,femenino,MATAMOROS,Mexican,56,casad.,2
+POS1921,MFS,S5,Direct,32576,Vol-Prob personales y/o fam.,DO,2023-04-18,JF010600,2019-10-01,4,51.96666667,1559,femenino,JUAREZ,Mexican,27,solter,0
+POS1323,VS1,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2023-04-18,JS011500,2019-01-24,4,51.5,1545,femenino,JUAREZ,Mexican,43,casad.,3
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Maternidad,DO,2023-04-18,JF010600,2020-10-29,3,30.03333333,901,femenino,CHIHUAHUA,Mexican,21,solter,0
+POS538,VS7,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-04-18,JT031800,2022-08-18,1,8.1,243,femenino,TATAHUICAPAN,Mexican,30,U.Libr,4
+POS1323,VS9-ABS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-04-18,JF010600,2022-01-12,1,4.6,138,femenino,JUAREZ,Mexican,33,U.Libr,3
+POS1323,VS9-ABS,S5,Direct,32574,Vol-Prob personales y/o fam.,DO,2023-04-18,JF010600,2022-08-12,1,4.366666667,131,masculino,JUAREZ,Mexican,34,U.Libr,2
+POS538,VS9-ABS,S5,Direct,32599,Vol-Estudios,DO,2023-04-18,JT031800,2022-12-15,1,4.133333333,124,femenino,JUAREZ,Mexican,21,solter,0
+POS2939,VS9-ABS,S5,Direct,32654,Vol-No regreso / no dio razón,DO,2023-04-18,JF010600,2023-02-03,0,1.566666667,47,femenino,CHIHUAHUA,Mexican,18,solter,0
+POS1661,MFS,S5,Direct,32599,Vol-Insatisfacción personal,DO,2023-04-18,JS011500,2023-03-23,0,0.8666666667,26,femenino,VERACRUZ,Mexican,36,solter,0
+POS2939,VS7,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2023-04-18,JS011500,2023-03-30,0,0.6333333333,19,femenino,COMALCALCO,Mexican,43,U.Libr,2
+POS2003,TEF,S5,Direct,32600,Vol-Cambio de domicilio,DNO,2023-04-18,ADMINIST,2017-01-18,6,76.03333333,2281,femenino,LERDO,Mexican,35,solter,1
+POS2003,VS5,S5,Direct,32575,Vol-Otro empleo,DO,2023-04-18,JF010600,2017-03-16,6,74.13333333,2224,masculino,VERACRUZ,Mexican,34,U.Libr,0
+POS538,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-04-24,JT031800,2022-03-10,1,6.766666667,203,masculino,VERACRUZ,Mexican,27,solter,0
+POS1323,VS9-ABS,S5,Direct,32540,Vol-No regreso / no dio razón,DO,2023-04-24,JF010600,2022-12-15,1,4.333333333,130,femenino,JUAREZ,Mexican,21,solter,0
+POS1323,VS5,S5,Direct,32590,Vol-Estudios,DO,2023-04-25,JT012324,2021-11-03,2,25.83333333,775,femenino,CHIHUAHUA,Mexican,20,solter,0
+POS1323,VS5,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-04-25,JS011500,2022-08-25,1,8.1,243,femenino,FRESNILLO,Mexican,36,U.Libr,3
+POS538,VS9-ABS,S5,Direct,32696,Vol-Prob personales y/o fam.,DO,2023-04-25,JF060600,2022-03-11,1,5.766666667,173,femenino,CHIHUAHUA,Mexican,22,solter,2
+POS1323,VS9-ABS,S5,Direct,32695,Vol-Transferencia entre planta,DO,2023-04-25,JS011500,2022-03-11,1,5.766666667,173,femenino,MATAMOROS,Mexican,30,U.Libr,1
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-04-25,JS011500,2022-11-24,1,5.066666667,152,femenino,CHIHUAHUA,Mexican,53,U.Libr,6
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-04-25,JS011500,2022-08-12,1,4.6,138,masculino,VERACRUZ,Mexican,41,casad.,3
+POS538,VS1,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-04-25,JT031800,2023-12-01,0,3.433333333,103,femenino,JUAREZ,Mexican,22,U.Libr,2
+POS1661,MFS,S5,Direct,32599,Vol-Cambio de domicilio,DO,2023-04-25,JS011500,2023-02-16,0,2.266666667,68,masculino,DURANGO,Mexican,25,casad.,1
+POS1323,VS1,S5,Direct,32599,Vol-Estudios,DO,2023-04-25,JF010600,2014-06-25,9,107.5333333,3226,femenino,VERACRUZ,Mexican,28,solter,0
+POS2939,VS1,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2023-04-25,JS011500,2023-03-16,0,1.333333333,40,femenino,JUAREZ,Mexican,43,U.Libr,4
+POS1380,MFS,S5,Direct,32575,Vol-Razones médicas,DO,2023-02-05,JT031800,2022-09-14,1,7.666666667,230,femenino,CHIHUAHUA,Mexican,44,solter,3
+POS1380,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-02-05,JF060600,2022-12-22,1,4.366666667,131,femenino,JUAREZ,Mexican,26,U.Libr,2
+POS1559,MFS,S5,Direct,32575,Vol-Otro empleo,DNO,2023-02-05,JF010600,2022-12-15,1,4.6,138,masculino,HUIMANGUILLO,Mexican,24,solter,0
+POS538,VS1,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-02-05,JT031800,2023-09-02,0,2.733333333,82,femenino,CHIHUAHUA,Mexican,22,solter,1
+POS1559,MFS,S5,Direct,32695,Vol-Insatisfacción personal,DNO,2023-02-05,JF010600,2023-03-16,0,1.566666667,47,masculino,PARRAL,Mexican,32,U.Libr,1
+POS538,VS1,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-02-05,JT031800,2023-09-02,0,2.733333333,82,masculino,MINATITLAN,Mexican,23,U.Libr,2
+POS2939,VS4,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-02-05,JS011500,2023-02-02,0,2.966666667,89,masculino,JUAREZ,Mexican,49,casad.,1
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Estudios,DO,2023-02-05,JS011500,2022-03-10,1,7.033333333,211,femenino,JUAREZ,Mexican,22,solter,1
+POS2939,VS5,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-02-05,JF010600,2023-01-26,0,3.2,96,masculino,JUAREZ,Mexican,19,solter,0
+POS538,VS9-ABS,S5,Direct,32696,Vol-Prob personales y/o fam.,DO,2023-02-05,JT031800,2022-03-11,1,6,180,femenino,JUAREZ,Mexican,25,solter,3
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-02-05,JT031800,2022-03-11,1,6,180,femenino,RAYA CARACOL,Mexican,21,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Otro empleo,DO,2023-02-05,JF060600,2022-03-11,1,6,180,femenino,MARTINEZ DE LA TORRE,Mexican,23,U.Libr,0
+POS1788,TEF,S6,Exempt,32553,Vol-Otro empleo,E4,2023-04-05,ADMINIST,2022-10-13,1,6.766666667,203,masculino,CHIHUAHUA,Mexican,46,casad.,1
+POS2939,VS5,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2023-04-05,JF010600,2023-01-26,0,3.266666667,98,femenino,TABASCO,Mexican,20,U.Libr,0
+POS1323,VS1,S5,Direct,32590,Vol-Transferencia entre planta,DO,2023-05-05,JS011500,2009-07-09,14,166.2666667,4988,femenino,VERACRUZ,Mexican,49,U.Libr,2
+POS1323,VS9-ABS,S5,Direct,32695,Vol-Transferencia entre planta,DO,2023-05-05,JS011500,2022-03-10,1,7.133333333,214,masculino,CHIHUAHUA,Mexican,20,U.Libr,1
+POS1230,VS4,S5,Direct,32600,Vol-Otro empleo,DNO,2023-09-05,JS011500,2019-12-09,4,44.5,1335,masculino,JUAREZ,Mexican,25,solter,0
+POS343,VS5,S6,Exempt,32699,Vol-Prob personales y/o fam.,E3,2023-09-05,JF050600,2018-04-01,5,65.03333333,1951,masculino,JUAREZ,Mexican,63,casad.,3
+POS1323,VS5,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2023-09-05,JF010600,2023-02-02,0,3.2,96,femenino,JUAREZ,Mexican,19,solter,0
+POS1323,VS7,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-09-05,JS011500,2022-06-10,1,7.166666667,215,masculino,CHIHUAHUA,Mexican,22,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-09-05,JT031800,2023-01-19,0,3.666666667,110,femenino,MINATITLAN,Mexican,23,solter,1
+POS2939,VS4,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-10-05,JT012324,2023-02-16,0,2.766666667,83,masculino,JUAREZ,Mexican,27,solter,0
+POS1921,MFS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2023-11-05,JF010600,2020-01-12,3,29.7,891,masculino,JUAREZ,Mexican,21,solter,0
+POS1323,VS9-ABS,S5,Direct,32551,Vol-Transferencia entre planta,DO,2023-12-05,JF010600,2023-05-01,0,4.233333333,127,femenino,JUAREZ,Mexican,20,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-12-05,JF010600,2022-09-14,1,8,240,femenino,DURANGO,Mexican,42,casad.,2
+POS1376,VS1,S5,Direct,32599,Vol-Transferencia entre planta,DNO,2023-12-05,JT012324,2015-03-18,8,99.23333333,2977,masculino,JUAREZ,Mexican,27,solter,0
+POS1323,VS9-ABS,S5,Direct,32510,Vol-Insatisfacción personal,DO,2023-12-05,JF010600,2023-05-01,0,4.233333333,127,masculino,JUAREZ,Mexican,28,solter,0
+POS1323,VS4,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-05-15,JS011500,2023-02-02,0,3.4,102,masculino,JUAREZ,Mexican,20,solter,0
+POS2939,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-05-15,JS011500,2023-03-30,0,1.533333333,46,femenino,JUAREZ,Mexican,41,divorc,3
+POS1380,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-05-16,JT031800,2022-08-09,1,8.333333333,250,masculino,TUXTEPEC,Mexican,27,U.Libr,1
+POS1323,VS1-HOUS,S5,Direct,32590,Vol-Otro empleo,DO,2023-05-16,JF010600,2015-07-10,8,92.6,2778,femenino,TUXTEPEC,Mexican,47,casad.,3
+POS1323,VS4,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-05-16,JF010600,2019-05-12,4,41.93333333,1258,femenino,CHIHUAHUA,Mexican,21,solter,0
+POS347,LOG,S5,Direct,32422,Vol-Prob personales y/o fam.,DNO,2023-05-16,JF010600,2017-02-11,6,67.36666667,2021,femenino,TUXTEPEC,Mexican,30,solter,1
+POS347,LOG,S5,Direct,32599,Vol-Insatisfacción personal,DNO,2023-05-16,JT012324,2016-12-14,7,78.13333333,2344,masculino,ORIZABA,Mexican,28,U.Libr,1
+POS1745,MFS,S5,Direct,32599,Vol-Otro empleo,DNO,2023-05-16,ADMINIST,2016-11-23,7,78.83333333,2365,masculino,JUAREZ,Mexican,25,solter,0
+POS1323,VS7,S5,Direct,32576,Vol-Prob personales y/o fam.,DO,2023-05-16,JS011500,2020-01-10,3,31.9,957,masculino,GUERRERO,Mexican,44,casad.,3
+POS538,VS9-ABS,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2023-05-16,JT031800,2019-07-03,4,51.03333333,1531,femenino,DURANGO,Mexican,42,solter,4
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-05-16,JF010600,2020-01-30,3,40.06666667,1202,femenino,JUAREZ,Mexican,31,solter,1
+POS538,VS9-ABS,S5,Direct,32590,Vol-Insatisfacción personal,DO,2023-05-16,JT031800,2022-03-11,1,6.466666667,194,masculino,TORREON,Mexican,53,casad.,4
+POS538,VS9-ABS,S5,Direct,32590,Vol-Transferencia entre planta,DO,2023-05-16,JF060600,2022-12-29,1,4.6,138,masculino,JUAREZ,Mexican,21,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-05-16,JT031800,2023-05-01,0,4.366666667,131,femenino,DURANGO,Mexican,38,casad.,3
+POS2847,TEF,S6,Exempt,32696,Muerte Accidental,E3,2023-05-19,ADMINIST,2019-08-22,4,45.53333333,1366,masculino,CHIHUAHUA,Mexican,26,solter,0
+POS970,HSE,S6,Exempt,32659,Imp.Pat-Terminación del contra,E4,2023-05-19,ADMINIST,2020-08-25,3,33.23333333,997,masculino,JUAREZ,Mexican,32,solter,0
+POS514,LOG,S6,Exempt,32389,Imp.Tra-Bajo desempeño,E3,2023-05-19,ADMINIST,2022-06-30,1,10.76666667,323,masculino,CHIHUAHUA,Mexican,24,solter,0
+POS1230,VS9-ABS,S5,Direct,32340,Vol-Transferencia entre planta,DNO,2023-05-19,JF010600,2023-05-01,0,4.466666667,134,femenino,CHIHUAHUA,Mexican,22,solter,0
+POS977,VS5,S6,Managers,32472,Imp.Pat-Terminación del contra,SL1,2023-05-19,JF010600,2018-11-01,5,65.13333333,1954,femenino,JUAREZ,Mexican,48,casad.,3
+POS1376,VS7,S5,Direct,32599,Imp.Tra-Jubilación,DNO,2023-05-19,JT021800,2008-05-19,15,182.6,5478,masculino,GUANAJUATO,Mexican,62,casad.,0
+POS2456,VS5,S5,Direct,32599,Vol-Transferencia entre planta,DNO,2023-05-19,JF010600,2010-02-07,13,156.8,4704,masculino,JUAREZ,Mexican,31,casad.,0
+POS1380,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-05-22,JT031800,2023-05-01,0,4.566666667,137,femenino,CHIHUAHUA,Mexican,24,solter,1
+POS1380,MFS,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2023-05-23,JF060600,2020-03-19,3,38.66666667,1160,femenino,JUAREZ,Mexican,25,solter,3
+POS1921,MFS,S5,Direct,32594,Vol-Prob personales y/o fam.,DO,2023-05-23,JF010600,2017-07-20,6,71.1,2133,femenino,JUAREZ,Mexican,24,U.Libr,0
+POS538,VS1,S5,Direct,32575,Vol-Razones médicas,DO,2023-05-23,JT031800,2023-09-02,0,3.433333333,103,femenino,JUAREZ,Mexican,32,casad.,4
+POS1323,VS4,S5,Direct,32575,Vol-Otro empleo,DO,2023-05-23,JT012324,2023-02-16,0,3.2,96,masculino,JUAREZ,Mexican,20,solter,0
+POS2939,VS4,S5,Direct,32590,Vol-Transferencia entre planta,DO,2023-05-23,JS011500,2023-03-23,0,2.033333333,61,femenino,VERACRUZ,Mexican,43,casad.,3
+POS1323,VS5,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-05-23,JS011500,2018-11-22,5,54.76666667,1643,femenino,COAHUILA,Mexican,41,solter,3
+POS2939,VS7,S5,Direct,32698,Vol-Prob personales y/o fam.,DO,2023-05-23,JF010600,2023-03-30,0,1.8,54,femenino,JUAREZ,Mexican,24,casad.,3
+POS2939,VS7,S5,Direct,32575,Vol-Estudios,DO,2023-05-23,JS011500,2023-05-04,0,1.6,48,masculino,CHIHUAHUA,Mexican,23,solter,1
+POS1111,TEF,S5,Indirect,32575,Vol-Otro empleo,DNO,2023-05-23,ADMINIST,2017-01-02,6,76.73333333,2302,masculino,JUAREZ,Mexican,44,casad.,3
+POS347,LOG,S5,Direct,32575,Vol-Estudios,DNO,2023-05-23,JT021800,2017-07-09,6,69.46666667,2084,femenino,JUAREZ,Mexican,24,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Razones médicas,DO,2023-05-23,JT012324,2022-01-09,1,8.8,264,femenino,JUAREZ,Mexican,35,U.Libr,2
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-05-23,JS011500,2022-09-14,1,8.366666667,251,femenino,JUAREZ,Mexican,23,solter,4
+POS538,VS9-ABS,S5,Direct,32583,Vol-Otro empleo,DO,2023-05-23,JT031800,2022-12-29,1,4.833333333,145,femenino,CULIACAN,Mexican,31,casad.,1
+POS538,VS9-ABS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-05-23,JT031800,2023-10-01,0,4.433333333,133,femenino,VERACRUZ,Mexican,33,solter,3
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-05-23,JT031800,2014-03-12,9,103.1,3093,femenino,CIHUATLAN,Mexican,38,divorc,3
+POS2939,VS1-HOUS,S5,Direct,32590,Vol-Insatisfacción personal,DO,2023-05-23,JS011500,2023-03-23,0,2.033333333,61,femenino,HIDALGO,Mexican,50,casad.,3
+POS2718,VS7,S5,Indirect,32471,Vol-Transferencia entre planta,DNO,2023-05-26,ADMINIST,2017-06-07,6,71.66666667,2150,femenino,JUAREZ,Mexican,27,solter,0
+POS1227,LOG,S6,Exempt,32563,Vol-Transferencia entre planta,E3,2023-05-26,ADMINIST,2016-02-16,7,88.53333333,2656,femenino,MIGUEL HIDALGO,Mexican,34,solter,0
+POS1884,DBE,S6,Exempt,32350,Vol-Otro empleo,E3,2023-05-26,ADMINIST,2016-08-16,7,82.46666667,2474,masculino,QUERETARO,Mexican,31,solter,0
+POS2003,MFS,S5,Direct,32575,Imp.Tra-LFT y/o Reglamento int,DO,2023-05-28,JT021800,2015-10-28,8,92.3,2769,masculino,JUAREZ,Mexican,43,U.Libr,4
+POS347,LOG,S5,Direct,32599,Imp.Tra-LFT y/o Reglamento int,DNO,2023-05-28,JS011500,2019-08-29,4,45.6,1368,masculino,COAHUILA,Mexican,50,casad.,2
+POS538,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-05-29,JF060600,2023-05-04,0,1.8,54,femenino,CHIHUAHUA,Mexican,18,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-05-29,JF010600,2017-11-01,6,77.63333333,2329,masculino,CIUDAD DE MEXICO,Mexican,29,U.Libr,0
+POS347,LOG,S5,Direct,32130,Imp.Tra-LFT y/o Reglamento int,DNO,2023-05-30,JT021800,2004-12-04,19,232.9,6987,femenino,JUAREZ,Mexican,41,viud.,4
+POS1921,MFS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-05-30,JS011500,2023-01-17,0,4.433333333,133,masculino,VERACRUZ,Mexican,32,solter,0
+POS1921,MFS,S5,Direct,32590,Vol-Cambio de domicilio,DO,2023-05-30,JF010600,2013-05-13,10,122.3,3669,femenino,JUAREZ,Mexican,46,solter,3
+POS1323,VS1,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-05-30,JF010600,2023-09-02,0,3.666666667,110,masculino,OAXACA,Mexican,21,solter,0
+POS2939,VS4,S5,Direct,32599,Vol-Transferencia entre planta,DO,2023-05-30,JT012324,2023-03-23,0,2.266666667,68,femenino,CHIHUAHUA,Mexican,22,U.Libr,2
+POS538,VS5,S5,Direct,27000,Vol-Prob personales y/o fam.,DO,2023-05-30,JF060600,2022-10-20,1,7.4,222,masculino,ZACATECAS,Mexican,19,solter,0
+POS1323,VS5,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2023-05-30,JT012324,2023-12-01,0,4.6,138,femenino,JUAREZ,Mexican,24,solter,1
+POS2939,VS5,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2023-05-30,JS011500,2023-03-16,0,2.5,75,femenino,COAHUILA,Mexican,34,U.Libr,3
+POS2003,VS5,S5,Direct,32575,Vol-Otro empleo,DO,2023-05-30,JF050600,2015-08-04,8,99.13333333,2974,masculino,OCOSINGO,Mexican,26,solter,0
+POS538,VS7,S5,Direct,32599,Vol-Otro empleo,DO,2023-05-30,JT031800,2016-02-11,7,80,2400,femenino,JUAREZ,Mexican,25,solter,0
+POS1323,VS1,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2023-05-30,JS011500,2023-02-16,0,3.433333333,103,femenino,VERACRUZ,Mexican,45,solter,2
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-05-30,JF060600,2019-10-24,4,43.8,1314,femenino,JUAREZ,Mexican,36,U.Libr,2
+POS1376,VS1,S5,Direct,32699,Vol-Prob personales y/o fam.,DNO,2023-05-30,JF010600,2014-08-01,9,114.3,3429,femenino,VERACRUZ,Mexican,34,casad.,3
+POS538,VS9-ABS,S5,Direct,32598,Vol-No regreso / no dio razón,DO,2023-05-30,JT031800,2023-01-17,0,4.433333333,133,masculino,SAN LUCAS OJITLAN,Mexican,23,solter,0
+POS1323,VS1,S5,Direct,32598,Vol-Otro empleo,DO,2023-05-30,JS011500,2019-09-24,4,44.8,1344,femenino,OAXACA,Mexican,28,solter,0
+POS2062,VS4,S6,Exempt,32600,Vol-Otro empleo,E3,2023-01-06,ADMINIST,2017-03-16,6,75.6,2268,masculino,SINALOA,Mexican,36,casad.,0
+POS1323,VS9-ABS,S5,Direct,32599,Vol-Transferencia entre planta,DO,2023-02-06,JF010600,2017-02-11,6,67.93333333,2038,femenino,IRAPUATO,Mexican,25,solter,0
+POS538,VS1,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-05-06,JF060600,2023-09-03,0,2.933333333,88,femenino,CAMARGO,Mexican,29,casad.,2
+POS1683,CTG,S6,Exempt,32575,Vol-Transferencia entre planta,E4,2023-05-06,ADMINIST,2013-07-15,10,120.4,3612,masculino,DURANGO,Mexican,32,solter,0
+POS347,LOG,S5,Direct,32575,Vol-No regreso / no dio razón,DNO,2023-05-06,JF010600,2016-02-24,7,88.6,2658,masculino,PANUCO DE CORONADO,Mexican,30,U.Libr,4
+POS347,LOG,S5,Direct,32575,Vol-Otro empleo,DNO,2023-06-06,JS011500,2018-05-17,5,61.53333333,1846,masculino,TORREON,Mexican,33,casad.,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-06-06,JT031800,2022-01-12,1,6.233333333,187,femenino,VERACRUZ,Mexican,27,solter,1
+POS1323,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-06-06,JS011500,2022-08-12,1,6,180,femenino,VERACRUZ,Mexican,26,solter,0
+POS1380,MFS,S5,Direct,32695,Vol-Razones médicas,DO,2023-06-06,JT031800,2023-05-01,0,5.066666667,152,femenino,CHIHUAHUA,Mexican,49,solter,2
+POS1380,MFS,S5,Direct,32695,Vol-Cambio de domicilio,DO,2023-06-06,JF060600,2017-04-05,6,74.13333333,2224,femenino,JUAREZ,Mexican,26,solter,1
+POS2003,MFS,S5,Direct,32599,Imp.Tra-LFT y/o Reglamento int,DO,2023-06-06,JF010600,2011-04-13,12,147.9,4437,masculino,JUAREZ,Mexican,39,U.Libr,1
+POS1323,VS1,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-06-06,JF010600,2017-08-31,6,70.16666667,2105,femenino,MINATITLAN,Mexican,37,casad.,0
+POS1323,VS4,S5,Direct,32574,Vol-Prob personales y/o fam.,DO,2023-06-06,JT012324,2023-02-16,0,3.666666667,110,masculino,JUAREZ,Mexican,29,solter,2
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-09-06,JS011500,2022-08-12,1,6.1,183,femenino,OAXACA,Mexican,21,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-12-06,JT031800,2022-12-29,1,5.5,165,femenino,VERACRUZ,Mexican,36,U.Libr,2
+POS538,VS5,S5,Direct,32575,Vol-Otro empleo,DO,2023-06-13,JT031800,2022-08-25,1,9.733333333,292,masculino,JUAREZ,Mexican,21,solter,0
+POS538,VS9-ABS,S5,Direct,32576,Vol-Otro empleo,DO,2023-06-13,JT031800,2022-08-09,1,9.266666667,278,masculino,JUAREZ,Mexican,24,U.Libr,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Otro empleo,DO,2023-06-13,JF060600,2022-08-09,1,9.266666667,278,femenino,JUAREZ,Mexican,28,casad.,1
+POS1323,VS1-HOUS,S5,Direct,32575,Vol-Estudios,DO,2023-06-13,JF010600,2022-09-29,1,8.566666667,257,femenino,CHIHUAHUA,Mexican,21,solter,0
+POS1323,VS5,S5,Direct,32575,Vol-Matrimonio,DO,2023-06-13,JT012324,2023-12-01,0,5.066666667,152,femenino,ARRIAGA,Mexican,30,U.Libr,2
+POS2939,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-06-13,JT012324,2023-03-30,0,2.5,75,femenino,JUAREZ,Mexican,25,solter,2
+POS1323,VS9-ABS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2023-06-13,JS011500,2023-02-02,0,4.366666667,131,femenino,COAHUILA,Mexican,38,U.Libr,3
+POS2939,VS7,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-06-14,JT012324,2023-01-06,0,0.4333333333,13,femenino,CHIAPAS,Mexican,24,solter,0
+POS2939,VS7,S5,Direct,32576,Vol-No regreso / no dio razón,DO,2023-06-14,JT012324,2023-01-06,0,0.4333333333,13,femenino,DURANGO,Mexican,24,solter,1
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-06-15,JF010600,2023-01-06,0,0.4666666667,14,femenino,CHIHUAHUA,Mexican,24,U.Libr,1
+POS1116,LOG,S6,Managers,32548,Vol-Transferencia entre planta,SL1,2023-06-16,ADMINIST,2008-12-05,15,183.7666667,5513,femenino,QUERETARO,Mexican,38,casad.,0
+POS1376,VS5,S5,Direct,32560,Imp.Tra-Jubilación,DNO,2023-06-16,JF010600,2012-04-09,11,131.2333333,3937,femenino,JUAREZ,Mexican,60,solter,1
+POS1323,VS9-ABS,S5,Direct,32500,Vol-Cambio de domicilio,DO,2023-06-20,JF010600,2018-08-16,5,58.96666667,1769,masculino,ZACATECAS,Mexican,28,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-06-20,JF010600,2019-08-22,4,46.6,1398,femenino,JUAREZ,Mexican,24,solter,0
+POS538,VS9-ABS,S5,Direct,32599,Vol-Estudios,DO,2023-06-20,JF060600,2021-07-01,2,29.8,894,femenino,JUAREZ,Mexican,22,solter,0
+POS1380,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-06-20,JT031800,2022-08-09,1,9.5,285,masculino,JUAREZ,Mexican,28,U.Libr,2
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-06-20,JT031800,2023-10-01,0,5.366666667,161,femenino,JUAREZ,Mexican,19,solter,0
+POS1380,MFS,S5,Direct,32695,Vol-Estudios,DO,2023-06-20,JT031800,2023-02-16,0,4.133333333,124,masculino,JUAREZ,Mexican,23,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Otro empleo,DO,2023-06-20,JT012324,2007-01-18,16,199.9,5997,femenino,ENSENADA,Mexican,41,U.Libr,3
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-06-20,JS011500,2019-08-22,4,46.6,1398,femenino,DELICIAS,Mexican,37,U.Libr,3
+POS1323,VS9-ABS,S5,Direct,32699,Vol-No regreso / no dio razón,DO,2023-06-22,JS011500,2020-10-12,3,30.8,924,femenino,JUAREZ,Mexican,21,solter,0
+POS2939,VS9-ABS,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2023-06-22,JS011500,2023-01-06,0,0.7,21,femenino,COMONDU,Mexican,31,U.Libr,3
+POS1323,VS1,S5,Direct,32584,Vol-Transferencia entre planta,DO,2023-06-23,JT012324,2014-05-11,9,105.0666667,3152,femenino,JUAREZ,Mexican,31,U.Libr,2
+POS1323,VS9-ABS,S5,Direct,32594,Vol-Transferencia entre planta,DO,2023-06-23,JF010600,2015-03-18,8,100.6333333,3019,femenino,TRES VALLES,Mexican,48,casad.,3
+POS251,HSE,S6,Exempt,32553,Vol-Transferencia entre planta,E3,2023-06-24,ADMINIST,2020-05-11,3,32.03333333,961,femenino,CHIHUAHUA,Mexican,28,solter,0
+POS2858,QMM,S6,Exempt,32400,Vol-Transferencia entre planta,E3,2023-06-25,ADMINIST,2018-11-10,5,57.26666667,1718,masculino,JUAREZ,Mexican,35,solter,0
+POS538,VS9-ABS,S5,Direct,32551,Vol-No regreso / no dio razón,DO,2023-06-26,JT031800,2023-05-01,0,5.733333333,172,femenino,JUAREZ,Mexican,21,solter,0
+POS1230,VS9-ABS,S5,Direct,32575,Vol-Otro empleo,DNO,2023-06-27,JS011500,2015-02-09,8,95.16666667,2855,masculino,CAMARGO,Mexican,28,solter,1
+POS1921,MFS,S5,Direct,32599,Vol-Insatisfacción personal,DO,2023-06-27,JS011500,2018-11-15,5,56.16666667,1685,femenino,COAHUILA,Mexican,36,casad.,1
+POS1921,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-06-27,JS011500,2020-03-19,3,39.83333333,1195,femenino,OAXACA,Mexican,34,casad.,2
+POS1921,MFS,S5,Direct,32560,Vol-Cambio de domicilio,DO,2023-06-27,JF010600,2021-11-02,2,28.86666667,866,femenino,JUAREZ,Mexican,21,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-06-27,JS011500,2022-07-21,1,11.36666667,341,femenino,DURANGO,Mexican,32,U.Libr,0
+POS1380,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-06-27,JT031800,2022-09-22,1,9.266666667,278,femenino,JUAREZ,Mexican,22,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-06-27,JT012324,2022-08-12,1,6.7,201,femenino,CHIHUAHUA,Mexican,30,divorc,3
+POS538,VS9-ABS,S5,Direct,32590,Vol-Estudios,DO,2023-06-27,JT031800,2022-12-22,1,6.233333333,187,masculino,JUAREZ,Mexican,18,solter,0
+POS1323,VS5,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-06-27,JT012324,2023-12-01,0,5.533333333,166,femenino,JUAREZ,Mexican,25,solter,1
+POS538,VS1,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-06-27,JT031800,2023-09-02,0,4.6,138,femenino,PIJIJIAPAN,Mexican,22,U.Libr,1
+POS1921,MFS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-06-27,JS011500,2018-11-01,5,66.43333333,1993,masculino,VERACRUZ,Mexican,28,casad.,1
+POS1921,MFS,S5,Direct,32599,Vol-Insatisfacción personal,DO,2023-06-27,JS011500,2017-07-20,6,72.26666667,2168,femenino,CHIHUAHUA,Mexican,38,casad.,5
+POS2003,VS1-HOUS,S5,Direct,32576,Vol-Maternidad,DO,2023-06-27,JF050600,2015-08-04,8,100.0666667,3002,femenino,JUAREZ,Mexican,32,solter,1
+POS1323,VS9-ABS,S5,Direct,32550,Vol-Prob personales y/o fam.,DO,2023-06-27,JS011500,2022-08-09,1,9.733333333,292,femenino,SAN LUCAS OJITLAN,Mexican,20,solter,0
+POS2858,QMM,S6,Exempt,32469,Vol-Otro empleo,E3,2023-06-30,ADMINIST,2018-01-02,5,65.83333333,1975,masculino,CHIHUAHUA,Mexican,29,solter,0
+POS1323,VS7,S5,Direct,32215,Imp.Tra-Jubilación,DO,2023-06-30,JT012324,2005-08-08,18,217.8333333,6535,femenino,JUAREZ,Mexican,58,casad.,3
+POS1323,VS4,S5,Direct,32575,Imp.Tra-Jubilación,DO,2023-06-30,JF010600,2005-10-24,18,215.2666667,6458,masculino,JUAREZ,Mexican,55,casad.,0
+POS2803,VS4,S5,Direct,32472,Muerte Natural,DNO,2023-03-07,JT021800,2013-07-31,10,120.8,3624,masculino,JUAREZ,Mexican,53,casad.,3
+POS1559,MFS,S5,Direct,32500,Vol-Otro empleo,DNO,2023-04-07,JT021800,2019-02-14,4,53.36666667,1601,masculino,JUAREZ,Mexican,23,solter,0
+POS750,TEF,S5,Indirect,32583,Vol-Otro empleo,DNO,2023-04-07,ADMINIST,2019-08-08,4,47.53333333,1426,masculino,CHIHUAHUA,Mexican,26,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-04-07,JT012324,2020-10-15,3,33.06666667,992,femenino,CHIHUAHUA,Mexican,45,U.Libr,4
+POS538,VS9-ABS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-04-07,JT031800,2022-01-12,1,7.166666667,215,femenino,VERACRUZ,Mexican,31,casad.,2
+POS1380,MFS,S5,Direct,32500,Vol-Insatisfacción personal,DO,2023-04-07,JF060600,2022-12-22,1,6.466666667,194,femenino,CHIHUAHUA,Mexican,21,solter,0
+POS1380,MFS,S5,Direct,32695,Vol-Insatisfacción personal,DO,2023-04-07,JT031800,2023-05-01,0,6,180,femenino,VERACRUZ,Mexican,39,casad.,2
+POS1323,VS5,S5,Direct,32720,Imp.Tra-Ausentismos continuos,DO,2023-04-07,JS011500,2023-01-26,0,5.3,159,femenino,SAN LUCAS OJITLAN,Mexican,18,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-04-07,JS011500,2023-02-02,0,5.066666667,152,masculino,JUAREZ,Mexican,20,solter,0
+POS2939,VS7,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2023-05-07,JT012324,2023-05-25,0,1.366666667,41,femenino,CHIHUAHUA,Mexican,31,solter,1
+POS2939,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-05-07,JT012324,2023-05-25,0,1.366666667,41,femenino,GUANAJUATO,Mexican,24,solter,1
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-07-07,JF010600,2023-02-03,0,4.233333333,127,masculino,CHIHUAHUA,Mexican,24,solter,0
+POS538,VS1,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-10-07,JT031800,2023-10-01,0,6.033333333,181,femenino,DURANGO,Mexican,25,solter,0
+POS538,VS7,S5,Direct,32696,Vol-No regreso / no dio razón,DO,2023-10-07,JT031800,2023-01-06,0,1.3,39,masculino,VERACRUZ,Mexican,21,solter,0
+POS1380,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-10-07,JF060600,2016-12-21,7,79.73333333,2392,femenino,TORREON,Mexican,31,solter,2
+POS347,LOG,S5,Direct,32599,Imp.Tra-LFT y/o Reglamento int,DNO,2023-10-07,JF010600,2016-06-01,7,91.4,2742,masculino,JUAREZ,Mexican,27,casad.,2
+POS1921,MFS,S5,Direct,32590,Vol-Insatisfacción personal,DO,2023-11-07,JS011500,2019-09-26,4,46.13333333,1384,masculino,TORREON,Mexican,57,solter,3
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-11-07,JT012324,2020-10-15,3,33.3,999,femenino,ZACATECAS,Mexican,45,casad.,3
+POS347,LOG,S5,Direct,32573,Vol-Otro empleo,DNO,2023-11-07,JF050600,2020-01-12,3,31.73333333,952,masculino,JUAREZ,Mexican,24,solter,0
+POS1559,MFS,S5,Direct,32310,Vol-Cambio de domicilio,DNO,2023-11-07,JF010600,2022-04-08,1,11.36666667,341,masculino,JUAREZ,Mexican,27,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-11-07,JT031800,2022-12-22,1,6.7,201,masculino,VERACRUZ,Mexican,32,solter,1
+POS1323,VS5,S5,Direct,32540,Imp.Tra-Ausentismos continuos,DO,2023-11-07,JF010600,2023-01-19,0,5.766666667,173,femenino,CHIHUAHUA,Mexican,39,U.Libr,1
+POS1323,VS5,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-11-07,JT012324,2023-02-23,0,4.6,138,masculino,JUAREZ,Mexican,19,U.Libr,0
+POS2003,TEF,S5,Direct,32599,Vol-Estudios,DNO,2023-11-07,ADMINIST,2023-04-20,0,2.733333333,82,masculino,JUAREZ,Mexican,23,solter,0
+POS2939,VS1,S5,Direct,32575,Vol-Razones médicas,DO,2023-11-07,JF010600,2023-06-15,0,0.8666666667,26,femenino,JUAREZ,Mexican,26,solter,1
+POS538,VS9-ABS,S5,Direct,32600,Vol-Estudios,DO,2023-11-07,JT031800,2023-06-15,0,0.8666666667,26,masculino,CHIHUAHUA,Mexican,19,solter,0
+POS1921,MFS,S5,Direct,32594,Vol-Prob personales y/o fam.,DO,2023-11-07,JF010600,2014-10-22,9,106.1333333,3184,masculino,CARDENAS,Mexican,30,casad.,1
+POS1376,VS7,S5,Direct,32594,Vol-Cambio de domicilio,DNO,2023-11-07,JF010600,2016-07-09,7,83.26666667,2498,masculino,CARDENAS,Mexican,30,solter,0
+POS1380,MFS,S5,Direct,32590,Vol-Otro empleo,DO,2023-07-18,JT031800,2022-09-22,1,9.966666667,299,masculino,CHIHUAHUA,Mexican,29,solter,0
+POS1921,MFS,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2023-07-18,JF010600,2022-09-22,1,9.966666667,299,femenino,JUAREZ,Mexican,38,U.Libr,3
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-07-18,JF060600,2022-11-17,1,8.1,243,masculino,VERACRUZ,Mexican,24,solter,1
+POS1921,MFS,S5,Direct,32551,Vol-Prob personales y/o fam.,DO,2023-07-18,JT012324,2023-05-01,0,6.466666667,194,femenino,VERACRUZ,Mexican,25,casad.,2
+POS347,LOG,S5,Direct,32594,Vol-Insatisfacción personal,DNO,2023-07-18,JF010600,2023-11-05,0,2.266666667,68,masculino,CHIHUAHUA,Mexican,43,casad.,2
+POS2939,VS9-ABS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-07-18,JS011500,2023-06-22,0,0.8666666667,26,masculino,VERACRUZ,Mexican,24,solter,0
+POS1323,VS1,S5,Direct,32600,Imp.Tra-Ausentismos continuos,DO,2023-07-18,JF010600,2018-11-01,5,67.13333333,2014,masculino,JUAREZ,Mexican,24,solter,0
+POS538,VS1,S5,Direct,32695,Vol-Prob personales y/o fam.,DO,2023-07-18,JF060600,2007-07-30,16,194.4,5832,femenino,SAN ANDRES OAXACA,Mexican,45,U.Libr,2
+POS2003,VS7,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-07-18,JS011500,2016-03-16,7,89.33333333,2680,masculino,MISANTLA,Mexican,45,solter,0
+POS2939,VS9-ABS,S5,Direct,32586,Vol-No regreso / no dio razón,DO,2023-07-19,JT012324,2023-06-22,0,0.9,27,femenino,JUAREZ,Mexican,27,casad.,2
+POS2939,VS9-ABS,S5,Direct,32586,Vol-No regreso / no dio razón,DO,2023-07-19,JT012324,2023-06-22,0,0.9,27,femenino,JUAREZ,Mexican,24,U.Libr,2
+POS347,LOG,S5,Direct,32575,Vol-No regreso / no dio razón,DNO,2023-07-19,JF010600,2014-10-27,9,106.2333333,3187,masculino,TORREON,Mexican,37,casad.,3
+POS1323,VS9-ABS,S5,Direct,32599,Vol-Transferencia entre planta,DO,2023-07-21,JF010600,2022-01-09,1,10.76666667,323,femenino,JUAREZ,Mexican,23,solter,0
+POS1323,VS9-ABS,S5,Direct,32599,Vol-Transferencia entre planta,DO,2023-07-21,JF010600,2013-03-07,10,122.3333333,3670,femenino,VERACRUZ,Mexican,38,casad.,2
+POS1323,VS1,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-07-24,JF010600,2018-08-23,5,59.86666667,1796,femenino,JUAREZ,Mexican,27,solter,0
+POS1921,MFS,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2023-07-24,JS011500,2023-09-03,0,4.566666667,137,masculino,SAN JUAN BAUTISTA,Mexican,30,casad.,2
+POS1380,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-07-24,JT031800,2023-06-29,0,0.8333333333,25,femenino,CHIHUAHUA,Mexican,18,U.Libr,0
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-07-25,JT012324,2023-03-30,0,3.9,117,femenino,DURANGO,Mexican,36,U.Libr,3
+POS1323,VS9-ABS,S5,Direct,27000,Vol-Transferencia entre planta,DO,2023-07-28,JS011500,2022-03-10,1,9.933333333,298,femenino,TAMAULIPAS,Mexican,43,divorc,2
+POS1230,VS4,S5,Direct,32190,Imp.Tra-Jubilación,DNO,2023-07-28,JS011500,2005-07-18,18,219.4666667,6584,masculino,JUAREZ,Mexican,55,casad.,4
+POS1230,VS9-ABS,S5,Direct,32600,Vol-Transferencia entre planta,DNO,2023-07-28,ADMINIST,2017-07-27,6,73.06666667,2192,masculino,CHIHUAHUA,Mexican,24,solter,0
+POS2553,LOG,S6,Exempt,32472,Vol-Otro empleo,E4,2023-07-28,ADMINIST,2016-02-16,7,90.63333333,2719,masculino,PARRAL,Mexican,48,solter,0
+POS1010,TEF,S6,Managers,32540,Vol-Transferencia entre planta,SL1,2023-07-29,ADMINIST,2001-04-23,22,271.0666667,8132,masculino,PARRAL,Mexican,51,casad.,2
+POS2094,TEF,S5,Indirect,32696,Vol-Transferencia entre planta,DNO,2023-07-29,ADMINIST,2016-08-06,7,86.9,2607,masculino,CHOAPAM,Mexican,46,casad.,0
+POS538,VS9-ABS,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2023-07-31,JT031800,2023-06-07,0,0.8333333333,25,masculino,OTEAPAN,Mexican,48,viud.,4
+POS1373,QMM,S5,Direct,32720,Vol-Otro empleo,DNO,2023-01-08,JF010600,2019-02-28,4,53.83333333,1615,femenino,JUAREZ,Mexican,27,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-01-08,JS011500,2020-01-16,3,43.1,1293,femenino,JUAREZ,Mexican,23,solter,0
+POS538,VS1-HOUS,S5,Direct,32575,Vol-Razones médicas,DO,2023-01-08,JF060600,2022-08-09,1,10.9,327,femenino,JUAREZ,Mexican,34,solter,3
+POS1380,MFS,S5,Direct,32695,Vol-Estudios,DO,2023-01-08,JT031800,2022-08-09,1,10.9,327,femenino,CHIHUAHUA,Mexican,26,solter,0
+POS538,VS9-ABS,S5,Direct,32590,Vol-Prob personales y/o fam.,DO,2023-01-08,JF060600,2023-02-03,0,5.066666667,152,femenino,CHIHUAHUA,Mexican,20,U.Libr,1
+POS538,VS7,S5,Direct,32590,Vol-Cambio de domicilio,DO,2023-01-08,JT031800,2023-04-20,0,3.433333333,103,masculino,ZACATECAS,Mexican,33,casad.,3
+POS347,LOG,S5,Direct,32575,Vol-No regreso / no dio razón,DNO,2023-01-08,JS011500,2023-07-13,0,0.6333333333,19,masculino,SAN LUCAS OJITLAN,Mexican,24,U.Libr,0
+POS2939,VS5,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-02-08,JF010600,2023-06-29,0,1.133333333,34,masculino,JUAREZ,Mexican,22,solter,0
+POS1111,VS5,S5,Indirect,32573,Vol-Transferencia entre planta,DNO,2023-04-08,JF010600,2019-11-03,4,53.56666667,1607,masculino,JUAREZ,Mexican,26,solter,0
+POS1181,LOG,S6,Exempt,32583,Vol-Otro empleo,E3,2023-04-08,ADMINIST,2021-09-12,2,20.1,603,masculino,CHIHUAHUA,Mexican,25,solter,1
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-04-08,JF010600,2022-01-12,1,8.2,246,femenino,CHIHUAHUA,Mexican,20,solter,1
+POS2939,VS7,S5,Direct,27000,Imp.Tra-Falsificación de docto,DO,2023-04-08,JS011500,2023-06-22,0,1.433333333,43,femenino,CHIHUAHUA,Mexican,24,solter,0
+POS2939,VS9-ABS,S5,Direct,32598,Vol-Transferencia entre planta,DO,2023-04-08,JF010600,2023-06-29,0,1.2,36,femenino,JUAREZ,Mexican,19,solter,0
+POS2939,VS5,S5,Direct,32599,Imp.Tra-Falsificación de docto,DO,2023-04-08,JS011500,2023-07-13,0,0.7333333333,22,masculino,JUAREZ,Mexican,23,solter,0
+POS1788,TEF,S6,Exempt,32560,Vol-Otro empleo,E4,2023-04-08,ADMINIST,2006-01-30,17,213.1666667,6395,masculino,JUAREZ,Mexican,48,casad.,3
+POS2802,TEF,S5,Direct,32575,Imp.Tra-Jubilación,DNO,2023-04-08,JF010600,2011-02-16,12,151.7333333,4552,femenino,JUAREZ,Mexican,55,U.Libr,3
+POS2939,VS7,S5,Direct,32598,Vol-No regreso / no dio razón,DO,2023-07-08,JT012324,2023-08-06,0,2,60,masculino,CHIHUAHUA,Mexican,35,U.Libr,2
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-08-08,JF010600,2019-04-04,4,52.9,1587,femenino,CIUDAD DE MEXICO,Mexican,23,solter,0
+POS538,VS1-HOUS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-08-08,JF060600,2019-07-25,4,49.16666667,1475,femenino,JUAREZ,Mexican,31,solter,3
+POS1323,VS5,S5,Direct,32575,Vol-Estudios,DO,2023-08-08,JT012324,2022-08-25,1,11.6,348,masculino,OAXACA,Mexican,19,solter,0
+POS2939,VS7,S5,Direct,32580,Vol-No regreso / no dio razón,DO,2023-08-08,JS011500,2023-08-06,0,2.033333333,61,femenino,CHIHUAHUA,Mexican,19,solter,0
+POS2939,VS9-ABS,S5,Direct,32599,Vol-Insatisfacción personal,DO,2023-08-08,JF010600,2023-08-06,0,2.033333333,61,masculino,OAXACA,Mexican,26,solter,0
+POS2939,VS9-ABS,S5,Direct,32552,Vol-Estudios,DO,2023-08-08,JF010600,2023-06-22,0,1.566666667,47,masculino,JUAREZ,Mexican,19,solter,0
+POS1380,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-08-08,JF060600,2013-07-17,10,122.4666667,3674,femenino,OCOSINGO,Mexican,30,casad.,1
+POS2003,MFS,S5,Direct,32599,Vol-Cambio de domicilio,DO,2023-08-08,JF050600,2016-03-02,7,91.43333333,2743,femenino,COSAMALOPAPAN,Mexican,34,solter,0
+POS2939,VS1-HOUS,S5,Direct,32600,Vol-Transferencia entre planta,DO,2023-11-08,JS011500,2019-10-24,4,46.23333333,1387,femenino,CHIHUAHUA,Mexican,22,solter,0
+POS1323,VS9-ABS,S5,Direct,32583,Vol-Transferencia entre planta,DO,2023-11-08,JS011500,2023-02-03,0,5.4,162,femenino,JUAREZ,Mexican,27,solter,0
+POS2988,TEF,S5,Direct,32422,Vol-Otro empleo,DNO,2023-08-15,JF010600,2018-01-02,5,67.36666667,2021,masculino,PUEBLA,Mexican,24,solter,0
+POS1380,MFS,S5,Direct,32576,Vol-Otro empleo,DO,2023-08-15,JF060600,2020-11-19,3,33.3,999,femenino,JUAREZ,Mexican,21,solter,0
+POS2718,VS1-HOUS,S5,Indirect,32674,Vol-Otro empleo,DNO,2023-08-15,JF010600,2021-04-15,2,28.4,852,femenino,CHIHUAHUA,Mexican,23,solter,0
+POS1323,VS9-ABS,S5,Direct,32546,Vol-Cambio de domicilio,DO,2023-08-15,JS011500,2022-04-08,1,12.53333333,376,masculino,MOLOACAN,Mexican,36,U.Libr,1
+POS1323,VS7,S5,Direct,32674,Vol-Transferencia entre planta,DO,2023-08-18,JF010600,2022-04-08,1,12.63333333,379,femenino,JUAREZ,Mexican,21,solter,0
+POS1921,MFS,S5,Direct,32560,Imp.Tra-Ausentismos continuos,DO,2023-08-15,JS011500,2022-11-24,1,8.8,264,masculino,JUAREZ,Mexican,26,casad.,1
+POS347,LOG,S5,Direct,32575,Vol-Prob personales y/o fam.,DNO,2023-08-15,JS011500,2022-12-15,1,8.1,243,masculino,SAN FELIPE USILA,Mexican,35,casad.,3
+POS1921,MFS,S5,Direct,32600,Vol-No regreso / no dio razón,DO,2023-08-17,JF010600,2023-12-01,0,7.233333333,217,femenino,CHIAPAS,Mexican,31,U.Libr,4
+POS538,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-08-14,JT031800,2023-01-06,0,2.466666667,74,femenino,MINATITLAN,Mexican,31,solter,2
+POS2939,VS7,S5,Direct,32575,Vol-Razones médicas,DO,2023-08-15,JS011500,2023-08-06,0,2.266666667,68,masculino,JUAREZ,Mexican,20,solter,0
+POS347,LOG,S5,Direct,32107,Vol-Cambio de domicilio,DNO,2023-08-15,JF010600,2023-06-07,0,1.333333333,40,masculino,JUAREZ,Mexican,21,solter,0
+POS977,VS1,S6,Managers,32539,Imp.Tra-Jubilación,SL1,2023-08-15,ADMINIST,2012-09-07,11,135.1333333,4054,masculino,PIEDRAS NEGRAS,Mexican,61,casad.,3
+POS1056,VS4,S6,Exempt,50180,Vol-Otro empleo,E4,2023-08-18,ADMINIST,2014-01-04,9,114.2,3426,masculino,TOLUCA,Mexican,34,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-08-25,JF010600,2018-11-22,5,57.9,1737,femenino,VERACRUZ,Mexican,25,solter,0
+POS1323,VS1,S5,Direct,32573,Imp.Pat-Pensionado IMSS,DO,2023-08-22,JF010600,2019-01-24,4,55.7,1671,masculino,DURANGO,Mexican,25,solter,0
+POS538,VS9-ABS,S5,Direct,32695,Vol-Otro empleo,DO,2023-08-22,JF060600,2022-03-10,1,10.76666667,323,masculino,CHIHUAHUA,Mexican,21,U.Libr,1
+POS1323,VS5,S5,Direct,32695,Vol-Estudios,DO,2023-08-22,JS011500,2023-10-01,0,7.466666667,224,femenino,JUAREZ,Mexican,22,casad.,1
+POS1323,VS9-ABS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-08-22,JS011500,2023-02-02,0,6.7,201,masculino,FRANCISCO I MADERO,Mexican,22,U.Libr,1
+POS347,LOG,S5,Direct,32599,Vol-No regreso / no dio razón,DNO,2023-08-21,JF010600,2023-09-03,0,5.5,165,masculino,JUAREZ,Mexican,23,U.Libr,1
+POS1323,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-08-25,JT021800,2023-03-30,0,4.933333333,148,masculino,AGENCIA TECTUAPAN,Mexican,41,casad.,1
+POS2939,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-08-25,JS011500,2023-08-06,0,2.6,78,masculino,OAXACA,Mexican,19,solter,0
+POS1376,MFS,S5,Direct,32590,Imp.Pat-Pensionado IMSS,DNO,2023-08-22,JS011500,2015-03-30,8,102.2333333,3067,masculino,ARRIAGA,Mexican,42,casad.,3
+POS1974,VS9-ABS,S6,Exempt,32575,Vol-Prob personales y/o fam.,E3,2023-08-21,ADMINIST,2017-11-12,6,69.3,2079,femenino,OTUMBA,Mexican,28,U.Libr,0
+POS1921,MFS,S5,Direct,32599,Vol-Insatisfacción personal,DO,2023-08-29,JF010600,2018-06-12,5,57.56666667,1727,femenino,JUAREZ,Mexican,31,U.Libr,2
+POS1323,VS7,S5,Direct,32600,Vol-Otro empleo,DO,2023-08-29,JF010600,2020-01-16,3,44.03333333,1321,masculino,CHIHUAHUA,Mexican,26,solter,0
+POS1323,VS1,S5,Direct,32590,Vol-Transferencia entre planta,DO,2023-01-09,JS011500,2021-08-04,2,29.2,876,masculino,VERACRUZ,Mexican,44,U.Libr,3
+POS538,VS9-ABS,S5,Direct,32599,Vol-Insatisfacción personal,DO,2023-08-29,JT031800,2022-08-25,1,12.3,369,masculino,JUAREZ,Mexican,19,solter,0
+POS1323,VS1-HOUS,S5,Direct,32575,Vol-Estudios,DO,2023-08-29,JT012324,2022-01-09,1,12.06666667,362,femenino,CHIHUAHUA,Mexican,20,solter,0
+POS2803,VS9-ABS,S5,Direct,32575,Vol-Cambio de domicilio,DNO,2023-08-28,JF010600,2023-03-16,0,5.5,165,masculino,JUAREZ,Mexican,47,solter,2
+POS2939,VS5,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-08-31,JT012324,2023-08-06,0,2.8,84,femenino,CHIHUAHUA,Mexican,19,solter,0
+POS2062,VS9-ABS,S6,Exempt,32695,Vol-Transferencia entre planta,E3,2023-01-09,ADMINIST,2017-11-16,6,70.5,2115,masculino,CHIHUAHUA,Mexican,53,U.Libr,5
+POS1010,QMM,S6,Exempt,32469,Vol-Otro empleo,E4,2023-01-09,ADMINIST,2017-11-30,6,70.03333333,2101,femenino,CHIHUAHUA,Mexican,31,solter,1
+POS1323,VS7,S5,Direct,32160,Imp.Pat-Pensionado IMSS,DO,2023-08-28,JF010600,2009-11-30,14,167.3,5019,femenino,JUAREZ,Mexican,53,divorc,3
+POS538,VS1,S5,Direct,32590,Vol-Razones médicas,DO,2023-08-29,JT031800,2009-07-09,14,170.1333333,5104,femenino,VERACRUZ,Mexican,49,U.Libr,2
+POS2076,HRL,S6,Exempt,32575,Vol-Transferencia entre planta,E3,2023-09-09,ADMINIST,2018-10-18,5,59.56666667,1787,femenino,DURANGO,Mexican,34,solter,0
+POS1921,MFS,S5,Direct,32599,Vol-Insatisfacción personal,DO,2023-05-09,JS011500,2020-01-12,3,33.6,1008,femenino,JUAREZ,Mexican,21,solter,0
+POS1380,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-05-09,JF060600,2022-09-22,1,11.6,348,femenino,JUAREZ,Mexican,20,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-05-09,JF010600,2022-03-11,1,10.2,306,masculino,JUAREZ,Mexican,30,solter,0
+POS2076,HRL,S6,Exempt,32573,Vol-Cambio de domicilio,E3,2023-08-09,ADMINIST,2022-08-12,1,9.133333333,274,femenino,CHIHUAHUA,Mexican,23,solter,0
+POS1323,VS7,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2023-05-09,JS011500,2023-03-16,0,5.766666667,173,femenino,TORREON,Mexican,26,solter,2
+POS1323,VS9-ABS,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2023-05-09,JS011500,2023-03-16,0,5.766666667,173,masculino,CHIHUAHUA,Mexican,25,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-04-09,JT031800,2023-06-07,0,2,60,femenino,OAXACA,Mexican,30,solter,1
+POS1661,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-05-09,JS011500,2023-07-27,0,1.333333333,40,masculino,LERDO,Mexican,50,divorc,3
+POS538,VS5,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-04-09,JT031800,2023-03-08,0,1.066666667,32,femenino,CHIHUAHUA,Mexican,20,solter,0
+POS1661,MFS,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2023-05-09,JS011500,2023-03-08,0,1.1,33,femenino,CHIHUAHUA,Mexican,21,solter,0
+POS2939,VS5,S5,Direct,32573,Vol-Transferencia entre planta,DO,2023-07-09,JT012324,2023-03-08,0,1.166666667,35,masculino,JUAREZ,Mexican,25,solter,0
+POS538,VS1,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-04-09,JT031800,2023-08-17,0,0.6,18,femenino,JUAREZ,Mexican,21,solter,0
+POS213,VS9-ABS,S6,Managers,32546,Vol-Prob personales y/o fam.,SL1,2023-08-09,ADMINIST,2012-08-27,11,134.3,4029,femenino,JUAREZ,Mexican,42,casad.,2
+POS514,LOG,S6,Exempt,32575,Vol-Otro empleo,E4,2023-08-09,ADMINIST,2015-07-01,8,105.5333333,3166,femenino,JUAREZ,Mexican,30,casad.,0
+POS1921,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-08-09,JF010600,2015-02-09,8,97.6,2928,femenino,JUCHITAN,Mexican,34,casad.,0
+POS538,VS1,S5,Direct,32573,Vol-No regreso / no dio razón,DO,2023-12-09,JT031800,2019-09-19,4,48.46666667,1454,femenino,JUAREZ,Mexican,30,casad.,1
+POS1323,VS5,S5,Direct,32574,Vol-Cambio de domicilio,DO,2023-12-09,JF010600,2022-08-18,1,13,390,femenino,JUAREZ,Mexican,39,solter,3
+POS1323,VS7,S5,Direct,32599,Vol-Otro empleo,DO,2023-12-09,JF010600,2022-07-28,1,13.7,411,femenino,JUAREZ,Mexican,20,solter,0
+POS538,VS1-HOUS,S5,Direct,32576,Vol-Estudios,DO,2023-12-09,JF060600,2022-11-24,1,9.733333333,292,femenino,CHIHUAHUA,Mexican,22,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-09-13,JF010600,2023-09-03,0,6.266666667,188,femenino,CHIHUAHUA,Mexican,28,solter,3
+POS1380,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-12-09,JT031800,2023-07-27,0,1.566666667,47,femenino,FRANCISCO I MADERO,Mexican,19,solter,1
+POS347,LOG,S5,Direct,32575,Vol-No regreso / no dio razón,DNO,2023-11-09,JT012324,2023-03-08,0,1.3,39,masculino,SAN PEDRO,Mexican,37,casad.,2
+POS1380,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-11-09,JT031800,2023-03-08,0,1.3,39,femenino,MEXICALI,Mexican,47,casad.,3
+POS1323,VS7,S5,Direct,32676,Imp.Pat-Pensionado IMSS,DO,2023-09-18,JF010600,2013-05-06,10,125.2333333,3757,femenino,CIUDAD DE MEXICO,Mexican,49,U.Libr,1
+POS2003,VS5,S5,Direct,32575,Vol-Estudios,DO,2023-12-09,JF050600,2015-08-07,8,99.6,2988,femenino,MINATITLAN,Mexican,31,solter,0
+POS1921,MFS,S5,Direct,32599,Vol-Razones médicas,DO,2023-09-19,JF010600,2019-05-09,4,49.16666667,1475,femenino,JUAREZ,Mexican,23,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-09-22,JT012324,2020-12-15,3,33.7,1011,femenino,JUAREZ,Mexican,21,solter,0
+POS1365,VS1,S5,Direct,32575,Vol-Otro empleo,DNO,2023-09-19,JS011500,2022-10-27,1,10.9,327,masculino,JUAREZ,Mexican,35,casad.,2
+POS1323,VS9-ABS,S5,Direct,32590,Vol-Transferencia entre planta,DO,2023-09-22,JS011500,2022-10-11,1,10.53333333,316,masculino,JUAREZ,Mexican,19,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-09-18,JT031800,2022-12-29,1,8.766666667,263,femenino,COSAMALOAPAN,Mexican,44,solter,2
+POS1323,VS5,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2023-09-19,JT012324,2023-09-02,0,7.4,222,femenino,TLAHUALILO DE ZARAGOZA,Mexican,43,casad.,4
+POS1323,VS9-ABS,S5,Direct,32590,Vol-Transferencia entre planta,DO,2023-09-22,JS011500,2023-02-03,0,6.8,204,masculino,CHIHUAHUA,Mexican,21,solter,0
+POS2718,VS9-ABS,S5,Indirect,32575,Vol-Estudios,DNO,2023-09-19,ADMINIST,2023-03-30,0,5.766666667,173,masculino,JUAREZ,Mexican,23,solter,0
+POS538,VS5,S5,Direct,32695,Vol-Prob personales y/o fam.,DO,2023-09-19,JT031800,2023-06-07,0,2.5,75,femenino,VENUSTIANO CARRANZA,Mexican,36,solter,2
+POS2939,VS9-ABS,S5,Direct,32580,Imp.Tra-Uso de drogas y/o bebi,DO,2023-09-19,JF010600,2023-07-13,0,2.266666667,68,masculino,JUAREZ,Mexican,33,solter,3
+POS1380,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-09-19,JT031800,2023-07-13,0,2.266666667,68,femenino,CORDOBA,Mexican,23,U.Libr,1
+POS2803,VS5,S5,Direct,32583,Vol-Prob personales y/o fam.,DNO,2023-09-19,JF010600,2023-08-31,0,0.6333333333,19,masculino,JUAREZ,Mexican,54,casad.,2
+POS2224,TEF,S5,Direct,32540,Vol-Otro empleo,DNO,2023-09-19,JT021800,2017-09-02,6,80.43333333,2413,masculino,SANTA ROSA,Filipino,37,casad.,1
+POS1845,QMM,S5,Direct,32575,Vol-Razones médicas,DNO,2023-09-19,JS011500,2017-06-29,6,75.76666667,2273,masculino,OAXACA,Mexican,49,U.Libr,2
+POS1230,VS4,S5,Direct,32573,Imp.Tra-Jubilación,DNO,2023-09-22,JS011500,2006-08-28,17,207.8,6234,masculino,DELICIAS,Mexican,57,casad.,4
+POS1323,VS7,S5,Direct,32250,Imp.Tra-LFT y/o Reglamento int,DO,2023-09-18,JT012324,2012-02-23,11,140.8333333,4225,femenino,CHIAPAS,Mexican,45,solter,5
+POS1376,MFS,S5,Direct,32590,Vol-Transferencia entre planta,DNO,2023-09-22,JT021800,2013-07-15,10,124.0333333,3721,femenino,JUAREZ,Mexican,28,solter,0
+POS1376,VS7,S5,Direct,32699,Vol-Transferencia entre planta,DNO,2023-09-22,JF010600,2013-07-15,10,124.0333333,3721,masculino,JUAREZ,Mexican,28,solter,0
+POS1181,LOG,S6,Exempt,32575,Vol-Otro empleo,E3,2023-09-20,ADMINIST,2018-04-19,5,66,1980,masculino,JUAREZ,Mexican,32,casad.,2
+POS1376,VS9-ABS,S5,Direct,32590,Vol-Transferencia entre planta,DNO,2023-09-22,JF050600,2015-08-07,8,99.93333333,2998,masculino,JUAREZ,Mexican,29,solter,1
+POS2718,VS9-ABS,S5,Indirect,32130,Vol-Transferencia entre planta,DNO,2023-09-22,ADMINIST,2016-02-11,7,83.83333333,2515,masculino,ANGEL R CABADA,Mexican,25,solter,0
+POS1230,VS9-ABS,S5,Direct,32600,Vol-Prob personales y/o fam.,DNO,2023-09-26,JF010600,2018-03-15,5,67.36666667,2021,masculino,JUAREZ,Mexican,25,solter,0
+POS1203,VS7,S6,Exempt,32598,Vol-Otro empleo,E3,2023-09-29,ADMINIST,2019-12-09,4,49.26666667,1478,masculino,JUAREZ,Mexican,27,casad.,1
+POS2338,CTG,S6,Exempt,32540,Vol-Transferencia entre planta,E3,2023-09-29,ADMINIST,2020-08-25,3,37.66666667,1130,masculino,SINALOA,Mexican,33,U.Libr,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-09-26,JF060600,2022-09-29,1,12.06666667,362,femenino,VERACRUZ,Mexican,51,U.Libr,1
+POS1323,VS5,S5,Direct,32580,Vol-Estudios,DO,2023-09-26,JT012324,2023-09-02,0,7.633333333,229,femenino,CHIHUAHUA,Mexican,28,U.Libr,2
+POS347,LOG,S5,Direct,32599,Vol-Prob personales y/o fam.,DNO,2023-09-26,JT012324,2023-04-05,0,4.833333333,145,masculino,CHIHUAHUA,Mexican,26,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-09-25,JT012324,2023-08-06,0,3.633333333,109,masculino,JUAREZ,Mexican,21,U.Libr,0
+POS1921,MFS,S5,Direct,32599,Vol-Otro empleo,DO,2023-09-26,JS011500,2023-06-22,0,3.2,96,masculino,JUAREZ,Mexican,36,U.Libr,1
+POS1230,VS9-ABS,S5,Direct,32575,Vol-Otro empleo,DNO,2023-09-26,JT012324,2023-10-08,0,1.566666667,47,masculino,CHIHUAHUA,Mexican,41,U.Libr,1
+POS347,LOG,S5,Direct,32575,Vol-Otro empleo,DNO,2023-09-26,JF050600,2017-07-09,6,73.66666667,2210,masculino,JUAREZ,Mexican,25,solter,0
+POS1661,MFS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-02-10,JS011500,2023-07-13,0,2.7,81,masculino,JUAREZ,Mexican,28,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Estudios,DO,2023-03-10,JT031800,2022-09-22,1,12.53333333,376,femenino,JUAREZ,Mexican,22,solter,0
+POS347,LOG,S5,Direct,32543,Vol-Otro empleo,DNO,2023-03-10,JS011500,2022-01-12,1,10.2,306,masculino,CHIHUAHUA,Mexican,24,solter,0
+POS1380,MFS,S5,Direct,32575,Vol-Otro empleo,DO,2023-03-10,JF060600,2023-07-20,0,2.5,75,femenino,CHIHUAHUA,Mexican,19,solter,0
+POS2939,VS9-ABS,S5,Direct,32580,Vol-Insatisfacción personal,DO,2023-03-10,JS011500,2023-07-09,0,0.8666666667,26,femenino,JUAREZ,Mexican,43,solter,2
+POS1230,VS4,S5,Direct,32594,Vol-Insatisfacción personal,DNO,2023-03-10,JF010600,2015-11-03,8,104.2666667,3128,masculino,TUXTEPEC,Mexican,29,casad.,0
+POS2456,MFS,S5,Direct,32575,Vol-Insatisfacción personal,DNO,2023-03-10,JF010600,2016-06-01,7,94.23333333,2827,masculino,TUXTEPEC,Mexican,37,solter,0
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-04-10,JS011500,2023-09-14,0,0.6666666667,20,masculino,GOMEZ PALACIO,Mexican,35,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-06-10,JF010600,2020-05-03,3,43.66666667,1310,femenino,DURANGO,Mexican,37,casad.,3
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-06-10,JS011500,2022-10-27,1,11.46666667,344,femenino,JUAREZ,Mexican,28,casad.,2
+POS1323,VS9-ABS,S5,Direct,32690,Vol-Transferencia entre planta,DO,2023-06-10,JF010600,2022-11-24,1,10.53333333,316,femenino,CAMPECHE,Mexican,22,U.Libr,2
+POS2939,VS5,S5,Direct,32599,Vol-Transferencia entre planta,DO,2023-06-10,JT012324,2023-07-13,0,2.833333333,85,femenino,CHIHUAHUA,Mexican,20,solter,0
+POS1376,VS7,S5,Direct,32599,Imp.Tra-LFT y/o Reglamento int,DNO,2023-06-10,JT012324,2015-07-29,8,99.7,2991,femenino,TUXTEPEC,Mexican,32,solter,1
+POS1323,VS9-ABS,S5,Direct,32599,Imp.Tra-LFT y/o Reglamento int,DO,2023-06-10,JT012324,2015-07-29,8,99.7,2991,femenino,VERACRUZ,Mexican,57,solter,3
+POS1380,MFS,S5,Direct,32575,Imp.Tra-LFT y/o Reglamento int,DO,2023-08-10,JT031800,2023-10-01,0,9.033333333,271,femenino,DELICIAS,Mexican,39,solter,3
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-10-10,JF010600,2020-01-10,3,36.8,1104,femenino,VERACRUZ,Mexican,25,U.Libr,1
+POS1380,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2023-10-10,JT031800,2023-07-20,0,2.733333333,82,femenino,MECAYAPAN,Mexican,30,casad.,1
+POS2939,VS9-ABS,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2023-10-10,JF010600,2023-09-14,0,0.8666666667,26,femenino,CHIHUAHUA,Mexican,23,U.Libr,0
+POS1745,MFS,S5,Direct,32575,Vol-Otro empleo,DNO,2023-10-10,ADMINIST,2016-12-28,7,82.56666667,2477,masculino,VERACRUZ,Mexican,30,solter,2
+POS1323,VS1-HOUS,S5,Direct,32599,Vol-Transferencia entre planta,DO,2023-10-13,JS011500,2021-01-26,2,33,990,femenino,VERACRUZ,Mexican,44,casad.,2
+POS2094,TEF,S5,Indirect,32617,Vol-Transferencia entre planta,DNO,2023-10-13,JF010600,2022-06-10,1,12.4,372,femenino,CHIHUAHUA,Mexican,23,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-10-13,JS011500,2023-09-02,0,8.2,246,masculino,VERACRUZ,Mexican,46,casad.,2
+POS2094,TEF,S5,Indirect,32546,Vol-Transferencia entre planta,DNO,2023-10-13,ADMINIST,2023-02-03,0,7.5,225,masculino,CHIHUAHUA,Mexican,25,solter,0
+POS1323,VS1,S5,Direct,32575,Vol-Transferencia entre planta,DO,2023-10-13,JS011500,2023-06-22,0,3.766666667,113,femenino,SINALOA,Mexican,35,casad.,3
+POS1111,VS4,S5,Indirect,32599,Vol-Transferencia entre planta,DNO,2023-10-13,JF010600,2012-12-17,11,131.7333333,3952,femenino,JUAREZ,Mexican,31,U.Libr,0
+POS343,VS9-ABS,S6,Exempt,32448,Imp.Tra-Jubilación,E3,2023-10-13,JF050600,2013-04-15,10,127.7666667,3833,masculino,SANTA BARBARA,Mexican,62,casad.,2
+POS1323,VS1,S5,Direct,32217,Vol-Transferencia entre planta,DO,2023-10-13,JT012324,2015-01-07,8,100.8666667,3026,femenino,BUENAVENTURA,Mexican,35,U.Libr,3
+POS1230,VS1,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DNO,2023-10-16,JT012324,2023-11-05,0,5.266666667,158,masculino,VERACRUZ,Mexican,27,casad.,2
+POS2062,VS9-ABS,S6,Exempt,32674,Vol-Insatisfacción personal,E3,2023-10-17,ADMINIST,2023-04-20,0,6,180,masculino,JUAREZ,Mexican,30,solter,0
+POS1323,VS5,S5,Direct,32575,Vol-Insatisfacción personal,DO,2023-10-17,JT012324,2023-08-06,0,4.366666667,131,masculino,JUAREZ,Mexican,22,U.Libr,0
+POS1661,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-10-17,JS011500,2023-07-09,0,1.333333333,40,masculino,CHIAPAS,Mexican,41,U.Libr,2
+POS1230,VS7,S5,Direct,32575,Vol-Otro empleo,DNO,2023-10-17,JF010600,2017-09-14,6,74.13333333,2224,masculino,JUAREZ,Mexican,28,solter,0
+POS1323,VS9-ABS,S5,Direct,32690,Vol-Maternidad,DO,2023-10-17,JF010600,2016-02-11,7,84.66666667,2540,femenino,TORREON,Mexican,30,casad.,1
+POS581,LOG,S6,Exempt,32520,Vol-Otro empleo,E3,2023-10-20,JS011500,2021-07-29,2,27.1,813,femenino,SINALOA,Mexican,31,solter,0
+POS1323,VS1,S5,Direct,32590,Imp.Tra-LFT y/o Reglamento int,DO,2023-10-24,JS011500,2018-06-09,5,62.46666667,1874,masculino,DURANGO,Mexican,24,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-10-24,JF010600,2022-10-20,1,12.3,369,femenino,JUAREZ,Mexican,26,U.Libr,2
+POS1230,VS5,S5,Direct,32590,Vol-Estudios,DNO,2023-10-24,JF010600,2023-02-23,0,8.1,243,masculino,VERACRUZ,Mexican,44,divorc,2
+POS1323,VS1,S5,Direct,32575,Vol-Estudios,DO,2023-10-24,JS011500,2023-06-15,0,4.366666667,131,femenino,JUAREZ,Mexican,21,solter,1
+POS2939,VS9-ABS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2023-10-24,JS011500,2023-05-10,0,0.6333333333,19,femenino,VERACRUZ,Mexican,36,solter,1
+POS1380,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-10-23,JT031800,2023-05-10,0,0.6,18,masculino,VICENTE GUERRERO,Mexican,33,U.Libr,3
+POS1323,VS5,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-10-24,JS011500,2013-07-15,10,125.1,3753,femenino,LOS ANGELES,Mexican,47,casad.,2
+POS1439,VS9-ABS,S6,Managers,32425,Vol-Prob personales y/o fam.,SL1,2023-10-30,ADMINIST,2015-07-15,8,100.9666667,3029,femenino,AHOME,Mexican,33,casad.,2
+POS1921,MFS,S5,Direct,32599,Vol-Cambio de domicilio,DO,2023-10-31,JS011500,2020-10-12,3,35.16666667,1055,masculino,JUAREZ,Mexican,22,solter,0
+POS1661,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2023-10-31,JT012324,2023-03-08,0,2.966666667,89,femenino,JUAREZ,Mexican,22,solter,2
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2023-10-31,JS011500,2023-05-10,0,0.8666666667,26,femenino,CIUDAD DE MEXICO,Mexican,54,casad.,4
+POS2062,VS1,S6,Exempt,32585,Vol-Otro empleo,E3,2022-01-01,ADMINIST,2020-05-11,2,14.06666667,422,masculino,JUAREZ,Mexican,23,Solter,0
+POS1323,VS4,S5,Direct,32563,Vol-No regreso / no dio razón,DO,2022-03-01,JS011500,2021-01-26,1,11.4,342,masculino,JUAREZ,Mexican,39,Casad.,2
+POS1323,VS4,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-03-01,JS011500,2014-10-22,8,87.66666667,2630,femenino,GOMEZ PALACIO,Mexican,38,Solter,3
+POS1323,VS5,S5,Direct,32575,Vol-Estudios,DO,2022-04-01,JS011500,2019-01-17,3,36.1,1083,masculino,VERACRUZ,Mexican,24,Solter,0
+POS1323,VS9-ABS,S5,Direct,32590,Vol-Insatisfacción personal,DO,2022-04-01,JF010600,2019-08-29,3,28.63333333,859,femenino,JUAREZ,Mexican,21,Solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-04-01,JF010600,2019-12-12,3,25.13333333,754,femenino,JUAREZ,Mexican,23,Solter,1
+POS347,LOG,S5,Direct,32573,Imp.Tra-Ausentismos continuos,DNO,2022-04-01,JT012324,2017-10-26,5,51.03333333,1531,masculino,JUAREZ,Mexican,24,Solter,0
+POS1230,VS1,S5,Direct,32380,Vol-Otro empleo,DNO,2022-04-01,JF010600,2013-11-27,9,98.66666667,2960,masculino,JUAREZ,Mexican,41,U.Libr,1
+POS1323,VS4,S5,Direct,32599,Imp.Tra-Ausentismos continuos,DO,2022-05-01,JT012324,2018-12-04,4,45.46666667,1364,femenino,HIDALGO,Mexican,46,U.Libr,2
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Otro empleo,DO,2022-07-01,JT012324,2019-09-26,3,27.8,834,femenino,CHIHUAHUA,Mexican,36,Casad.,3
+POS1921,MFS,S5,Direct,32583,Vol-Transferencia entre planta,DO,2022-07-01,JS011500,2021-01-21,1,11.7,351,femenino,JUAREZ,Mexican,19,Solter,0
+POS500,VS4,S6,Exempt,32410,Vol-Otro empleo,E4,2022-07-01,ADMINIST,2017-01-06,5,56.03333333,1681,masculino,CHIHUAHUA,Mexican,28,Solter,0
+POS1783,MFS,S6,Exempt,32610,Vol-Otro empleo,E3,2022-10-01,ADMINIST,2017-11-23,5,50.3,1509,masculino,JUAREZ,Mexican,32,Concu.,1
+POS1323,VS5,S5,Direct,32574,Imp.Tra-Jubilación,DO,2022-10-01,JF010600,2006-11-10,16,185.6666667,5570,masculino,MIGUEL. A.C. CAMPECHE,Mexican,55,U.Libr,5
+POS1323,VS9-ABS,S5,Direct,32695,Vol-Cambio de domicilio,DO,2022-11-01,JF010600,2020-02-27,2,22.8,684,masculino,JUAREZ,Mexican,20,Solter,0
+POS1323,VS5,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-11-01,JS011500,2020-12-11,2,14.16666667,425,masculino,FRESNILLO,Mexican,19,Solter,0
+POS1323,VS4,S5,Direct,32575,Vol-Estudios,DO,2022-11-01,JF010600,2020-11-24,2,13.76666667,413,masculino,JUAREZ,Mexican,19,Solter,0
+POS538,VS9-ABS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-11-01,JT031800,2020-12-15,2,13.06666667,392,femenino,JUAREZ,Mexican,30,Solter,0
+POS538,VS5,S5,Direct,32695,Imp.Tra-Ausentismos continuos,DO,2022-11-01,JF060600,2021-07-01,1,12.3,369,masculino,JUAREZ,Mexican,20,U.Libr,0
+POS1323,VS5,S5,Direct,32575,Vol-Otro empleo,DO,2022-11-01,JF010600,2021-01-14,1,12.06666667,362,femenino,JUAREZ,Mexican,22,U.Libr,1
+POS1380,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-11-01,JT031800,2021-03-31,1,9.533333333,286,femenino,CHIHUAHUA,Mexican,26,Casad.,1
+POS2802,TEF,S5,Direct,32575,Vol-Problemas con transporte,DNO,2022-11-01,JF010600,2018-01-25,4,48.23333333,1447,masculino,VERACRUZ,Mexican,25,Solter,0
+POS538,VS7,S5,Direct,32550,Vol-Otro empleo,DO,2022-11-01,JF060600,2017-11-01,5,60.86666667,1826,femenino,JUAREZ,Mexican,43,U.Libr,4
+POS2094,TEF,S5,Direct,32599,Vol-Cambio de domicilio,DNO,2022-11-01,ADMINIST,2017-02-23,5,59.43333333,1783,masculino,GUADALUPE VICTORIA,Mexican,43,U.Libr,3
+POS1376,VS9-ABS,S5,Direct,32594,Vol-Otro empleo,DNO,2022-11-01,JF050600,2013-10-07,9,103.5666667,3107,femenino,OAXACA,Mexican,29,U.Libr,2
+POS1702,TEF,S5,Direct,32575,Vol-Otro empleo,DNO,2022-11-01,ADMINIST,2016-01-20,6,72.76666667,2183,masculino,JUAREZ,Mexican,25,Solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-12-01,JF010600,2019-11-21,3,26.1,783,femenino,JUAREZ,Mexican,21,Solter,0
+POS1974,VS4,S6,Exempt,32540,Vol-Cambio de domicilio,E3,2022-01-14,ADMINIST,2018-05-07,4,42.96666667,1289,femenino,JUAREZ,Mexican,29,Solter,0
+POS2456,MFS,S5,Direct,32574,Vol-Transferencia entre planta,DNO,2022-01-14,ADMINIST,2020-12-15,2,13.16666667,395,masculino,CHIHUAHUA,Mexican,24,Solter,0
+POS1323,VS5,S5,Direct,32107,Imp.Tra-Jubilación,DO,2022-01-14,JF010600,2005-10-17,17,197.7666667,5933,femenino,GUADALUPE VICTORIA,Mexican,55,Solter,0
+POS1323,VS1,S5,Direct,32594,Vol-Transferencia entre planta,DO,2022-01-14,JF010600,2016-09-28,6,64.46666667,1934,femenino,JUAREZ,Mexican,46,U.Libr,3
+POS2803,VS4,S5,Direct,32583,Imp.Tra-Jubilación,DNO,2022-01-17,JS011500,2005-12-31,17,195.3666667,5861,masculino,SAN ANTONIO,Mexican,55,Casad.,1
+POS1380,MFS,S5,Direct,32599,Vol-Otro empleo,DO,2022-01-18,JF060600,2019-03-28,3,34.23333333,1027,masculino,JUAREZ,Mexican,21,Solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Estudios,DO,2022-01-18,JT031800,2019-07-18,3,30.5,915,masculino,JUAREZ,Mexican,20,Solter,0
+POS1380,MFS,S5,Direct,32598,Vol-Otro empleo,DO,2022-01-18,JT031800,2019-10-31,3,27,810,femenino,JUAREZ,Mexican,25,U.Libr,1
+POS538,VS7,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-01-18,JF060600,2020-02-13,2,23.5,705,masculino,JUAREZ,Mexican,22,Solter,0
+POS1921,MFS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-01-18,JS011500,2020-10-12,2,13.46666667,404,masculino,CHIHUAHUA,Mexican,22,Solter,0
+POS1921,MFS,S5,Direct,32584,Vol-Transferencia entre planta,DO,2022-01-18,JT012324,2021-11-02,1,11.36666667,341,masculino,JUAREZ,Mexican,27,U.Libr,1
+POS1748,VS7,S5,Direct,32543,Vol-Razones médicas,DNO,2022-01-18,JF010600,2017-02-03,5,59.43333333,1783,masculino,PENJAMO,Mexican,29,Solter,0
+POS1323,VS4,S5,Direct,32575,Vol-Otro empleo,DO,2022-01-18,JF010600,2017-04-20,5,57.8,1734,masculino,TUXTEPEC,Mexican,44,U.Libr,0
+POS1230,VS5,S5,Direct,32598,Vol-Otro empleo,DNO,2022-01-18,ADMINIST,2007-07-16,15,176.6666667,5300,masculino,COAHUILA,Mexican,41,Casad.,2
+POS1921,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-01-18,JS011500,2017-07-09,5,53.13333333,1594,femenino,JUAREZ,Mexican,52,Casad.,2
+POS1376,VS4,S5,Direct,32696,Vol-Transferencia entre planta,DNO,2022-01-18,JF050600,2014-10-27,8,88,2640,masculino,JUCHITAN,Mexican,45,Casad.,1
+POS1323,VS1,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-01-21,JS011500,2019-09-19,3,28.5,855,femenino,CHIAPAS,Mexican,20,Solter,0
+POS907,VS1,S6,Exempt,32600,Vol-Otro empleo,E3,2022-01-21,ADMINIST,2017-02-23,5,59.76666667,1793,masculino,CHIHUAHUA,Mexican,33,Casad.,0
+POS538,VS9-ABS,S5,Direct,32600,Imp.Tra-Ausentismos continuos,DO,2022-01-25,JT031800,2021-01-28,1,12.06666667,362,femenino,PUEBLA,Mexican,38,Solter,2
+POS538,VS7,S5,Direct,32576,Vol-Prob personales y/o fam.,DO,2022-01-25,JT031800,2020-06-02,2,23.96666667,719,femenino,JUAREZ,Mexican,30,Casad.,2
+POS1559,MFS,S5,Direct,32170,Vol-Otro empleo,DNO,2022-01-25,JT012324,2010-08-25,12,139.0333333,4171,masculino,JUAREZ,Mexican,31,Casad.,2
+POS1559,MFS,S5,Direct,32110,Vol-Otro empleo,DNO,2022-01-25,JS011500,2016-07-27,6,66.93333333,2008,masculino,JUAREZ,Mexican,24,Solter,0
+POS2622,VS7,S6,Exempt,32545,Vol-Otro empleo,E3,2022-01-28,ADMINIST,2018-11-19,4,38.86666667,1166,masculino,CHIHUAHUA,Mexican,26,Solter,0
+POS2858,QMM,S6,Exempt,32599,Vol-Otro empleo,E3,2022-01-28,ADMINIST,2019-08-15,3,29.9,897,femenino,JUAREZ,Mexican,25,Solter,0
+POS1488,TEF,S6,Exempt,32546,Vol-Otro empleo,E3,2022-01-28,ADMINIST,2013-07-22,9,103.7333333,3112,masculino,JUAREZ,Mexican,33,Casad.,2
+POS780,TEF,S6,Exempt,32695,Vol-Transferencia entre planta,E4,2022-01-28,ADMINIST,2013-11-18,9,99.76666667,2993,femenino,CUAUTITLAN IZCALLI,Mexican,30,Solter,0
+POS1210,TEF,S6,Exempt,32472,Vol-Otro empleo,E4,2022-01-28,ADMINIST,2014-01-01,8,98.3,2949,femenino,JUAREZ,Mexican,30,Solter,0
+POS124,HRL,S6,Exempt,32472,Vol-Transferencia entre planta,E4,2022-01-30,ADMINIST,2018-08-03,4,47.46666667,1424,femenino,CHIHUAHUA,Mexican,43,Solter,0
+POS1745,MFS,S5,Direct,32695,Vol-Otro empleo,DNO,2022-01-02,ADMINIST,2018-02-22,4,48,1440,masculino,COAHUILA,Mexican,27,Solter,0
+POS1323,VS1-HOUS,S5,Direct,32599,Vol-Cambio de domicilio,DO,2022-01-02,JS011500,2019-01-08,3,30.5,915,masculino,JUAREZ,Mexican,20,Solter,0
+POS538,VS1,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-01-02,JF060600,2019-12-09,3,29.1,873,femenino,JUAREZ,Mexican,21,Sep.,0
+POS1380,VS9-ABS,S5,Direct,32599,Vol-Transferencia entre planta,DO,2022-01-02,JF010600,2019-10-24,3,27.7,831,femenino,CHIAPAS,Mexican,41,Casad.,2
+POS538,VS5,S5,Direct,32583,Vol-Estudios,DO,2022-01-02,JF060600,2020-11-19,2,14.63333333,439,masculino,CHIHUAHUA,Mexican,20,Solter,0
+POS1323,VS5,S5,Direct,32575,Vol-Estudios,DO,2022-01-02,JT012324,2020-03-12,2,14.16666667,425,masculino,JUAREZ,Mexican,19,Solter,0
+POS1230,VS4,S5,Direct,32680,Vol-Prob personales y/o fam.,DNO,2022-01-02,JF010600,2021-01-21,1,12.53333333,376,masculino,JUAREZ,Mexican,30,Solter,0
+POS1921,MFS,S5,Direct,32220,Muerte Natural,DO,2022-02-02,JT012324,1993-06-09,29,345.8666667,10376,femenino,JUAREZ,Mexican,47,Casad.,1
+POS581,DBE,S5,Direct,32697,Vol-Transferencia entre planta,E3,2022-04-02,ADMINIST,2019-08-19,3,30,900,masculino,JUAREZ,Mexican,25,Solter,0
+POS1323,VS1,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-04-02,JS011500,2019-10-24,3,27.8,834,masculino,SAN FRANCISCO IXHUATAN,Mexican,23,Solter,1
+POS1921,MFS,S5,Direct,32575,Imp.Pat-Pensionado IMSS,DO,2022-04-02,JS011500,2008-01-14,14,171.1666667,5135,masculino,TUXTEPEC,Mexican,42,U.Libr,2
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-08-02,JT012324,2018-08-30,4,41.93333333,1258,masculino,JUAREZ,Mexican,23,Solter,0
+POS1921,MFS,S5,Direct,32599,Imp.Tra-Ausentismos continuos,DO,2022-08-02,JF010600,2019-03-01,3,37.73333333,1132,masculino,CIUDAD DE MEXICO,Mexican,30,Casad.,2
+POS1748,VS7,S5,Direct,32599,Vol-Insatisfacción personal,DNO,2022-08-02,JS011500,2019-06-06,3,32.6,978,masculino,NAYARIT,Mexican,22,Solter,0
+POS1323,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-08-02,JF010600,2019-12-12,3,26.3,789,femenino,JUCHITAN,Mexican,20,Solter,0
+POS538,VS5,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-08-02,JF060600,2021-05-01,1,13.3,399,femenino,JUAREZ,Mexican,21,Solter,0
+POS538,VS9-ABS,S5,Direct,32576,Vol-Razones médicas,DO,2022-08-02,JT031800,2021-01-28,1,12.53333333,376,femenino,VERACRUZ,Mexican,29,U.Libr,2
+POS538,VS9-ABS,S5,Direct,32696,Vol-Transferencia entre planta,DO,2022-08-02,JT031800,2017-09-28,5,53.13333333,1594,femenino,JUAREZ,Mexican,22,Solter,0
+POS1323,VS1,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-08-02,JS011500,2017-11-16,5,51.5,1545,femenino,JUAREZ,Mexican,31,Casad.,3
+POS1323,VS1,S5,Direct,32590,Vol-Prob personales y/o fam.,DO,2022-08-02,JF010600,2017-07-13,5,55.7,1671,femenino,JUAREZ,Mexican,22,Solter,0
+POS1921,MFS,S5,Direct,32599,Vol-Transferencia entre planta,DO,2022-08-02,JF010600,2017-03-08,5,55,1650,masculino,JUAREZ,Mexican,23,Solter,0
+POS1230,VS7,S5,Direct,32230,Vol-Otro empleo,DNO,2022-08-02,JF010600,2016-01-27,6,73.46666667,2204,femenino,JUAREZ,Mexican,26,Solter,0
+POS1323,VS4,S5,Direct,32576,Vol-No regreso / no dio razón,DO,2022-09-02,JT012324,2020-05-11,2,15.36666667,461,femenino,CHIHUAHUA,Mexican,27,U.Libr,2
+POS1323,VS1,S5,Direct,32606,Vol-Transferencia entre planta,DO,2022-11-02,JF010600,2018-08-16,4,42.5,1275,femenino,VERACRUZ,Mexican,36,Casad.,2
+POS2338,CTG,S6,Exempt,32472,Vol-Prob personales y/o fam.,E3,2022-11-02,ADMINIST,2021-08-04,1,10.3,309,femenino,JUAREZ,Mexican,27,Solter,0
+POS1667,TEF,S6,Managers,32536,Vol-Cambio de domicilio,SL1,2022-11-02,ADMINIST,2010-04-26,12,143.6333333,4309,masculino,TORREON,Mexican,51,Divorc,1
+POS251,HSE,S6,Exempt,32472,Vol-Prob personales y/o fam.,E3,2022-11-02,ADMINIST,2015-07-15,7,80.1,2403,femenino,JUAREZ,Mexican,29,Solter,0
+POS538,VS7,S5,Direct,32543,Vol-No regreso / no dio razón,DO,2022-02-14,JF060600,2015-06-29,7,80.73333333,2422,femenino,JUAREZ,Mexican,57,Casad.,6
+POS1559,MFS,S5,Direct,32695,Vol-Otro empleo,DNO,2022-02-15,JF050600,2018-02-22,4,48.46666667,1454,masculino,CHIHUAHUA,Mexican,26,Solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-02-15,JS011500,2019-03-14,3,35.63333333,1069,femenino,OAXACA,Mexican,30,Solter,0
+POS1380,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-02-15,JS011500,2019-10-17,3,28.4,852,femenino,JUAREZ,Mexican,30,U.Libr,2
+POS1380,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-02-15,JS011500,2019-11-14,3,27.46666667,824,femenino,VERACRUZ,Mexican,23,U.Libr,2
+POS1323,VS7,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-02-15,JF010600,2021-07-01,1,13.46666667,404,masculino,CHIHUAHUA,Mexican,19,Solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-02-15,JT012324,2021-01-26,1,12.83333333,385,femenino,JUAREZ,Mexican,30,U.Libr,3
+POS538,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-02-15,JT031800,2017-04-20,5,58.73333333,1762,masculino,JUAREZ,Mexican,24,Solter,0
+POS1921,MFS,S5,Direct,32594,Imp.Tra-Ausentismos continuos,DO,2022-02-15,JS011500,2017-03-08,5,55.23333333,1657,masculino,VERACRUZ,Mexican,28,U.Libr,0
+POS1559,MFS,S5,Direct,32580,Vol-Otro empleo,DNO,2022-02-15,JT021800,2013-11-20,9,100.3,3009,masculino,JUAREZ,Mexican,29,Solter,0
+POS1410,VS7,S5,Direct,32599,Vol-Insatisfacción personal,DNO,2022-02-15,JF010600,2015-02-09,7,78.6,2358,femenino,LEON,Mexican,26,Solter,0
+POS538,VS9-ABS,S5,Direct,32599,Vol-Transferencia entre planta,DO,2022-02-15,JT031800,2017-05-10,5,53.13333333,1594,femenino,LAS MERCEDES,Mexican,33,U.Libr,4
+POS454,TEF,S5,Direct,32599,Vol-Transferencia entre planta,DNO,2022-02-18,ADMINIST,2018-12-07,4,43.9,1317,masculino,JUAREZ,Mexican,30,Solter,0
+POS2915,TEF,S5,Direct,32696,Imp.Tra-LFT y/o Reglamento Int.,DNO,2022-02-21,JS011500,2020-10-29,2,16,480,masculino,JUAREZ,Mexican,22,Solter,0
+POS1376,VS1-HOUS,S5,Direct,32696,Imp.Tra-LFT y/o Reglamento Int.,DNO,2022-02-21,JT021800,2014-02-19,8,97.46666667,2924,femenino,CIUDAD DE MEXICO,Mexican,51,Solter,3
+POS1921,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-02-22,JT012324,2018-02-15,4,48.93333333,1468,femenino,COAHUILA,Mexican,42,Casad.,3
+POS1323,VS5,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-02-22,JF010600,2018-05-04,4,47.3,1419,femenino,DURANGO,Mexican,41,Casad.,2
+POS347,LOG,S5,Direct,32575,Vol-Transferencia entre planta,DNO,2022-02-22,JS011500,2019-05-12,3,27,810,femenino,VERACRUZ,Mexican,28,Solter,0
+POS1921,MFS,S5,Direct,32590,Vol-Insatisfacción personal,DO,2022-02-22,JS011500,2020-08-12,2,14.7,441,femenino,ZACATECAS,Mexican,30,U.Libr,3
+POS1323,VS9-ABS,S5,Direct,32696,Vol-Prob personales y/o fam.,DO,2022-02-22,JT012324,2020-10-12,2,14.63333333,439,femenino,CHIHUAHUA,Mexican,20,Solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-02-22,JT031800,2017-07-27,5,55.7,1671,femenino,GUADALUPE ANALCO,Mexican,33,Solter,2
+POS1380,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-02-24,JS011500,2020-12-03,2,23.8,714,femenino,COAHUILA,Mexican,33,Solter,0
+POS96,Admin MSE2,S6,Non-Exempt,32618,Vol-Otro empleo,E3,2022-02-25,ADMINIST,2018-05-02,4,49.36666667,1481,femenino,ATLANTA,Mexican,26,Solter,0
+POS1323,VS1,S5,Direct,32600,Vol-Transferencia entre planta,DO,2022-02-25,JF010600,2019-10-24,3,28.5,855,femenino,CHIHUAHUA,Mexican,20,Solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-02-25,JS011500,2021-01-26,1,13.16666667,395,masculino,CHIHUAHUA,Mexican,23,Solter,0
+POS96,Admin MSE1,S6,Non-Exempt,45086,Vol-Transferencia entre planta,E3,2022-02-26,ADMINIST,2019-05-23,3,33.66666667,1010,femenino,GUADALAJARA,Mexican,27,Solter,0
+POS698,VS4,S6,Exempt,32540,Vol-Transferencia entre planta,E4,2022-02-26,ADMINIST,2004-10-16,18,211.4,6342,masculino,TOLUCA,Mexican,42,Casad.,2
+POS1323,VS4,S5,Direct,32599,Vol-Cambio de domicilio,DO,2022-02-03,JT012324,2018-01-11,4,40.56666667,1217,masculino,CHIHUAHUA,Mexican,26,Solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-02-03,JS011500,2019-01-08,3,31.46666667,944,femenino,JUCHITLAN,Mexican,21,Solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-02-03,JF010600,2019-11-21,3,27.73333333,832,masculino,CHIHUAHUA,Mexican,22,Solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-02-03,JT012324,2020-01-16,2,25.86666667,776,femenino,MICHOACAN,Mexican,31,Solter,3
+POS1323,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-02-03,JS011500,2020-02-13,2,24.93333333,748,masculino,JUAREZ,Mexican,21,Solter,0
+POS1921,MFS,S5,Direct,32599,Vol-Otro empleo,DO,2022-02-03,JS011500,2021-01-21,1,13.5,405,masculino,CIUDAD DE MEXICO,Mexican,53,Casad.,1
+POS1230,VS4,S5,Direct,32584,Vol-Otro empleo,DNO,2022-02-03,JF010600,2017-07-12,5,51.53333333,1546,masculino,JUAREZ,Mexican,30,U.Libr,2
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-02-03,JT012324,2017-01-02,5,61.83333333,1855,femenino,MICHOACAN,Mexican,42,Casad.,4
+POS538,VS5,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-02-03,JF060600,2011-01-26,11,135.1,4053,femenino,VERACRUZ,Mexican,36,U.Libr,2
+POS1380,VS9-ABS,S5,Direct,32912,Vol-Transferencia entre planta,DO,2022-02-03,JT031800,2013-03-07,9,105.4666667,3164,femenino,DURANGO,Mexican,40,U.Libr,3
+POS1323,VS1,S5,Direct,32696,Vol-Razones médicas,DO,2022-02-03,JT012324,2013-08-08,9,104.2666667,3128,femenino,COAHUILA,Mexican,45,Casad.,4
+POS1376,VS4,S5,Direct,32599,Vol-Otro empleo,DNO,2022-02-03,JF010600,2014-10-17,8,89.76666667,2693,femenino,JUAREZ,Mexican,26,Solter,1
+POS1559,MFS,S5,Direct,32575,Vol-Otro empleo,DNO,2022-02-03,JF010600,2016-06-01,6,74.9,2247,masculino,BALLEZA,Mexican,38,Casad.,2
+POS1323,VS9-ABS,S5,Direct,32594,Vol-Transferencia entre planta,DO,2022-02-03,JS011500,2016-01-06,6,70,2100,femenino,PASO DEL JOBO,Mexican,32,Divorc,2
+POS538,VS9-ABS,S5,Direct,32599,Imp.Tra-Ausentismos continuos,DO,2022-02-03,JT031800,2016-02-11,6,64.86666667,1946,femenino,ZACATECAS,Mexican,47,Casad.,3
+POS2817,LOG,S6,Exempt,32742,Vol-Otro empleo,E4,2022-03-03,JF050600,2021-12-29,1,2.133333333,64,masculino,CHIHUAHUA,Mexican,30,Casad.,2
+POS343,VS4,S6,Exempt,32675,Vol-Otro empleo,E3,2022-03-03,JF010600,2015-12-14,7,75.7,2271,masculino,EL MADERAL,Mexican,40,Casad.,4
+POS538,VS7,S5,Direct,32576,Vol-Transferencia entre planta,DO,2022-04-03,JF010600,2019-03-10,3,29.43333333,883,femenino,CIUDAD DE MEXICO,Mexican,37,Casad.,3
+POS538,VS9-ABS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-07-03,JT031800,2019-07-25,3,31.86666667,956,masculino,VERACRUZ,Mexican,42,Casad.,2
+POS1921,MFS,S5,Direct,32500,Vol-No regreso / no dio razón,DO,2022-07-03,JS011500,2020-08-12,2,15.13333333,454,masculino,CHIAPAS,Mexican,26,Casad.,1
+POS1323,VS7,S5,Direct,32100,Vol-No regreso / no dio razón,DO,2022-07-03,JS011500,2017-08-31,5,54.96666667,1649,femenino,JUAREZ,Mexican,23,Solter,0
+POS538,VS7,S5,Direct,32599,Vol-Otro empleo,DO,2022-08-03,JT031800,2018-04-26,4,47.06666667,1412,femenino,JUAREZ,Mexican,47,Casad.,3
+POS347,LOG,S5,Direct,32600,Imp.Tra-Bajo desempeño,DNO,2022-08-03,JF010600,2019-01-17,3,38.2,1146,masculino,CHIHUAHUA,Mexican,46,U.Libr,3
+POS1921,MFS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-08-03,JF010600,2019-11-14,3,28.16666667,845,masculino,COAHUILA,Mexican,41,Casad.,3
+POS1380,MFS,S5,Direct,32599,Vol-Estudios,DO,2022-08-03,JF060600,2020-08-12,2,15.16666667,455,masculino,JUAREZ,Mexican,22,Solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Estudios,DO,2022-08-03,JF010600,2020-08-12,2,15.16666667,455,masculino,JUAREZ,Mexican,20,Solter,0
+POS1323,VS1,S5,Direct,32600,Vol-Estudios,DO,2022-08-03,JS011500,2017-07-13,5,56.63333333,1699,masculino,JUAREZ,Mexican,25,Solter,0
+POS1323,VS9-ABS,S5,Direct,32574,Vol-Otro empleo,DO,2022-08-03,JT012324,2013-04-12,9,100.5333333,3016,masculino,TAMAULIPAS,Mexican,28,Solter,0
+POS2224,TEF,S5,Direct,32599,Vol-Otro empleo,DNO,2022-08-03,ADMINIST,2015-01-07,7,81.4,2442,masculino,JUAREZ,Mexican,29,Solter,0
+POS2384,QMM,S5,Direct,32695,Vol-Insatisfacción personal,DNO,2022-08-03,JF010600,2015-07-15,7,80.93333333,2428,femenino,CAMPECHE,Mexican,30,Solter,0
+POS1323,VS4,S5,Direct,32594,Imp.Tra-Ausentismos continuos,DO,2022-08-03,JT012324,2016-01-13,6,74.86666667,2246,masculino,JUAREZ,Mexican,24,Solter,0
+POS2803,VS1,S5,Direct,32600,Vol-No regreso / no dio razón,DNO,2022-09-03,JF010600,2018-03-22,4,48.26666667,1448,masculino,JUAREZ,Mexican,43,U.Libr,4
+POS2622,VS5,S6,Exempt,32618,Vol-Insatisfacción personal,E3,2022-11-03,ADMINIST,2021-04-29,1,10.53333333,316,masculino,JUAREZ,Mexican,26,Solter,0
+POS1323,VS5,S5,Direct,32575,Imp.Pat-Terminación del Contrato,DO,2022-11-03,JF010600,2019-12-09,3,30.36666667,911,masculino,CHIHUAHUA,Mexican,21,Solter,0
+POS1323,VS7,S5,Direct,32584,Vol-Transferencia entre planta,DO,2022-11-03,JT012324,2015-04-03,7,85.46666667,2564,femenino,FRESNILLO,Mexican,31,U.Libr,3
+POS1921,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-03-15,JT012324,2018-03-15,4,48.7,1461,masculino,JUAREZ,Mexican,22,Solter,0
+POS1230,VS5,S5,Direct,32575,Vol-Otro empleo,DNO,2022-03-15,JF010600,2018-08-30,4,43.1,1293,masculino,CHIHUAHUA,Mexican,26,Solter,0
+POS1230,VS5,S5,Direct,32590,Vol-Otro empleo,DNO,2022-03-15,ADMINIST,2019-12-09,3,30.5,915,masculino,JUAREZ,Mexican,24,Solter,0
+POS1921,MFS,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-03-15,JF010600,2020-12-11,2,16.26666667,488,femenino,CHIHUAHUA,Mexican,32,Casad.,2
+POS538,VS5,S5,Direct,32575,Vol-Otro empleo,DO,2022-03-15,JF060600,2020-11-19,2,16.03333333,481,masculino,CHIHUAHUA,Mexican,20,Solter,0
+POS750,TEF,S5,Direct,32575,Vol-Otro empleo,DNO,2022-03-15,ADMINIST,2021-06-05,1,10.43333333,313,femenino,JUAREZ,Mexican,23,Solter,0
+POS347,LOG,S5,Direct,32600,Vol-Otro empleo,DNO,2022-03-15,JF050600,2017-10-19,5,53.6,1608,masculino,VERACRUZ,Mexican,25,Solter,0
+POS2384,QMM,S5,Direct,32575,Vol-Estudios,DNO,2022-03-15,JF010600,2016-12-14,6,63.9,1917,masculino,JUAREZ,Mexican,23,Solter,0
+POS1559,MFS,S5,Direct,32695,Vol-Otro empleo,DNO,2022-03-15,JF010600,2004-08-11,18,211.2,6336,masculino,NAICA,Mexican,44,Casad.,3
+POS139,VS1,S6,Exempt,32616,Vol-Otro empleo,E3,2022-03-18,ADMINIST,2018-02-08,4,44.13333333,1324,masculino,JUAREZ,Mexican,27,Solter,0
+POS2076,HRL,S6,Exempt,32573,Vol-Otro empleo,E3,2022-03-18,ADMINIST,2019-04-25,3,35.26666667,1058,femenino,CUAUHTEMOC,Mexican,36,Casad.,2
+POS1921,MFS,S5,Direct,32696,Imp.Tra-Ausentismos continuos,DO,2022-03-22,JT012324,2018-12-27,4,39.36666667,1181,femenino,JUAREZ,Mexican,24,Solter,0
+POS1230,VS4,S5,Direct,32575,Vol-Otro empleo,DNO,2022-03-22,JS011500,2019-12-09,3,30.73333333,922,masculino,JUAREZ,Mexican,23,Solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Otro empleo,DO,2022-03-22,JF060600,2019-09-26,3,30.26666667,908,femenino,CHIHUAHUA,Mexican,36,Casad.,3
+POS2802,TEF,S5,Direct,32599,Vol-Prob personales y/o fam.,DNO,2022-03-22,JT012324,2019-12-12,3,27.7,831,masculino,JUAREZ,Mexican,21,Solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-03-22,JS011500,2020-01-23,2,26.3,789,femenino,JUAREZ,Mexican,28,U.Libr,2
+POS538,VS1,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-03-22,JT031800,2020-06-02,2,25.83333333,775,femenino,JUAREZ,Mexican,23,Solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-03-22,JF010600,2021-01-14,1,14.4,432,femenino,PUEBLA,Mexican,26,Solter,2
+POS1323,VS1,S5,Direct,32590,Vol-Razones médicas,DO,2022-03-22,JT012324,2017-05-18,5,58.96666667,1769,femenino,JUAREZ,Mexican,24,U.Libr,1
+POS1748,VS5,S5,Direct,32722,Vol-Prob personales y/o fam.,DNO,2022-03-22,JF010600,2010-02-09,12,140.6333333,4219,masculino,JUAREZ,Mexican,30,U.Libr,1
+POS1559,MFS,S5,Direct,32599,Vol-Otro empleo,DNO,2022-03-22,JS011500,2013-03-06,9,107.1333333,3214,masculino,FRESNILLO,Mexican,27,Casad.,2
+POS1230,VS4,S5,Direct,32599,Vol-Insatisfacción personal,DNO,2022-03-22,JF010600,2013-09-10,9,102.8666667,3086,masculino,COAHUILA,Mexican,28,Solter,1
+POS1380,VS9-ABS,S5,Direct,32600,Vol-No regreso / no dio razón,DO,2022-03-23,JF010600,2021-01-14,1,14.43333333,433,masculino,CHIHUAHUA,Mexican,26,U.Libr,2
+POS1323,VS9-ABS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-03-24,JS011500,2018-09-13,4,42.93333333,1288,masculino,LAZARO CARDENAS,Mexican,24,Solter,0
+POS2622,VS4,S6,Exempt,32210,Vol-Otro empleo,E3,2022-03-25,ADMINIST,2005-11-05,17,205.4,6162,masculino,GOMEZ FARIAS,Mexican,38,Casad.,1
+POS907,VS1,S6,Exempt,32360,Vol-Transferencia entre planta,E4,2022-03-26,ADMINIST,2015-09-02,7,86.73333333,2602,masculino,CHIHUAHUA,Mexican,32,Solter,0
+POS1380,MFS,S5,Direct,32599,Imp.Tra-LFT y/o Reglamento Int.,DO,2022-03-28,JF060600,2013-07-15,9,105.9333333,3178,femenino,JUAREZ,Mexican,38,Solter,3
+POS1380,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-03-28,JT031800,2014-12-02,8,98.86666667,2966,femenino,GOMEZ PALACIO,Mexican,38,Solter,4
+POS1921,MFS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-03-29,JF010600,2018-12-27,4,39.6,1188,femenino,JUAREZ,Mexican,21,Solter,0
+POS538,VS9-ABS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-03-29,JT031800,2019-10-31,3,29.33333333,880,femenino,JUAREZ,Mexican,26,U.Libr,4
+POS1323,VS5,S5,Direct,32575,Vol-Razones médicas,DO,2022-03-29,JS011500,2019-05-12,3,28.16666667,845,femenino,DURANGO,Mexican,46,Divorc,4
+POS1380,MFS,S5,Direct,32575,Vol-Estudios,DO,2022-03-29,JF060600,2020-10-12,2,15.8,474,masculino,CHIHUAHUA,Mexican,19,Solter,0
+POS538,VS1,S5,Direct,32217,Vol-Estudios,DO,2022-03-29,JF060600,2021-05-01,1,14.93333333,448,femenino,CHIHUAHUA,Mexican,21,Casad.,0
+POS347,LOG,S5,Direct,32575,Vol-Otro empleo,DNO,2022-03-29,JF010600,2016-02-24,6,74.16666667,2225,masculino,CORDOBA,Mexican,31,Casad.,3
+POS1323,VS1,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-03-30,JS011500,2020-11-26,2,16.3,489,masculino,TORREON,Mexican,24,U.Libr,1
+POS1380,MFS,S5,Direct,32599,Muerte Natural,DO,2022-04-04,JF060600,2015-09-12,7,76.93333333,2308,femenino,JUAREZ,Mexican,43,U.Libr,1
+POS1230,VS7,S5,Direct,32575,Vol-Otro empleo,DNO,2022-05-04,JF010600,2018-08-30,4,43.8,1314,masculino,JUAREZ,Mexican,25,Solter,0
+POS538,VS1,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-05-04,JF060600,2018-06-09,4,43.56666667,1307,femenino,JUAREZ,Mexican,24,Solter,0
+POS1380,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-05-04,JF060600,2019-10-17,3,30.03333333,901,femenino,JUAREZ,Mexican,29,U.Libr,4
+POS538,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-05-04,JS011500,2019-10-24,3,29.8,894,femenino,VERACRUZ,Mexican,43,Solter,0
+POS1323,VS5,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-05-04,JF010600,2021-01-19,1,14.7,441,femenino,JUAREZ,Mexican,21,U.Libr,1
+POS2915,TEF,S5,Direct,32575,Vol-Otro empleo,DNO,2022-05-04,JS011500,2021-11-02,1,13.93333333,418,masculino,JUAREZ,Mexican,36,Casad.,1
+POS2094,TEF,S5,Direct,32560,Vol-Insatisfacción personal,DNO,2022-05-04,ADMINIST,2021-02-25,1,13.46666667,404,masculino,JUAREZ,Mexican,28,Casad.,0
+POS1380,MFS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-05-04,JF060600,2018-11-01,4,51.5,1545,femenino,JUAREZ,Mexican,29,Casad.,1
+POS1323,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-05-04,JF010600,2019-03-10,3,30.5,915,masculino,CHIHUAHUA,Mexican,23,Solter,0
+POS1323,VS1,S5,Direct,32594,Vol-Prob personales y/o fam.,DO,2022-05-04,JF010600,2017-07-13,5,57.56666667,1727,masculino,TECPATAN,Mexican,28,U.Libr,1
+POS1559,MFS,S5,Direct,32107,Vol-Otro empleo,DNO,2022-05-04,JF050600,2011-12-10,11,127.6,3828,masculino,ZACATECAS,Mexican,32,U.Libr,1
+POS1520,TEF,S6,Exempt,32425,Imp.Pat-Varios Jubilado,E3,2022-08-04,ADMINIST,2005-12-07,17,203.8,6114,femenino,JUAREZ,Mexican,55,casad.,2
+POS1230,VS9-ABS,S5,Direct,32599,Vol-Otro empleo,DNO,2022-12-04,JT012324,2018-06-12,4,40.76666667,1223,masculino,PARRAL,Mexican,23,Solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Otro empleo,DO,2022-12-04,JS011500,2019-10-10,3,30.5,915,masculino,JUAREZ,Mexican,20,Solter,0
+POS1921,MFS,S5,Direct,32599,Vol-Cambio de domicilio,DO,2022-12-04,JF010600,2017-01-18,5,63.66666667,1910,masculino,SANTIAGO TUXTLA,Mexican,48,U.Libr,1
+POS1748,VS5,S5,Direct,32599,Vol-Otro empleo,DNO,2022-12-04,JT012324,2013-07-15,9,106.4333333,3193,masculino,TORREON,Mexican,30,U.Libr,1
+POS1559,MFS,S5,Direct,32674,Vol-Otro empleo,DNO,2022-12-04,JS011500,2013-04-12,9,101.7,3051,masculino,JUAREZ,Mexican,32,Casad.,1
+POS1819,LOG,S5,Direct,32599,Vol-Otro empleo,DNO,2022-12-04,JS011500,2014-02-19,8,99.13333333,2974,masculino,DURANGO,Mexican,26,Solter,0
+POS1559,MFS,S5,Direct,32599,Vol-Otro empleo,DNO,2022-12-04,JT021800,2016-01-13,6,76.03333333,2281,masculino,TORREON,Mexican,25,U.Libr,1
+POS343,MFS,S6,Exempt,32590,Vol-Otro empleo,E3,2022-04-14,ADMINIST,2018-03-28,4,49.26666667,1478,femenino,JUAREZ,Mexican,27,casad.,0
+POS2913,Admin MSE2,S6,Managers,32520,Vol-Otro empleo,SL1,2022-04-14,ADMINIST,2010-12-16,12,137.9,4137,masculino,JUAREZ,Mexican,39,casad.,2
+POS1230,VS7,S5,Direct,32687,Vol-Transferencia entre planta,DNO,2022-04-15,JF010600,2020-10-09,2,19.4,582,masculino,CHIHUAHUA,Mexican,23,Solter,0
+POS2803,VS1,S5,Direct,32573,Vol-Transferencia entre planta,DNO,2022-04-15,ADMINIST,2021-02-25,1,13.8,414,masculino,JUAREZ,Mexican,28,Solter,0
+POS1921,MFS,S5,Direct,32107,Imp.Tra-Jubilación,DO,2022-04-15,JS011500,2006-01-30,16,197.3,5919,femenino,LAS PILAS,Mexican,60,Casad.,2
+POS907,VS9-ABS,S6,Exempt,32540,Vol-Transferencia entre planta,E4,2022-04-15,ADMINIST,2014-03-31,8,97.9,2937,masculino,JUAREZ,Mexican,43,casad.,4
+POS538,VS7,S5,Direct,32599,Vol-Estudios,DO,2022-04-18,JF060600,2018-05-17,4,47.73333333,1432,femenino,CHIHUAHUA,Mexican,26,Solter,0
+POS1323,VS5,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-04-18,JT012324,2019-05-09,3,31.86666667,956,femenino,GUERRERO,Mexican,49,Casad.,4
+POS538,VS7,S5,Direct,32599,Imp.Tra-Ausentismos continuos,DO,2022-04-18,JF060600,2016-12-28,6,64.56666667,1937,femenino,CULIACAN,Mexican,34,Solter,2
+POS538,VS9-ABS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-04-19,JF060600,2019-12-19,3,28.4,852,femenino,JUAREZ,Mexican,20,Solter,0
+POS1323,VS1,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-04-19,JF010600,2017-08-31,5,56.4,1692,femenino,TUXTEPEC,Mexican,23,Solter,0
+POS1230,VS4,S5,Direct,32598,Vol-Otro empleo,DNO,2022-04-19,JS011500,2016-03-16,6,74.16666667,2225,masculino,JUAREZ,Mexican,25,U.Libr,1
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-04-20,JT031800,2019-07-25,3,33.33333333,1000,femenino,TABASCO,Mexican,40,Casad.,3
+POS2062,VS9-ABS,S6,Exempt,32660,Vol-Otro empleo,E3,2022-04-20,ADMINIST,2014-10-29,8,91,2730,masculino,TEXAS,Mexican,32,casad.,2
+POS2338,CTG,S6,Exempt,32617,Vol-Otro empleo,E4,2022-04-21,ADMINIST,2011-09-19,11,128.9,3867,femenino,AGUSCALIENTES,Mexican,38,casad.,1
+POS1323,VS1,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-04-22,JS011500,2017-05-10,5,55.33333333,1660,femenino,JUAREZ,Mexican,23,Solter,1
+POS1448,TEF,S6,Exempt,32140,Vol-Otro empleo,E3,2022-04-22,ADMINIST,2014-02-04,8,98.06666667,2942,femenino,DURANGO,Mexican,39,solter,0
+POS2497,LOG,S6,Exempt,32472,Vol-Otro empleo,E4,2022-04-22,ADMINIST,2014-12-22,8,89.26666667,2678,femenino,JUAREZ,Mexican,30,solter,0
+POS2076,HRL,S6,Exempt,32379,Imp.Pat-Terminación del Contrato,E3,2022-04-25,ADMINIST,2009-11-05,13,157.7333333,4732,masculino,VILLA AHUMADA,Mexican,41,U.Libr,3
+POS2803,VS7,S5,Direct,32695,Vol-Otro empleo,DNO,2022-04-26,JF010600,2020-12-22,2,16.33333333,490,masculino,ACAPULCO,Mexican,38,Casad.,1
+POS1380,MFS,S5,Direct,32599,Vol-Otro empleo,DO,2022-04-26,JT031800,2021-01-14,1,15.56666667,467,masculino,DURANGO,Mexican,29,Casad.,1
+POS2003,TEF,S5,Direct,32599,Vol-Insatisfacción personal,DNO,2022-04-26,ADMINIST,2017-10-19,5,55,1650,femenino,POANAS,Mexican,32,Solter,0
+POS1323,VS1,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-04-26,JS011500,2016-07-12,6,65.53333333,1966,femenino,VERACRUZ,Mexican,40,Solter,3
+POS1230,VS5,S5,Direct,32575,Vol-Prob personales y/o fam.,DNO,2022-04-26,JS011500,2004-06-16,18,217.4333333,6523,masculino,TORREON,Mexican,50,Casad.,3
+POS2803,VS7,S5,Direct,32696,Vol-Otro empleo,DNO,2022-04-26,JF010600,2006-01-03,16,196.6666667,5900,masculino,EL FUERTE,Mexican,47,Casad.,3
+POS1921,MFS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-04-26,JT012324,2015-02-18,7,87.46666667,2624,masculino,DURANGO,Mexican,40,Casad.,3
+POS1410,VS7,S5,Direct,32696,Vol-Otro empleo,DNO,2022-04-26,JF010600,2015-04-03,7,87,2610,femenino,TUXTLA GUTIERREZ,Mexican,26,Solter,1
+POS1230,VS7,S5,Direct,32599,Vol-Otro empleo,DNO,2022-04-26,JF010600,2015-03-18,7,86.53333333,2596,masculino,TUXTEPEC,Mexican,28,Casad.,0
+POS538,VS1,S5,Direct,32696,Imp.Tra-Ausentismos continuos,DO,2022-04-26,JF060600,2016-10-26,6,66.93333333,2008,femenino,JUAREZ,Mexican,49,Solter,5
+POS1788,VS4,S6,Exempt,32472,Vol-Otro empleo,E4,2022-04-26,ADMINIST,2016-07-20,6,70.2,2106,masculino,CAJEME,Mexican,30,casad.,3
+POS2698,VS7,S5,Direct,32575,Imp.Tra-Falsificación de doctos.,DNO,2022-04-29,JF010600,2018-04-26,4,48.8,1464,masculino,CHIHUAHUA,Mexican,24,U.Libr,1
+POS1323,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-04-29,JT012324,2019-03-14,3,38.06666667,1142,femenino,JUAREZ,Mexican,35,U.Libr,3
+POS1323,VS9-ABS,S5,Direct,32594,Vol-Transferencia entre planta,DO,2022-04-29,JT012324,2014-08-10,8,92,2760,masculino,VERACRUZ,Mexican,27,Solter,0
+POS1145,DBE,S6,Exempt,32560,Vol-Otro empleo,E3,2022-04-29,ADMINIST,2018-03-05,4,48.56666667,1457,masculino,CHIHUAHUA,Mexican,41,U.Libr,2
+POS1181,LOG,S6,Exempt,32540,Vol-Otro empleo,E3,2022-04-29,ADMINIST,2018-02-08,4,45.53333333,1366,masculino,JUAREZ,Mexican,30,casad.,0
+POS2062,TEF,S6,Exempt,32675,Vol-Prob personales y/o fam.,E3,2022-04-29,JF010600,2012-03-28,10,122.8,3684,femenino,JUAREZ,Mexican,32,casad.,1
+POS538,VS7,S5,Direct,32580,Imp.Pat-Terminación del Contrato,DO,2022-02-05,JT031800,2020-01-12,2,17.23333333,517,masculino,DURANGO,Mexican,22,solter,0
+POS2003,TEF,S5,Direct,32600,Vol-Insatisfacción personal,DNO,2022-03-05,ADMINIST,2019-06-13,3,35.16666667,1055,masculino,JUAREZ,Mexican,32,solter,1
+POS1230,VS4,S5,Direct,32575,Vol-Otro empleo,DNO,2022-03-05,JF010600,2010-10-19,12,140.4666667,4214,masculino,JUAREZ,Mexican,29,U.Libr,0
+POS1376,MFS,S5,Direct,32594,Vol-Otro empleo,DNO,2022-03-05,JF010600,2015-08-31,7,81.23333333,2437,masculino,FRANCISCO I MADERO,Mexican,27,U.Libr,1
+POS1111,TEF,S5,Direct,32599,Vol-Otro empleo,DNO,2022-03-05,ADMINIST,2014-07-30,8,94.46666667,2834,femenino,JUAREZ,Mexican,27,solter,1
+POS1376,MFS,S5,Direct,32575,Vol-Otro empleo,DNO,2022-03-05,JT012324,2015-01-21,7,88.63333333,2659,masculino,JUAREZ,Mexican,27,casad.,3
+POS1559,MFS,S5,Direct,32543,Vol-Otro empleo,DNO,2022-03-05,JS011500,2016-12-10,6,67.63333333,2029,masculino,GOMEZ PALACIO,Mexican,24,solter,0
+POS2848,HSE,S6,Exempt,32330,Vol-Otro empleo,E4,2022-06-05,ADMINIST,2022-03-02,0,3.066666667,92,masculino,CHIHUAHUA,Mexican,39,solter,0
+POS538,VS1,S5,Direct,32674,Imp.Tra-Ausentismos continuos,DO,2022-09-05,JF060600,2013-07-15,9,107.3333333,3220,femenino,DELICIAS,Mexican,29,casad.,3
+POS1323,VS9-ABS,S5,Direct,32576,Vol-Insatisfacción personal,DO,2022-10-05,JF010600,2018-03-15,4,50.56666667,1517,masculino,CHIHUAHUA,Mexican,22,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-10-05,JS011500,2019-10-31,3,30.73333333,922,femenino,JUAREZ,Mexican,20,solter,0
+POS1323,VS7,S5,Direct,32553,Vol-Prob personales y/o fam.,DO,2022-10-05,JS011500,2020-12-03,2,26.3,789,femenino,JUAREZ,Mexican,28,solter,0
+POS1323,VS4,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-10-05,JF010600,2020-09-24,2,19.76666667,593,femenino,JUAREZ,Mexican,21,solter,0
+POS1323,VS5,S5,Direct,32575,Vol-Otro empleo,DO,2022-10-05,JF010600,2020-12-22,2,16.8,504,masculino,JUAREZ,Mexican,21,solter,0
+POS1323,VS9-ABS,S5,Direct,32702,Vol-Prob personales y/o fam.,DO,2022-10-05,JF010600,2021-02-25,1,14.63333333,439,masculino,JUAREZ,Mexican,38,casad.,4
+POS1921,MFS,S5,Direct,32574,Vol-No regreso / no dio razón,DO,2022-10-05,JT012324,2017-12-28,5,53.13333333,1594,femenino,CHIHUAHUA,Mexican,36,solter,2
+POS1559,MFS,S5,Direct,32107,Vol-Otro empleo,DNO,2022-10-05,JS011500,2010-04-22,12,146.7,4401,masculino,DURANGO,Mexican,33,casad.,2
+POS2553,VS5,S5,Direct,32575,Vol-Prob personales y/o fam.,DNO,2022-10-05,JF050600,2013-10-06,9,108.5333333,3256,femenino,TORREON,Mexican,60,casad.,4
+POS1748,VS9-ABS,S5,Direct,32594,Vol-Otro empleo,DNO,2022-10-05,JT012324,2014-01-10,8,92.6,2778,masculino,GUADALAJARA,Mexican,28,solter,0
+POS2802,TEF,S5,Direct,32599,Vol-Otro empleo,DNO,2022-10-05,JF010600,2015-11-30,7,78.43333333,2353,masculino,JUAREZ,Mexican,25,solter,0
+POS1323,VS1,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-05-13,JS011500,2020-12-22,2,16.9,507,femenino,CHIHUAHUA,Mexican,32,casad.,1
+POS343,MFS,S6,Exempt,32575,Vol-Cambio de domicilio,E3,2022-05-13,JF010600,2011-01-26,11,137.5,4125,masculino,DURANGO,Mexican,31,U.Libr,1
+POS1323,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-05-13,JF010600,2015-04-29,7,85.7,2571,femenino,JUAREZ,Mexican,26,solter,1
+POS1323,VS1,S5,Direct,32600,Vol-Transferencia entre planta,DO,2022-05-17,JS011500,2018-08-23,4,45.43333333,1363,femenino,ZACATECAS,Mexican,43,solter,5
+POS1921,MFS,S5,Direct,32580,Vol-Prob personales y/o fam.,DO,2022-05-17,JF010600,2018-12-27,4,41.23333333,1237,femenino,JUAREZ,Mexican,22,solter,1
+POS1323,VS5,S5,Direct,32575,Vol-Razones médicas,DO,2022-05-17,JT012324,2019-01-24,3,40.3,1209,femenino,DURANGO,Mexican,42,U.Libr,4
+POS1323,VS9-ABS,S5,Direct,32563,Vol-Prob personales y/o fam.,DO,2022-05-17,JS011500,2019-04-17,3,37.53333333,1126,masculino,JUAREZ,Mexican,25,solter,1
+POS1323,VS9-ABS,S5,Direct,32600,Vol-Prob personales y/o fam.,DO,2022-05-17,JT012324,2019-09-17,3,32.43333333,973,femenino,TABASCO,Mexican,34,casad.,2
+POS347,LOG,S5,Direct,32599,Vol-Insatisfacción personal,DNO,2022-05-17,JS011500,2020-02-13,2,27.46666667,824,masculino,VERACRUZ,Mexican,26,U.Libr,1
+POS1230,VS7,S5,Direct,32600,Vol-Otro empleo,DNO,2022-05-17,JF010600,2020-10-09,2,20.46666667,614,masculino,JUAREZ,Mexican,22,solter,0
+POS1323,MFS,S5,Direct,32599,Vol-Transferencia entre planta,DO,2022-05-17,JS011500,2020-10-22,2,19.06666667,572,femenino,JUAREZ,Mexican,27,solter,1
+POS2915,TEF,S5,Direct,32695,Vol-Otro empleo,DNO,2022-05-17,JT012324,2020-10-29,2,18.83333333,565,masculino,CHIHUAHUA,Mexican,33,casad.,2
+POS1559,MFS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DNO,2022-05-17,JF010600,2020-10-12,2,17.43333333,523,masculino,CHIHUAHUA,Mexican,22,solter,0
+POS1323,VS5,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-05-17,JS011500,2021-01-19,1,16.1,483,femenino,CHIHUAHUA,Mexican,41,casad.,4
+POS2698,VS7,S5,Direct,32590,Vol-No regreso / no dio razón,DNO,2022-05-17,JF050600,2018-01-25,4,52.43333333,1573,masculino,VERACRUZ,Mexican,24,solter,0
+POS538,VS9-ABS,S5,Direct,32599,Vol-Otro empleo,DO,2022-05-17,JF060600,2017-02-16,5,63.86666667,1916,masculino,JUAREZ,Mexican,24,solter,0
+POS538,VS1,S5,Direct,32600,Vol-Cambio de domicilio,DO,2022-05-17,JF060600,2017-04-20,5,61.76666667,1853,femenino,NANCHITAL,Mexican,28,solter,1
+POS538,VS1,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-05-17,JF060600,2017-07-27,5,58.5,1755,femenino,TUXTEPEC,Mexican,34,casad.,1
+POS1921,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-05-17,JT012324,2017-10-08,5,58.03333333,1741,femenino,JUAREZ,Mexican,26,U.Libr,1
+POS1230,VS7,S5,Direct,32699,Vol-Otro empleo,DNO,2022-05-17,JF010600,2013-07-15,9,107.6,3228,femenino,SANTA BARBARA,Mexican,32,U.Libr,1
+POS1748,VS7,S5,Direct,32699,Vol-Prob personales y/o fam.,DNO,2022-05-17,JF010600,2013-06-11,9,103.8,3114,masculino,ACAPULCO,Mexican,42,casad.,3
+POS1410,VS1,S5,Direct,32590,Vol-Otro empleo,DNO,2022-05-17,JF010600,2016-09-28,6,68.56666667,2057,femenino,JUAREZ,Mexican,33,casad.,3
+POS1380,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-05-19,JT031800,2021-01-26,1,15.93333333,478,masculino,CHIHUAHUA,Mexican,24,solter,0
+POS343,MFS,S6,Exempt,32500,Vol-Otro empleo,E3,2022-05-19,ADMINIST,2017-07-27,5,58.56666667,1757,masculino,CHIHUAHUA,Mexican,27,casad.,0
+POS907,VS4,S6,Exempt,32545,Vol-Otro empleo,E4,2022-05-20,ADMINIST,2017-03-23,5,62.8,1884,masculino,JUAREZ,Mexican,39,casad.,2
+POS723,LOG,S6,Exempt,32538,Vol-Cambio de domicilio,E4,2022-05-20,ADMINIST,2017-05-25,5,60.7,1821,femenino,AGUA PRIETA,Mexican,27,solter,0
+POS2803,VS4,S5,Direct,32676,Imp.Tra-Jubilación,DNO,2022-05-23,JS011500,2007-07-05,15,183.1666667,5495,masculino,SAN LUIS POTOSI,Mexican,67,casad.,5
+POS538,VS1,S5,Direct,32576,Vol-Otro empleo,DO,2022-05-24,JF060600,2018-08-30,4,45.43333333,1363,masculino,JUAREZ,Mexican,21,solter,0
+POS1380,MFS,S5,Direct,32695,Vol-Prob personales y/o fam.,DO,2022-05-24,JT031800,2019-10-10,3,31.9,957,femenino,CHIHUAHUA,Mexican,25,U.Libr,2
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-05-24,JF010600,2020-02-20,2,27.46666667,824,femenino,GOMEZ PALACIO,Mexican,24,U.Libr,1
+POS1559,MFS,S5,Direct,32674,Vol-Insatisfacción personal,DNO,2022-05-24,JF050600,2018-04-01,4,53.36666667,1601,masculino,VERACRUZ,Mexican,30,solter,0
+POS347,LOG,S5,Direct,32696,Vol-Prob personales y/o fam.,DNO,2022-05-24,JT012324,2017-08-31,5,57.56666667,1727,masculino,VERACRUZ,Mexican,31,solter,0
+POS1323,VS5,S5,Direct,32722,Vol-Transferencia entre planta,DO,2022-05-24,JS011500,2013-06-24,9,108.5333333,3256,femenino,EJIDO ZARAGOZA SOBRERETE,Mexican,42,casad.,4
+POS538,VS7,S5,Direct,32696,Vol-Otro empleo,DO,2022-05-24,JF060600,2017-09-14,5,57.1,1713,femenino,JUAREZ,Mexican,26,solter,0
+POS347,LOG,S5,Direct,32575,Vol-Otro empleo,DNO,2022-05-24,JF050600,2014-07-05,8,97.96666667,2939,masculino,JUAREZ,Mexican,28,solter,0
+POS1323,VS5,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-05-26,JS011500,2020-11-26,2,18.2,546,femenino,VERACRUZ,Mexican,31,U.Libr,0
+POS1230,VS5,S5,Direct,32600,Vol-Transferencia entre planta,DNO,2022-05-27,ADMINIST,2018-08-30,4,45.53333333,1366,masculino,JUAREZ,Mexican,26,solter,0
+POS2847,TEF,S6,Exempt,32606,Vol-Otro empleo,E3,2022-05-27,ADMINIST,2021-05-27,1,12.16666667,365,femenino,JUAREZ,Mexican,28,solter,0
+POS1323,VS9-ABS,S5,Direct,32599,Vol-Transferencia entre planta,DO,2022-05-27,JF010600,2019-10-17,3,31.76666667,953,femenino,JUAREZ,Mexican,23,solter,0
+POS2622,VS7,S6,Exempt,32695,Vol-Transferencia entre planta,E3,2022-05-28,ADMINIST,2019-02-14,3,39.96666667,1199,masculino,DELICIAS,Mexican,25,solter,0
+POS1748,VS7,S5,Direct,32599,Vol-Cambio de domicilio,DNO,2022-05-31,JF010600,2018-01-03,4,51.73333333,1552,masculino,JUAREZ,Mexican,23,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-05-31,JF010600,2019-08-29,3,33.53333333,1006,femenino,CHIHUAHUA,Mexican,49,casad.,2
+POS1380,MFS,S5,Direct,32590,Imp.Tra-Ausentismos continuos,DO,2022-05-31,JF060600,2019-05-09,3,33.3,999,femenino,CHIHUAHUA,Mexican,32,divorc,0
+POS538,VS5,S5,Direct,32575,Vol-Otro empleo,DO,2022-05-31,JF060600,2019-10-31,3,31.43333333,943,masculino,JUAREZ,Mexican,20,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-05-31,JF060600,2020-09-01,2,29.1,873,masculino,JUAREZ,Mexican,22,solter,0
+POS1323,VS9-ABS,S5,Direct,32600,Vol-Cambio de domicilio,DO,2022-05-31,JS011500,2020-05-03,2,27.23333333,817,masculino,JUAREZ,Mexican,23,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-05-31,JS011500,2020-05-03,2,27.23333333,817,femenino,JUAREZ,Mexican,22,solter,1
+POS1323,VS4,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-05-31,JS011500,2020-08-10,2,20,600,femenino,CHIHUAHUA,Mexican,24,U.Libr,1
+POS1323,VS7,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-05-31,JF010600,2020-10-29,2,19.3,579,femenino,JUAREZ,Mexican,23,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-05-31,JF010600,2020-03-12,2,18.13333333,544,masculino,CHIHUAHUA,Mexican,22,U.Libr,0
+POS538,VS1,S5,Direct,32100,Vol-Prob personales y/o fam.,DO,2022-05-31,JF060600,2021-05-01,1,17.03333333,511,masculino,CHIHUAHUA,Mexican,29,casad.,2
+POS538,VS9-ABS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-05-31,JT031800,2021-01-28,1,16.26666667,488,femenino,TAMAULIPAS,Mexican,34,casad.,3
+POS538,VS9-ABS,S5,Direct,32695,Vol-Transferencia entre planta,DO,2022-05-31,JT031800,2021-11-02,1,15.8,474,femenino,OLUTA,Mexican,37,solter,2
+POS1748,VS7,S5,Direct,32670,Vol-Insatisfacción personal,DNO,2022-05-31,JF010600,2017-09-28,5,56.86666667,1706,masculino,JUAREZ,Mexican,23,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-05-31,JF010600,2017-11-23,5,55,1650,masculino,JUAREZ,Mexican,26,solter,1
+POS538,VS9-ABS,S5,Direct,32210,Vol-Transferencia entre planta,DO,2022-05-31,JT031800,2006-04-24,16,196.0333333,5881,femenino,JUAREZ,Mexican,42,casad.,1
+POS1323,VS1,S5,Direct,32600,Imp.Tra-Ausentismos continuos,DO,2022-05-31,JF010600,2017-08-31,5,57.8,1734,femenino,AHUMADA,Mexican,37,casad.,2
+POS1748,VS7,S5,Direct,32599,Vol-Insatisfacción personal,DNO,2022-05-31,JF010600,2017-09-11,5,55.46666667,1664,masculino,JUAREZ,Mexican,28,solter,0
+POS538,VS7,S5,Direct,32584,Vol-Prob personales y/o fam.,DO,2022-05-31,JF060600,2015-04-03,7,88.16666667,2645,femenino,FRESNILLO,Mexican,31,U.Libr,3
+POS1323,VS1,S5,Direct,32594,Vol-Prob personales y/o fam.,DO,2022-05-31,JT012324,2015-10-28,7,80.23333333,2407,femenino,BOQUILLA DE ABAJO,Mexican,28,solter,2
+POS1657,TEF,S5,Direct,32574,Vol-Transferencia entre planta,E4,2022-03-06,ADMINIST,2020-10-09,2,21.03333333,631,masculino,CHIHUAHUA,Mexican,25,solter,0
+POS2622,VS4,S5,Direct,32380,Vol-Transferencia entre planta,E3,2022-03-06,ADMINIST,2020-11-24,2,18.53333333,556,masculino,JUAREZ,Mexican,23,solter,0
+POS1657,TEF,S6,Exempt,32551,Vol-Otro empleo,E4,2022-03-06,ADMINIST,2021-07-01,1,17.06666667,512,masculino,JUAREZ,Mexican,32,casad.,1
+POS1448,TEF,S5,Direct,32190,Vol-Transferencia entre planta,E3,2022-03-06,JF010600,2017-11-23,5,55.1,1653,masculino,JUAREZ,Mexican,27,solter,0
+POS2858,QMM,S6,Exempt,32690,Vol-Otro empleo,E3,2022-03-06,ADMINIST,2017-12-14,5,54.4,1632,masculino,JUAREZ,Mexican,29,solter,0
+POS96,VS5,S5,Direct,32563,Vol-Transferencia entre planta,DNO,2022-03-06,ADMINIST,2017-06-15,5,60.46666667,1814,femenino,JUAREZ,Mexican,43,divorc,0
+POS2062,MFS,S5,Direct,32674,Vol-Transferencia entre planta,E3,2022-03-06,ADMINIST,2008-03-18,14,173,5190,masculino,JUAREZ,Mexican,38,casad.,2
+POS1100,MFS,S6,Exempt,32740,Vol-Otro empleo,E3,2022-03-06,JS011500,2015-04-02,7,89.2,2676,masculino,GUADALUPE,Mexican,30,casad.,2
+POS213,VS4,S6,Managers,32264,Vol-Cambio de domicilio,SL1,2022-03-06,ADMINIST,2016-11-04,6,74.8,2244,masculino,SALTILLO,Mexican,37,casad.,1
+POS1748,VS9-ABS,S5,Direct,32500,Vol-No regreso / no dio razón,DNO,2022-06-06,JS011500,2016-11-23,6,67.36666667,2021,masculino,VERACRUZ,Mexican,27,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-06-06,JS011500,2016-11-23,6,67.36666667,2021,masculino,VERACRUZ,Mexican,28,solter,0
+POS347,LOG,S5,Direct,32584,Vol-Transferencia entre planta,DNO,2022-07-06,JF050600,2019-06-27,3,35.86666667,1076,femenino,ZARAGOZA,Mexican,27,solter,1
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-07-06,JF010600,2019-08-15,3,34.23333333,1027,masculino,VERACRUZ,Mexican,61,U.Libr,2
+POS1323,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-07-06,JF010600,2019-01-10,3,32.66666667,980,femenino,CHIHUAHUA,Mexican,36,casad.,4
+POS1380,MFS,S5,Direct,32600,Vol-No regreso / no dio razón,DO,2022-07-06,JT031800,2020-01-30,2,28.63333333,859,masculino,MAPIMI,Mexican,49,casad.,2
+POS1230,VS4,S5,Direct,32575,Vol-Otro empleo,DNO,2022-07-06,JT012324,2020-10-09,2,21.16666667,635,masculino,JUAREZ,Mexican,21,solter,0
+POS1323,VS5,S5,Direct,32590,Vol-Transferencia entre planta,DO,2022-07-06,JS011500,2021-01-14,1,16.96666667,509,femenino,OAXACA,Mexican,26,U.Libr,1
+POS1921,MFS,S5,Direct,27000,Vol-Transferencia entre planta,DO,2022-07-06,JS011500,2021-04-02,1,16.26666667,488,masculino,CHIHUAHUA,Mexican,19,solter,1
+POS1230,VS7,S5,Direct,32580,Vol-Otro empleo,DNO,2022-07-06,JF010600,2021-10-14,1,7.866666667,236,masculino,JUAREZ,Mexican,23,solter,0
+POS1748,MFS,S5,Direct,32575,Vol-Otro empleo,DNO,2022-07-06,JF060600,2017-12-14,5,54.53333333,1636,masculino,NUEVO LEON,Mexican,41,casad.,4
+POS1921,MFS,S5,Direct,32590,Vol-Cambio de domicilio,DO,2022-07-06,JF010600,2017-04-20,5,62.46666667,1874,femenino,JUAREZ,Mexican,36,solter,1
+POS2802,TEF,S5,Direct,32575,Vol-Estudios,DNO,2022-07-06,JF010600,2017-06-07,5,59.9,1797,masculino,VERACRUZ,Mexican,25,solter,0
+POS347,LOG,S5,Direct,32575,Vol-Transferencia entre planta,DNO,2022-07-06,JT021800,2015-11-03,7,88.16666667,2645,masculino,JUAREZ,Mexican,26,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-07-06,JS011500,2016-07-20,6,71.6,2148,femenino,MICHOACAN,Mexican,45,casad.,3
+POS1111,TEF,S5,Direct,32576,Vol-Transferencia entre planta,DNO,2022-10-06,ADMINIST,2021-07-29,1,10.53333333,316,femenino,CHIHUAHUA,Mexican,23,solter,0
+POS343,MFS,S6,Exempt,32696,Vol-Otro empleo,E3,2022-10-06,JS011500,2013-05-15,9,110.4333333,3313,masculino,TUXTEPEC,Mexican,28,casad.,1
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Otro empleo,DO,2022-06-14,JT012324,2018-08-03,4,51.96666667,1559,masculino,VILLAHERMOSA,Mexican,24,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-06-14,JF010600,2018-10-05,4,49.86666667,1496,masculino,JUAREZ,Mexican,24,solter,0
+POS347,LOG,S5,Direct,32590,Vol-Otro empleo,DNO,2022-06-14,JS011500,2019-04-17,3,38.46666667,1154,masculino,JUAREZ,Mexican,25,solter,0
+POS347,LOG,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DNO,2022-06-14,JT012324,2019-07-11,3,31.66666667,950,masculino,JUAREZ,Mexican,32,U.Libr,3
+POS538,VS1,S5,Direct,32575,Vol-Estudios,DO,2022-06-14,JT031800,2020-01-30,2,28.86666667,866,femenino,COAHUILA,Mexican,21,solter,0
+POS1745,MFS,S5,Direct,32563,Vol-Otro empleo,DNO,2022-06-14,ADMINIST,2020-01-30,2,28.86666667,866,masculino,MONTERREY,Mexican,24,solter,0
+POS2756,TEF,S5,Direct,32590,Vol-Otro empleo,DNO,2022-06-14,ADMINIST,2020-05-03,2,27.7,831,masculino,CHIHUAHUA,Mexican,24,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-06-14,JS011500,2020-12-29,2,17.73333333,532,masculino,DURANGO,Mexican,20,U.Libr,1
+POS1921,MFS,S5,Direct,32575,Vol-Estudios,DO,2022-06-14,JS011500,2021-01-19,1,17.03333333,511,femenino,JUAREZ,Mexican,20,solter,0
+POS1323,VS7,S5,Direct,32594,Vol-Cambio de domicilio,DO,2022-06-14,JF010600,2005-05-30,17,207.4666667,6224,masculino,TORREON,Mexican,48,casad.,3
+POS1559,MFS,S5,Direct,32425,Vol-Otro empleo,DNO,2022-06-14,JT012324,2005-08-08,17,205.1333333,6154,masculino,PUEBLA,Mexican,38,casad.,3
+POS1380,MFS,S5,Direct,32600,Imp.Tra-Ausentismos continuos,DO,2022-06-14,JT031800,2017-06-07,5,60.13333333,1804,masculino,JUAREZ,Mexican,25,solter,0
+POS1323,VS9-ABS,S5,Direct,32594,Vol-Razones médicas,DO,2022-06-14,JS011500,2014-08-01,8,102.6333333,3079,femenino,JUAREZ,Mexican,46,casad.,2
+POS1559,MFS,S5,Direct,32576,Vol-Otro empleo,DNO,2022-06-14,JF010600,2015-07-22,7,83.96666667,2519,femenino,COSAMALOAPAN,Mexican,36,casad.,1
+POS1921,MFS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-06-16,JS011500,2019-07-11,3,31.73333333,952,masculino,JUAREZ,Mexican,20,solter,0
+POS60,TEF,S6,Exempt,32472,Vol-Otro empleo,E3,2022-06-17,ADMINIST,2017-07-27,5,59.53333333,1786,masculino,JUAREZ,Mexican,35,casad.,0
+POS1921,MFS,S5,Direct,32550,Muerte Accidental,DO,2022-06-17,JS011500,2015-10-06,7,85.46666667,2564,femenino,COSAMALOAPAN,Mexican,33,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-06-20,JS011500,2020-05-03,2,27.9,837,femenino,COAHILA,Mexican,31,U.Libr,3
+POS1323,VS1,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-06-21,JT012324,2019-03-10,3,33.06666667,992,femenino,JUAREZ,Mexican,29,solter,2
+POS1323,VS5,S5,Direct,32575,Vol-Otro empleo,DO,2022-06-21,JF010600,2019-10-31,3,32.13333333,964,masculino,VERACRUZ,Mexican,24,solter,0
+POS1323,VS9-ABS,S5,Direct,32599,Vol-Transferencia entre planta,DO,2022-06-21,JS011500,2020-10-12,2,18.6,558,femenino,JUAREZ,Mexican,22,U.Libr,1
+POS538,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-06-21,JT031800,2021-05-01,1,17.73333333,532,masculino,JUAREZ,Mexican,20,solter,0
+POS538,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-06-21,JF060600,2017-01-02,5,65.53333333,1966,femenino,VERACRUZ,Mexican,29,U.Libr,3
+POS1323,VS7,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-06-21,JF010600,2017-08-06,5,61.3,1839,femenino,JUAREZ,Mexican,26,solter,1
+POS347,LOG,S5,Direct,32575,Vol-Otro empleo,DNO,2022-06-21,JF010600,2013-02-05,9,111.2333333,3337,masculino,NUEVO CASAS GRANDES,Mexican,29,U.Libr,0
+POS1819,LOG,S5,Direct,32577,Vol-Estudios,DNO,2022-06-21,JF010600,2014-11-08,8,95.7,2871,masculino,JUAREZ,Mexican,30,casad.,1
+POS1748,VS5,S5,Direct,32590,Vol-Transferencia entre planta,DNO,2022-06-21,JT021800,2015-01-21,7,90.26666667,2708,masculino,JUAREZ,Mexican,32,solter,0
+POS1323,VS9-ABS,S5,Direct,32594,Vol-No regreso / no dio razón,DO,2022-06-21,JT012324,2016-08-17,6,71.13333333,2134,femenino,AGUASCALIENTES,Mexican,46,solter,2
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-06-21,JF010600,2016-02-11,6,68.56666667,2057,femenino,OAXACA,Mexican,41,U.Libr,3
+POS1323,VS5,S5,Direct,32598,Imp.Tra-Falsificación de doctos.,DO,2022-06-22,JF010600,2017-12-14,5,55.03333333,1651,masculino,JUAREZ,Mexican,27,U.Libr,1
+POS1323,VS9-ABS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-06-23,JS011500,2021-01-21,1,17.26666667,518,masculino,JUAREZ,Mexican,27,solter,0
+POS514,LOG,S6,Exempt,32697,Vol-Otro empleo,E3,2022-06-24,ADMINIST,2018-10-18,4,44.83333333,1345,masculino,JUAREZ,Mexican,32,solter,0
+POS1667,TEF,S6,Managers,32560,Imp.Pat-Terminación del Contrato,SL1,2022-06-24,ADMINIST,2006-06-03,16,198.4666667,5954,femenino,JUAREZ,Mexican,48,casad.,0
+POS1230,VS7,S5,Direct,75116,Vol-Otro empleo,DNO,2022-06-28,JF010600,2018-01-02,4,53.6,1608,masculino,PUEBLA,Mexican,24,solter,0
+POS2567,TEF,S5,Direct,32577,Vol-Otro empleo,DNO,2022-06-28,ADMINIST,2018-08-30,4,46.6,1398,masculino,JUAREZ,Mexican,25,solter,0
+POS1323,VS7,S5,Direct,32600,Vol-Prob personales y/o fam.,DO,2022-06-28,JF010600,2019-04-07,3,36.33333333,1090,femenino,OAXACA,Mexican,22,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-06-28,JT012324,2020-12-03,2,27.93333333,838,masculino,CHIHUAHUA,Mexican,25,solter,1
+POS1380,MFS,S5,Direct,32599,Vol-Transferencia entre planta,DO,2022-06-28,JT031800,2021-07-01,1,17.9,537,masculino,VERACRUZ,Mexican,19,solter,0
+POS1323,VS7,S5,Direct,32696,Vol-Otro empleo,DO,2022-06-28,JF010600,2021-01-14,1,17.66666667,530,femenino,CHIHUAHUA,Mexican,26,solter,0
+POS1559,MFS,S5,Direct,32696,Vol-Otro empleo,DNO,2022-06-28,JF010600,2017-02-11,5,56.63333333,1699,masculino,JUAREZ,Mexican,26,solter,0
+POS1921,MFS,S5,Direct,32695,Vol-Razones médicas,DO,2022-06-28,JS011500,2017-11-16,5,56.16666667,1685,masculino,JUAREZ,Mexican,22,solter,0
+POS1323,VS4,S5,Direct,32575,Vol-Otro empleo,DO,2022-06-28,JF010600,2017-01-25,5,66,1980,masculino,VERACRUZ,Mexican,23,solter,0
+POS1559,MFS,S5,Direct,32720,Vol-Otro empleo,DNO,2022-06-28,JT021800,2017-08-31,5,58.73333333,1762,masculino,COAHUILA,Mexican,35,divorc,1
+POS1376,MFS,S5,Direct,32576,Vol-Insatisfacción personal,DNO,2022-06-28,JT021800,2015-07-15,7,84.66666667,2540,femenino,COSOLEACAQUE,Mexican,29,solter,0
+POS101,MFS,S6,Exempt,32590,Vol-Otro empleo,E3,2022-06-30,ADMINIST,2007-10-09,15,180.2333333,5407,masculino,PARRAL,Mexican,40,casad.,3
+POS1323,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-01-07,JF010600,2020-12-15,2,18.76666667,563,femenino,COAHUILA,Mexican,39,casad.,5
+POS2729,TEF,S6,Exempt,32674,Imp.Tra-Jubilación,E4,2022-01-07,ADMINIST,1995-05-06,27,329.6,9888,masculino,JUAREZ,Mexican,58,viud.,2
+POS1323,VS7,S5,Direct,32662,Vol-Transferencia entre planta,DO,2022-01-07,JF010600,2009-05-10,13,155.0666667,4652,femenino,JUAREZ,Mexican,51,casad.,2
+POS2622,VS7,S6,Exempt,32540,Vol-Otro empleo,E4,2022-01-07,ADMINIST,2013-05-27,9,110.7333333,3322,masculino,MADERA,Mexican,33,solter,0
+POS907,VS7,S6,Exempt,32540,Vol-Prob personales y/o fam.,E4,2022-01-07,ADMINIST,2014-05-05,8,99.3,2979,masculino,CHIHUAHUA,Mexican,60,divorc,3
+POS101,MFS,S6,Exempt,32674,Vol-Otro empleo,E3,2022-04-07,ADMINIST,2018-07-06,4,49.6,1488,masculino,CHIHUAHUA,Mexican,26,solter,0
+POS1365,VS1,S5,Direct,32540,Vol-Otro empleo,DNO,2022-05-07,JS011500,2018-01-02,4,53.83333333,1615,masculino,CHIHUAHUA,Mexican,26,solter,0
+POS1323,VS1,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-05-07,JS011500,2018-12-04,4,51.5,1545,masculino,COAHUILA,Mexican,26,solter,0
+POS1921,MFS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-05-07,JF010600,2019-10-01,3,42.4,1272,femenino,JUAREZ,Mexican,26,casad.,1
+POS347,LOG,S5,Direct,32583,Vol-Otro empleo,DNO,2022-05-07,JF050600,2019-07-18,3,36.1,1083,masculino,JUAREZ,Mexican,22,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-05-07,JT012324,2019-12-12,3,31.2,936,femenino,VERACRUZ,Mexican,39,U.Libr,3
+POS1921,MFS,S5,Direct,32599,Vol-Otro empleo,DO,2022-05-07,JF010600,2021-01-19,1,17.73333333,532,masculino,JUAREZ,Mexican,22,U.Libr,1
+POS1323,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-05-07,JS011500,2021-02-25,1,16.5,495,femenino,DURANGO,Mexican,35,U.Libr,3
+POS2094,TEF,S5,Direct,32320,Vol-Otro empleo,DNO,2022-05-07,ADMINIST,2022-02-17,0,4.6,138,femenino,JALISCO,Mexican,24,casad.,0
+POS538,VS1,S5,Direct,32575,Vol-Otro empleo,DO,2022-05-07,JF060600,2017-05-10,5,57.8,1734,femenino,JUAREZ,Mexican,23,solter,1
+POS1323,VS1,S5,Direct,32695,Vol-Razones médicas,DO,2022-05-07,JT012324,2017-11-16,5,56.4,1692,femenino,VERACRUZ,Mexican,32,U.Libr,1
+POS2553,MFS,S5,Direct,32472,Vol-Otro empleo,DNO,2022-05-07,JF050600,2017-04-27,5,63.16666667,1895,masculino,JUAREZ,Mexican,26,U.Libr,1
+POS1323,VS7,S5,Direct,32600,Vol-Prob personales y/o fam.,DO,2022-05-07,JF010600,2017-03-08,5,59.9,1797,femenino,JUAREZ,Mexican,24,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-Otro empleo,DO,2022-05-07,JF060600,2017-07-09,5,58.73333333,1762,masculino,JUAREZ,Mexican,27,solter,0
+POS1559,MFS,S5,Direct,32330,Vol-Transferencia entre planta,DNO,2022-05-07,JS011500,2013-06-03,9,113.6,3408,masculino,JUAREZ,Mexican,29,solter,0
+POS1323,VS4,S5,Direct,32575,Vol-Otro empleo,DO,2022-05-07,JF010600,2016-02-03,6,77.2,2316,femenino,JUAREZ,Mexican,26,casad.,1
+POS1748,VS4,S5,Direct,32594,Vol-No regreso / no dio razón,DNO,2022-06-07,JS011500,2017-04-27,5,63.2,1896,femenino,JUAREZ,Mexican,25,solter,1
+POS1133,LOG,S6,Exempt,32240,Vol-Otro empleo,E4,2022-08-07,ADMINIST,2019-09-05,3,38.53333333,1156,masculino,JUAREZ,Mexican,30,casad.,2
+POS2756,TEF,S5,Direct,32690,Vol-Transferencia entre planta,DNO,2022-08-07,ADMINIST,2021-03-18,1,15.9,477,femenino,CHIHUAHUA,Mexican,25,solter,0
+POS1974,VS4,S6,Exempt,32650,Vol-Otro empleo,E3,2022-08-07,ADMINIST,2021-09-12,1,7.033333333,211,femenino,CHIHUAHUA,Mexican,26,solter,0
+POS907,VS7,S6,Exempt,32617,Vol-Otro empleo,E4,2022-08-07,ADMINIST,2017-04-17,5,63.6,1908,femenino,CULIACAN,Mexican,39,casad.,2
+POS2062,VS4,S6,Exempt,32690,Vol-Otro empleo,E3,2022-08-07,ADMINIST,2015-10-28,7,81.5,2445,masculino,JUAREZ,Mexican,33,solter,0
+POS2076,HRL,S6,Exempt,32543,Imp.Tra-Ausentismos continuos,E3,2022-11-07,ADMINIST,2022-05-26,0,1.533333333,46,femenino,ZACATECAS,Mexican,33,divorc,3
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-12-07,JF010600,2020-01-10,2,21.63333333,649,femenino,CHIHUAHUA,Mexican,20,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-12-07,JF010600,2021-01-19,1,17.96666667,539,femenino,VERACRUZ,Mexican,31,U.Libr,2
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-12-07,JT012324,2021-01-26,1,17.73333333,532,masculino,JUAREZ,Mexican,37,U.Libr,1
+POS347,LOG,S5,Direct,32575,Vol-Prob personales y/o fam.,DNO,2022-12-07,JF010600,2017-06-04,5,64.1,1923,masculino,PASO DE OVEJAS,Mexican,28,U.Libr,1
+POS347,LOG,S5,Direct,32575,Vol-Prob personales y/o fam.,DNO,2022-12-07,JS011500,2017-06-15,5,61.76666667,1853,femenino,LOMA BONITA,Mexican,50,U.Libr,1
+POS1921,MFS,S5,Direct,32696,Vol-Otro empleo,DO,2022-12-07,JT012324,2016-08-17,6,71.83333333,2155,masculino,CUERNAVACA,Mexican,27,solter,0
+POS1230,VS4,S5,Direct,32573,Imp.Tra-Jubilación,DNO,2022-07-15,JF010600,2006-06-07,16,195.1,5853,masculino,ALLENDE,Mexican,58,casad.,2
+POS1323,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-07-18,JS011500,2020-05-03,2,28.83333333,865,femenino,OTEAPAN,Mexican,36,casad.,2
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-07-19,JF060600,2018-05-04,4,52.2,1566,femenino,JUAREZ,Mexican,30,U.Libr,2
+POS1323,VS1,S5,Direct,32575,Vol-Estudios,DO,2022-07-19,JS011500,2019-01-24,3,42.4,1272,masculino,JUAREZ,Mexican,22,solter,0
+POS1323,VS9-ABS,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-07-19,JT012324,2020-01-30,2,30.03333333,901,femenino,JUAREZ,Mexican,22,casad.,2
+POS2384,QMM,S5,Direct,32575,Vol-Otro empleo,DNO,2022-07-19,JF010600,2020-03-12,2,19.76666667,593,masculino,JUAREZ,Mexican,23,solter,0
+POS2718,VS9-ABS,S5,Direct,32575,Vol-Insatisfacción personal,DNO,2022-07-19,ADMINIST,2020-12-15,2,19.36666667,581,masculino,JUAREZ,Mexican,26,solter,0
+POS1323,VS9-ABS,S5,Direct,32540,Vol-Cambio de domicilio,DO,2022-07-19,JF010600,2021-04-03,1,16.73333333,502,femenino,CHIAPAS,Mexican,19,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-07-19,JF010600,2017-03-30,5,64.56666667,1937,femenino,TORREON,Mexican,36,U.Libr,3
+POS1365,VS1,S5,Direct,32575,Vol-Insatisfacción personal,DNO,2022-07-19,JT012324,2010-07-06,12,147.5,4425,masculino,CIUDAD DE MEXICO,Mexican,40,casad.,3
+POS1230,VS9-ABS,S5,Direct,32100,Vol-Otro empleo,DNO,2022-07-19,JS011500,2016-11-16,6,69.03333333,2071,masculino,JUAREZ,Mexican,31,solter,0
+POS2062,MFS,S6,Exempt,32563,Vol-Prob personales y/o fam.,E3,2022-07-22,ADMINIST,2016-09-13,6,71.26666667,2138,masculino,ATIZAPAN,Mexican,33,casad.,3
+POS1380,MFS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-07-25,JF060600,2021-01-19,1,18.4,552,femenino,CHIHUAHUA,Mexican,21,solter,0
+POS1559,MFS,S5,Direct,32500,Vol-Otro empleo,DNO,2022-07-26,JT021800,2018-12-04,4,52.2,1566,masculino,VERACRUZ,Mexican,32,solter,3
+POS1921,MFS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-07-26,JS011500,2018-05-17,4,51.03333333,1531,masculino,OAXACA,Mexican,24,solter,1
+POS347,LOG,S5,Direct,32590,Vol-Insatisfacción personal,DNO,2022-07-26,JF010600,2019-03-28,3,40.53333333,1216,masculino,JUAREZ,Mexican,30,U.Libr,4
+POS1323,VS9-ABS,S5,Direct,32577,Vol-Prob personales y/o fam.,DO,2022-07-26,JT012324,2020-06-02,2,30.03333333,901,femenino,COAHUILA,Mexican,28,U.Libr,2
+POS1559,MFS,S5,Direct,32100,Vol-Cambio de domicilio,DNO,2022-07-26,JS011500,2000-08-22,22,266.9333333,8008,masculino,COAHUILA,Mexican,44,casad.,3
+POS1323,VS1,S5,Direct,32594,Vol-Transferencia entre planta,DO,2022-07-26,JS011500,2016-06-01,6,79.76666667,2393,masculino,GOMEZ PALACIO,Mexican,34,casad.,2
+POS1921,MFS,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-07-26,JT012324,2016-12-10,6,70.43333333,2113,femenino,SANTIAGO PAPASQUIARO,Mexican,42,divorc,4
+POS1748,VS7,S5,Direct,32575,Vol-Cambio de domicilio,DNO,2022-07-26,JS011500,2018-03-15,4,53.13333333,1594,masculino,JUAREZ,Mexican,26,solter,1
+POS2427,CTG,S5,Direct,32576,Imp.Tra-LFT y/o Reglamento Int.,DNO,2022-07-29,JF010600,2021-04-03,1,17.06666667,512,masculino,JUAREZ,Mexican,30,U.Libr,2
+POS139,VS1-HOUS,S6,Exempt,32680,Vol-Otro empleo,E3,2022-07-29,ADMINIST,2015-10-06,7,86.86666667,2606,masculino,JUAREZ,Mexican,34,casad.,0
+POS2847,TEF,S6,Exempt,32600,Vol-Transferencia entre planta,E3,2022-07-30,ADMINIST,2018-06-09,4,47.43333333,1423,masculino,JUAREZ,Mexican,26,solter,1
+POS2597,TEF,S6,Exempt,32674,Vol-Transferencia entre planta,E3,2022-07-30,ADMINIST,2017-06-02,5,66.66666667,2000,masculino,JUAREZ,Mexican,27,solter,2
+POS1520,TEF,S6,Exempt,32546,Vol-Transferencia entre planta,E3,2022-07-30,ADMINIST,2008-01-09,14,169.3333333,5080,masculino,JUAREZ,Mexican,37,U.Libr,2
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-01-08,JT031800,2021-01-26,1,18.4,552,femenino,TAMAULIPAS,Mexican,34,casad.,3
+POS2622,VS7,S6,Exempt,32350,Vol-Cambio de domicilio,E3,2022-01-08,ADMINIST,2013-06-24,9,110.8333333,3325,masculino,CHIHUAHUA,Mexican,45,casad.,3
+POS1230,VS9-ABS,S5,Direct,32300,Vol-Prob personales y/o fam.,DNO,2022-08-23,ADMINIST,2013-10-23,9,107.5333333,3226,masculino,TORREON,Mexican,63,casad.,3
+POS1323,VS4,S5,Direct,32599,Vol-Razones médicas,DO,2022-02-08,JF010600,2019-04-07,3,37.5,1125,masculino,JUAREZ,Mexican,29,U.Libr,1
+POS1323,VS4,S5,Direct,32575,Vol-Otro empleo,DO,2022-02-08,JF010600,2020-10-29,2,21.4,642,femenino,SAN PEDRO,Mexican,24,solter,0
+POS1230,VS5,S5,Direct,32670,Vol-Estudios,DNO,2022-09-08,ADMINIST,2018-08-30,4,48,1440,masculino,JUAREZ,Mexican,25,solter,0
+POS347,LOG,S5,Direct,32577,Vol-Estudios,DNO,2022-09-08,JT012324,2017-09-21,5,59.43333333,1783,masculino,GUANAJUATIO,Mexican,26,Solter,0
+POS1323,VS4,S5,Direct,32574,Vol-Otro empleo,DO,2022-02-08,JF010600,2013-06-19,9,111.0333333,3331,femenino,SAN ANDRES TUXTLA,Mexican,52,solter,0
+POS2553,QMM,S5,Direct,32590,Vol-Otro empleo,DNO,2022-09-08,JT012324,2007-07-16,15,183.4333333,5503,femenino,JUAREZ,Mexican,33,U.Libr,3
+POS1323,VS7,S5,Direct,32599,Vol-Transferencia entre planta,DO,2022-02-08,JS011500,2016-09-03,6,77.9,2337,femenino,JUAN ALDAMA,Mexican,40,U.Libr,4
+POS538,VS7,S5,Direct,32599,Vol-Cambio de domicilio,DO,2022-02-08,JT031800,2016-10-26,6,70.2,2106,femenino,OAXACA,Mexican,38,solter,5
+POS1661,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-03-08,JS011500,2022-07-21,0,0.4333333333,13,masculino,COAHUILA,Mexican,50,U.Libr,2
+POS2718,VS7,S5,Direct,32472,Vol-Transferencia entre planta,DNO,2022-05-08,ADMINIST,2018-03-05,4,51.83333333,1555,masculino,CHIHUAHUA,Mexican,26,solter,0
+POS2756,TEF,S5,Direct,32605,Vol-Transferencia entre planta,DNO,2022-05-08,JF010600,2020-05-11,2,21.26666667,638,masculino,JUAREZ,Mexican,25,solter,0
+POS1921,MFS,S5,Direct,32580,Vol-Transferencia entre planta,DO,2022-05-08,JS011500,2020-12-15,2,19.93333333,598,femenino,JUAREZ,Mexican,20,solter,0
+POS2062,VS5,S6,Exempt,32674,Vol-Otro empleo,E3,2022-05-08,ADMINIST,2013-09-01,9,116.5,3495,masculino,OAXACA,Mexican,30,solter,0
+POS1230,VS9-ABS,S5,Direct,32575,Vol-Otro empleo,DNO,2022-09-08,JT012324,2013-07-08,9,109.6333333,3289,masculino,DURANGO,Mexican,28,Casad.,1
+POS2456,MFS,S5,Direct,32540,Vol-Transferencia entre planta,DNO,2022-12-08,ADMINIST,2019-01-17,3,43.43333333,1303,masculino,JUAREZ,Mexican,26,solter,0
+POS1323,VS9-ABS,S5,Direct,32690,Vol-Otro empleo,DO,2022-09-08,JS011500,2019-07-25,3,37.03333333,1111,masculino,JUAREZ,Mexican,23,solter,0
+POS1748,VS9-ABS,S5,Direct,32600,Vol-Transferencia entre planta,DNO,2022-09-08,JS011500,2020-01-16,2,31.2,936,femenino,CHIHUAHUA,Mexican,23,U.Libr,1
+POS1921,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-12-08,JF010600,2020-01-23,2,31.06666667,932,femenino,JUAREZ,Mexican,20,solter,1
+POS538,VS7,S5,Direct,27000,Vol-Insatisfacción personal,DO,2022-09-08,JF060600,2020-02-13,2,30.26666667,908,masculino,JUAREZ,Mexican,23,solter,0
+POS347,LOG,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DNO,2022-09-08,JS011500,2021-08-19,1,11.83333333,355,masculino,CHIHUAHUA,Mexican,29,casad.,3
+POS1230,VS5,S5,Direct,32590,Vol-Otro empleo,DNO,2022-09-08,JT012324,2015-08-04,7,89.33333333,2680,masculino,JUAREZ,Mexican,27,Solter,0
+POS1230,VS4,S5,Direct,23575,Vol-Otro empleo,DNO,2022-08-30,JT012324,2020-10-09,2,23.96666667,719,femenino,QUERETARO,Mexican,22,solter,0
+POS1230,VS7,S5,Direct,32250,Vol-Otro empleo,DNO,2022-02-08,JF050600,2016-01-27,6,79.3,2379,masculino,JUAREZ,Mexican,26,solter,0
+POS2456,MFS,S5,Direct,32606,Vol-Otro empleo,DNO,2022-08-23,JF010600,2019-06-20,3,38.66666667,1160,femenino,JUAREZ,Mexican,26,solter,1
+POS1921,MFS,S5,Direct,32543,Vol-No regreso / no dio razón,DO,2022-08-18,JF010600,2020-12-03,2,29.63333333,889,femenino,CHIHUAHUA,Mexican,29,solter,0
+POS1323,VS5,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-08-19,JF010600,2020-11-26,2,21.03333333,631,femenino,JUAREZ,Mexican,23,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Estudios,DO,2022-08-16,JT012324,2020-11-26,2,20.93333333,628,masculino,JUAREZ,Mexican,19,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Otro empleo,DO,2022-08-16,JF010600,2020-08-12,2,20.53333333,616,masculino,VERACRUZ,Mexican,26,casad.,2
+POS1559,MFS,S5,Direct,32594,Vol-Otro empleo,DNO,2022-08-23,JF010600,2013-07-15,9,110.8666667,3326,femenino,CORDOVA VER,Mexican,29,casad.,0
+POS2338,CTG,S6,Exempt,32150,Vol-Otro empleo,E3,2022-08-15,ADMINIST,2021-08-19,1,12.03333333,361,masculino,JUAREZ,Mexican,29,solter,0
+POS1376,MFS,S5,Direct,32599,Vol-No regreso / no dio razón,DNO,2022-01-08,JS011500,2014-08-27,8,96.53333333,2896,masculino,OAXACA,Mexican,37,U.Libr,3
+POS1323,VS9-ABS,S5,Direct,32590,Vol-Prob personales y/o fam.,DO,2022-08-16,JT012324,2013-09-10,9,107.7666667,3233,femenino,JUAREZ,Mexican,30,U.Libr,1
+POS1921,MFS,S5,Direct,32599,Vol-Cambio de domicilio,DO,2022-08-16,JS011500,2013-10-30,9,107.0666667,3212,masculino,COAHUILA,Mexican,33,casad.,3
+POS706,LOG,S6,Exempt,32667,Vol-Otro empleo,E3,2022-08-16,ADMINIST,2014-07-05,8,100.7666667,3023,masculino,JUAREZ,Mexican,30,casad.,0
+POS2803,VS1,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DNO,2022-08-15,JT012324,2016-10-19,6,70.86666667,2126,masculino,SOTEAPAN,Mexican,24,solter,0
+POS1323,VS5,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-08-24,JT012324,2018-02-15,4,55.03333333,1651,femenino,OAXACA DE JUAREZ,Mexican,43,solter,2
+POS1230,VS4,S5,Direct,32695,Vol-Otro empleo,DNO,2022-02-08,JS011500,2005-05-25,17,209.2666667,6278,masculino,VERACRUZ,Mexican,43,casad.,2
+POS1323,VS5,S5,Direct,32575,Vol-Razones médicas,DO,2022-08-23,JT012324,2020-11-26,2,21.16666667,635,masculino,JUAREZ,Mexican,20,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-08-23,JF010600,2020-10-12,2,20.7,621,femenino,JUAREZ,Mexican,48,U.Libr,3
+POS454,TEF,S5,Direct,32576,Vol-Transferencia entre planta,DNO,2022-08-26,JF010600,2021-10-14,1,10.53333333,316,masculino,JUAREZ,Mexican,23,solter,0
+POS2939,VS7,S5,Direct,32573,Vol-No regreso / no dio razón,DO,2022-08-22,JF010600,2022-07-28,0,0.8333333333,25,femenino,CHIHUAHUA,Mexican,20,solter,0
+POS2939,VS9-ABS,S5,Direct,32695,Vol-No regreso / no dio razón,DO,2022-08-25,JF010600,2022-04-08,0,0.7,21,masculino,MORELOS,Mexican,24,casad.,1
+POS2939,VS9-ABS,S5,Direct,32600,Vol-No regreso / no dio razón,DO,2022-08-25,JF010600,2022-04-08,0,0.7,21,masculino,JUAREZ,Mexican,19,solter,0
+POS2939,VS9-ABS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-08-22,JS011500,2022-04-08,0,0.6,18,femenino,IXHUATAN,Mexican,41,solter,2
+POS1376,VS5,S5,Direct,32575,Imp.Tra-LFT y/o Reglamento Int.,DNO,2022-08-22,JS011500,2009-11-08,13,158.6333333,4759,masculino,TORREON,Mexican,42,U.Libr,1
+POS1921,MFS,S5,Direct,32599,Imp.Tra-Ausentismos continuos,DO,2022-08-23,JS011500,2012-11-09,10,121.1,3633,femenino,TORREON,Mexican,41,divorc,3
+POS2698,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DNO,2022-08-23,JS011500,2013-05-15,9,112.9,3387,femenino,CHIAPAS,Mexican,37,casad.,4
+POS1323,VS7,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-08-23,JS011500,2013-05-22,9,112.6666667,3380,femenino,ETMAPACHE,Mexican,28,solter,1
+POS347,LOG,S5,Direct,32575,Vol-Otro empleo,DNO,2022-08-30,JS011500,2013-08-28,9,109.6333333,3289,masculino,JIMENEZ,Mexican,39,casad.,0
+POS347,LOG,S5,Direct,32695,Vol-Otro empleo,DNO,2022-08-16,JF010600,2021-06-05,1,15.56666667,467,masculino,COAHUILA,Mexican,32,casad.,2
+POS1921,MFS,S5,Direct,32587,Imp.Tra-LFT y/o Reglamento Int.,DO,2022-08-26,JF010600,2014-02-19,8,103.6666667,3110,femenino,JUAREZ,Mexican,56,solter,2
+POS750,TEF,S5,Direct,32695,Vol-Otro empleo,DNO,2022-02-08,ADMINIST,2017-09-28,5,58.96666667,1769,masculino,CUAUHTEMOC,Mexican,28,solter,0
+POS2939,VS9-ABS,S5,Direct,32450,Vol-No regreso / no dio razón,DO,2022-08-31,JF010600,2022-04-08,0,0.9,27,masculino,CHIHUAHUA,Mexican,24,U.Libr,1
+POS2939,VS9-ABS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-08-30,JS011500,2022-11-08,0,0.6333333333,19,masculino,VERACRUZ,Mexican,34,U.Libr,3
+POS2939,VS9-ABS,S5,Direct,32590,Vol-Transferencia entre planta,DO,2022-08-30,JS011500,2022-11-08,0,0.6333333333,19,masculino,CHIHUAHUA,Mexican,28,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-08-30,JS011500,2017-12-21,5,57.1,1713,femenino,IXHUATAN,Mexican,31,U.Libr,1
+POS101,MFS,S6,Exempt,32699,Vol-Otro empleo,E3,2022-02-09,ADMINIST,2005-02-14,17,213.6333333,6409,masculino,ZACATECAS,Mexican,44,casad.,3
+POS1230,MFS,S5,Direct,32675,Imp.Tra-Jubilación,DNO,2022-02-09,JF010600,2006-01-18,16,202.3666667,6071,masculino,CHIHUAHUA,Mexican,62,casad.,4
+POS1323,VS7,S5,Direct,32584,Vol-Insatisfacción personal,DO,2022-08-30,JF010600,2006-11-10,16,193.4,5802,femenino,JUAREZ,Mexican,38,solter,3
+POS1230,VS4,S5,Direct,32599,Vol-Otro empleo,DNO,2022-08-16,JF010600,2010-10-20,12,143.9333333,4318,masculino,JUAREZ,Mexican,30,U.Libr,0
+POS1667,VS7,S6,Managers,32472,Imp.Pat-Terminación del Contrato,SL1,2022-02-09,ADMINIST,2015-02-12,7,82.2,2466,masculino,CIUDAD DE MEXICO,Mexican,50,casad.,2
+POS1323,VS1,S5,Direct,32590,Vol-Cambio de domicilio,DO,2022-08-30,JS011500,2016-05-10,6,71.83333333,2155,masculino,IXHUATAN,Mexican,35,casad.,2
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-06-09,JT031800,2019-10-24,3,34.93333333,1048,femenino,SONORA,Mexican,32,U.Libr,2
+POS538,VS1,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-06-09,JF060600,2020-01-30,2,31.66666667,950,femenino,JUAREZ,Mexican,25,U.Libr,2
+POS1323,VS7,S5,Direct,32575,Vol-Estudios,DO,2022-06-09,JS011500,2020-05-03,2,30.5,915,masculino,JUAREZ,Mexican,21,solter,0
+POS2338,CTG,S6,Exempt,32538,Vol-Otro empleo,E3,2022-05-09,ADMINIST,2020-02-07,2,26.5,795,femenino,JUAREZ,Mexican,25,solter,0
+POS1380,MFS,S5,Direct,32575,Vol-Otro empleo,DO,2022-06-09,JF060600,2020-12-22,2,20.76666667,623,masculino,JUAREZ,Mexican,36,U.Libr,1
+POS1921,MFS,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-06-09,JF010600,2021-05-01,1,20.3,609,femenino,JUAREZ,Mexican,19,solter,0
+POS1380,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-06-09,JT031800,2021-01-14,1,20,600,femenino,OAXACA,Mexican,45,U.Libr,2
+POS2939,VS9-ABS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-06-09,JS011500,2022-11-08,0,0.8666666667,26,femenino,CORDOVA,Mexican,25,casad.,0
+POS1323,VS5,S5,Direct,32599,Vol-Razones médicas,DO,2022-06-09,JF010600,2016-11-30,6,70.2,2106,femenino,JUAREZ,Mexican,46,U.Libr,3
+POS1559,MFS,S5,Direct,32600,Vol-Otro empleo,DNO,2022-06-09,JT021800,2017-06-29,5,63.16666667,1895,masculino,JUAREZ,Mexican,23,solter,0
+POS1230,VS4,S5,Direct,32599,Vol-Transferencia entre planta,DNO,2022-09-09,JT012324,2008-05-02,14,177.6666667,5330,masculino,JUAREZ,Mexican,39,casad.,1
+POS1559,MFS,S5,Direct,32590,Vol-Otro empleo,DNO,2022-06-09,JF010600,2009-08-14,13,159.0333333,4771,masculino,JUAREZ,Mexican,35,casad.,3
+POS1323,VS7,S5,Direct,32599,Imp.Tra-Ausentismos continuos,DO,2022-08-09,JF010600,2009-11-11,13,156.1333333,4684,femenino,ACAPULCO,Mexican,49,divorc,3
+POS723,LOG,S6,Exempt,32500,Vol-Transferencia entre planta,E4,2022-05-09,ADMINIST,2012-03-28,10,127.1,3813,masculino,JUAREZ,Mexican,32,solter,1
+POS1230,VS4,S5,Direct,32575,Vol-Transferencia entre planta,DNO,2022-09-09,JT012324,2013-06-03,9,115.8,3474,masculino,COAHUILA,Mexican,39,casad.,3
+POS347,LOG,S5,Direct,32599,Imp.Tra-LFT y/o Reglamento Int.,DNO,2022-08-09,JS011500,2014-09-24,8,96.86666667,2906,masculino,CIUDAD DE MEXICO,Mexican,38,U.Libr,2
+POS1921,MFS,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-06-09,JF010600,2015-01-14,7,93.06666667,2792,femenino,JUAREZ,Mexican,30,solter,0
+POS2003,VS5,S5,Direct,32599,Vol-Otro empleo,DO,2022-06-09,JF050600,2016-10-26,6,71.36666667,2141,femenino,JUAREZ,Mexican,32,solter,2
+POS1921,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-09-16,JT012324,2020-09-01,2,32.7,981,femenino,JUAREZ,Mexican,25,solter,0
+POS1111,VS7,S5,Direct,32230,Vol-Otro empleo,DNO,2022-09-13,JF010600,2020-01-13,2,32.46666667,974,femenino,JUAREZ,Mexican,31,solter,0
+POS1230,VS4,S5,Direct,32599,Vol-Otro empleo,DNO,2022-09-13,JS011500,2020-11-19,2,22.1,663,masculino,CHIHUAHUA,Mexican,25,solter,0
+POS538,VS9-ABS,S5,Direct,32599,Vol-Insatisfacción personal,DO,2022-09-13,JT031800,2022-08-25,0,0.6333333333,19,femenino,CHIHUAHUA,Mexican,29,casad.,4
+POS538,VS9-ABS,S5,Direct,32590,Vol-Insatisfacción personal,DO,2022-09-13,JT031800,2022-08-25,0,0.6333333333,19,femenino,JUAREZ,Mexican,26,casad.,2
+POS1323,VS1,S5,Direct,32500,Vol-Prob personales y/o fam.,DO,2022-09-13,JF010600,2017-09-28,5,60.36666667,1811,femenino,JUAREZ,Mexican,25,casad.,1
+POS1230,VS5,S5,Direct,32598,Vol-Insatisfacción personal,DNO,2022-09-13,JF010600,2008-06-30,14,172.9333333,5188,masculino,COAHUILA,Mexican,35,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-09-13,JT012324,2014-08-10,8,96.56666667,2897,femenino,JUAREZ,Mexican,39,solter,3
+POS2858,QMM,S6,Exempt,32652,Vol-Otro empleo,E4,2022-09-14,ADMINIST,2021-09-12,1,9.3,279,femenino,JUAREZ,Mexican,30,casad.,1
+POS1230,VS7,S5,Direct,32573,Vol-Otro empleo,DNO,2022-09-13,JS011500,2015-09-09,7,85.36666667,2561,masculino,JUAREZ,Mexican,26,solter,0
+POS251,HSE,S6,Exempt,32050,Vol-Otro empleo,E3,2022-09-20,ADMINIST,2015-06-04,7,90.8,2724,femenino,TAMPICO,Mexican,41,casad.,2
+POS1230,VS7,S5,Direct,32590,Vol-Transferencia entre planta,DNO,2022-09-23,JF050600,2018-09-08,4,50.2,1506,masculino,JUAREZ,Mexican,24,solter,1
+POS2988,TEF,S5,Direct,32647,Vol-Transferencia entre planta,DNO,2022-09-23,JF010600,2018-08-30,4,49.5,1485,masculino,JUAREZ,Mexican,25,solter,0
+POS1323,VS9-ABS,S5,Direct,32598,Vol-Transferencia entre planta,DO,2022-09-23,JT012324,2019-07-25,3,38.53333333,1156,femenino,DURANGO,Mexican,45,U.Libr,1
+POS750,TEF,S5,Direct,32550,Vol-Transferencia entre planta,DNO,2022-09-23,ADMINIST,2021-11-02,1,19.63333333,589,femenino,JUAREZ,Mexican,23,solter,0
+POS2062,VS4,S6,Exempt,32350,Vol-Otro empleo,E3,2022-09-22,ADMINIST,2017-08-24,5,61.83333333,1855,masculino,DELICIAS,Mexican,34,solter,0
+POS1559,MFS,S5,Direct,32720,Vol-Transferencia entre planta,DNO,2022-09-23,JF010600,2014-03-09,8,98.06666667,2942,masculino,JUAREZ,Mexican,27,solter,0
+POS347,LOG,S5,Direct,32590,Vol-No regreso / no dio razón,DNO,2022-09-19,JT012324,2018-12-04,4,54.03333333,1621,masculino,CHIHUAHUA,Mexican,27,U.Libr,2
+POS538,VS5,S5,Direct,32575,Vol-Otro empleo,DO,2022-09-20,JF060600,2019-10-17,3,35.63333333,1069,femenino,JUAREZ,Mexican,24,solter,0
+POS1559,MFS,S5,Direct,32575,Vol-Otro empleo,DNO,2022-09-20,JS011500,2020-02-13,2,31.66666667,950,masculino,JUAREZ,Mexican,25,U.Libr,0
+POS1323,VS9-ABS,S5,Direct,32500,Imp.Tra-Ausentismos continuos,DO,2022-09-20,JS011500,2020-12-29,2,21,630,femenino,DURANGO,Mexican,44,solter,3
+POS1921,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-09-20,JS011500,2021-04-02,1,19.76666667,593,femenino,IXHUATLAN DEL SURESTE,Mexican,21,solter,0
+POS750,TEF,S5,Direct,32696,Vol-Estudios,DNO,2022-09-20,ADMINIST,2022-01-09,0,0.6333333333,19,femenino,JUAREZ,Mexican,21,casad.,1
+POS1323,VS5,S5,Direct,32590,Vol-Otro empleo,DO,2022-09-20,JT012324,2016-12-14,6,70.2,2106,masculino,PUEBLA,Mexican,35,U.Libr,1
+POS2803,VS7,S5,Direct,32280,Vol-Cambio de domicilio,DNO,2022-09-21,JT012324,2012-08-15,10,122.9666667,3689,masculino,JUAREZ,Mexican,50,casad.,2
+POS2803,VS1,S5,Direct,32170,Vol-Otro empleo,DNO,2022-09-20,JF010600,2012-12-09,10,122,3660,masculino,CIUDAD DE MEXICO,Mexican,33,solter,0
+POS1323,VS9-ABS,S5,Direct,32599,Vol-Insatisfacción personal,DO,2022-09-20,JS011500,2014-05-21,8,101.4666667,3044,femenino,VERACRUZ,Mexican,44,casad.,2
+POS1559,MFS,S5,Direct,32599,Vol-Otro empleo,DNO,2022-09-20,JF010600,2015-12-16,7,82.33333333,2470,masculino,VICENTE GUERRERO,Mexican,25,solter,0
+POS1921,MFS,S5,Direct,32594,Imp.Tra-Ausentismos continuos,DO,2022-09-20,JS011500,2016-06-01,6,81.63333333,2449,masculino,JALTIPAN,Mexican,25,solter,0
+POS1323,VS1,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-09-27,JS011500,2019-10-24,3,35.63333333,1069,femenino,JUAREZ,Mexican,21,solter,0
+POS1323,VS1,S5,Direct,32540,Vol-Transferencia entre planta,DO,2022-09-30,JF010600,2020-12-15,2,21.8,654,femenino,JUAREZ,Mexican,20,solter,0
+POS1323,VS4,S5,Direct,32599,Vol-Estudios,DO,2022-09-27,JS011500,2021-01-26,1,20.3,609,femenino,JUAREZ,Mexican,21,solter,0
+POS1921,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-09-27,JF010600,2021-01-28,1,20.23333333,607,femenino,CIUDAD DE MEXICO,Mexican,35,casad.,1
+POS2939,VS7,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-09-30,JF010600,2022-07-21,0,2.366666667,71,femenino,JUAREZ,Mexican,22,U.Libr,0
+POS1661,MFS,S5,Direct,32590,Vol-Otro empleo,DO,2022-09-27,JS011500,2022-07-28,0,2.033333333,61,masculino,TIERRA BLANCA,Mexican,29,solter,0
+POS2939,VS1,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-09-28,JT012324,2022-01-09,0,0.9,27,masculino,VERACRUZ,Mexican,37,U.Libr,1
+POS2939,VS9-ABS,S5,Direct,32583,Vol-No regreso / no dio razón,DO,2022-09-28,JT012324,2022-08-09,0,0.6666666667,20,masculino,JUAREZ,Mexican,47,casad.,2
+POS347,LOG,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DNO,2022-09-27,JS011500,2022-08-09,0,0.6333333333,19,masculino,BALLEZA,Mexican,39,U.Libr,2
+POS1380,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-09-27,JT031800,2022-09-14,0,0.4333333333,13,femenino,PUNTA DE AGUA,Mexican,44,U.Libr,0
+POS1380,MFS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-09-27,JT031800,2022-09-14,0,0.4333333333,13,masculino,MICHOACAN,Mexican,47,solter,2
+POS1921,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-09-27,JS011500,2017-01-18,5,69.26666667,2078,femenino,JUAREZ,Mexican,26,solter,0
+POS1323,VS1,S5,Direct,32674,Vol-Cambio de domicilio,DO,2022-09-27,JT012324,2017-08-24,5,62,1860,femenino,FRANCISCO I MADERO,Mexican,36,U.Libr,3
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-09-27,JF010600,2017-07-09,5,61.53333333,1846,femenino,CIUDAD DE MEXICO,Mexican,27,casad.,0
+POS2003,VS7,S5,Direct,32590,Vol-Otro empleo,DO,2022-09-27,JF010600,2016-01-13,6,81.63333333,2449,masculino,JUAREZ,Mexican,30,solter,0
+POS750,TEF,S5,Direct,32546,Vol-Otro empleo,DNO,2022-09-27,ADMINIST,2016-10-08,6,74.63333333,2239,femenino,EL FUERTE,Mexican,34,casad.,0
+POS1380,MFS,S5,Direct,32587,Vol-Otro empleo,DO,2022-04-10,JT031800,2017-12-28,5,58.03333333,1741,femenino,CHIHUAHUA,Mexican,23,solter,0
+POS1230,VS7,S5,Direct,32695,Vol-Transferencia entre planta,DNO,2022-07-10,JF010600,2016-11-30,6,71.23333333,2137,masculino,JUAREZ,Mexican,34,casad.,2
+POS2915,TEF,S5,Direct,32230,Vol-Razones médicas,DNO,2022-04-10,JT012324,1995-09-25,27,329.0333333,9871,masculino,JUAREZ,Mexican,47,U.Libr,2
+POS538,VS1,S5,Direct,32594,Imp.Tra-Ausentismos continuos,DO,2022-04-10,JF060600,2017-07-20,5,63.4,1902,femenino,JUAREZ,Mexican,23,solter,0
+POS1520,TEF,S6,Exempt,32598,Vol-Otro empleo,E3,2022-06-10,ADMINIST,2013-07-15,9,112.3333333,3370,femenino,JUAREZ,Mexican,33,solter,0
+POS2821,VS4,S6,Exempt,32422,Imp.Pat-Pensionado IMSS,E4,2022-07-10,ADMINIST,2013-08-19,9,111.2,3336,masculino,RAMOS ARIZPE,Mexican,53,casad.,3
+POS2003,VS7,S5,Direct,32550,Vol-Otro empleo,DO,2022-04-10,JF010600,2013-11-11,9,108.3,3249,masculino,JUAREZ,Mexican,28,solter,0
+POS347,LOG,S5,Direct,32599,Vol-Otro empleo,DNO,2022-04-10,JS011500,2014-12-11,8,96.1,2883,masculino,PUEBLA,Mexican,26,U.Libr,0
+POS1323,VS9-ABS,S5,Direct,32594,Vol-Insatisfacción personal,DO,2022-04-10,JT012324,2016-01-27,6,81.4,2442,masculino,JUAREZ,Mexican,30,solter,0
+POS907,VS5,S6,Exempt,32403,Vol-Transferencia entre planta,E4,2022-07-10,ADMINIST,2016-04-20,6,78.7,2361,femenino,JUAREZ,Mexican,28,solter,0
+POS347,LOG,S5,Direct,32584,Vol-Insatisfacción personal,DNO,2022-11-10,JT021800,2018-02-15,4,56.63333333,1699,masculino,JUAREZ,Mexican,33,casad.,2
+POS1921,MFS,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-11-10,JS011500,2020-01-16,2,33.3,999,femenino,DURANGO,Mexican,36,casad.,2
+POS1323,VS7,S5,Direct,32600,Vol-Transferencia entre planta,DO,2022-10-14,JT012324,2020-02-13,2,32.46666667,974,masculino,JUAREZ,Mexican,22,solter,0
+POS1380,MFS,S5,Direct,32599,Imp.Tra-Ausentismos continuos,DO,2022-11-10,JF060600,2020-08-12,2,22.4,672,femenino,JUAREZ,Mexican,22,solter,0
+POS1230,VS4,S5,Direct,32576,Vol-Otro empleo,DNO,2022-11-10,JF010600,2020-12-15,2,22.16666667,665,masculino,OAXACA,Mexican,24,solter,0
+POS1323,VS1,S5,Direct,32599,Vol-Razones médicas,DO,2022-11-10,JT012324,2020-12-29,2,21.7,651,femenino,JUAREZ,Mexican,27,solter,0
+POS1921,MFS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-11-10,JS011500,2021-01-21,1,20.93333333,628,masculino,TUXTEPEC,Mexican,31,solter,0
+POS514,LOG,S6,Exempt,32350,Vol-Transferencia entre planta,E3,2022-12-10,ADMINIST,2022-04-08,0,2.3,69,femenino,JUAREZ,Mexican,28,solter,0
+POS2939,VS9-ABS,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2022-12-10,JT012324,2022-09-22,0,0.6666666667,20,femenino,DURANGO,Mexican,29,solter,2
+POS347,LOG,S5,Direct,32599,Vol-Prob personales y/o fam.,DNO,2022-11-10,JF010600,2017-12-04,5,66.93333333,2008,femenino,JUAREZ,Mexican,26,solter,1
+POS1559,MFS,S5,Direct,32600,Vol-Transferencia entre planta,DNO,2022-10-21,JT012324,2019-02-21,3,44.6,1338,masculino,TORREON,Mexican,47,U.Libr,1
+POS1921,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-10-19,JF010600,2020-12-17,2,22.36666667,671,femenino,DURANGO,Mexican,29,solter,0
+POS1323,VS4,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-10-21,JF010600,2021-01-26,1,21.1,633,femenino,VERACRUZ,Mexican,36,U.Libr,3
+POS581,LOG,S6,Exempt,32540,Imp.Tra-Bajo desempeño,E3,2022-10-21,JF010600,2021-07-22,1,15.2,456,masculino,CHIHUAHUA,Mexican,46,casad.,2
+POS538,VS7,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-10-19,JT031800,2022-11-08,0,2.3,69,femenino,JUAREZ,Mexican,30,U.Libr,2
+POS2939,VS7,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-10-19,JS011500,2022-08-18,0,2.066666667,62,masculino,DURANGO,Mexican,30,U.Libr,3
+POS538,VS9-ABS,S5,Direct,32690,Vol-No regreso / no dio razón,DO,2022-10-19,JT031800,2022-08-25,0,1.833333333,55,femenino,JUAREZ,Mexican,27,casad.,3
+POS538,VS5,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-10-19,JT031800,2022-08-25,0,1.833333333,55,femenino,CHIHUAHUA,Mexican,33,divorc,2
+POS1380,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-10-19,JT031800,2022-08-09,0,1.366666667,41,masculino,POZA RICA DE HIDALGO,Mexican,41,casad.,3
+POS538,VS9-ABS,S5,Direct,32576,Vol-No regreso / no dio razón,DO,2022-10-17,JF060600,2022-08-09,0,1.3,39,femenino,SAN JUAN BAUTISTA TUXTEPE,Mexican,34,casad.,4
+POS1380,MFS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-10-19,JT031800,2022-09-14,0,1.166666667,35,masculino,TORREON,Mexican,30,U.Libr,2
+POS538,VS9-ABS,S5,Direct,32575,Vol-Razones médicas,DO,2022-10-19,JT031800,2022-09-14,0,1.166666667,35,femenino,VIESCA,Mexican,42,divorc,2
+POS1380,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-10-19,JT031800,2022-09-14,0,1.166666667,35,femenino,SANTA MARIA DE OTAEZ,Mexican,22,U.Libr,1
+POS538,VS1-HOUS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-10-19,JT031800,2022-09-22,0,0.9,27,femenino,NAZAS,Mexican,37,U.Libr,2
+POS2939,VS9-ABS,S5,Direct,32695,Vol-No regreso / no dio razón,DO,2022-10-20,JF010600,2022-03-10,0,0.5666666667,17,femenino,GUADALAJARA,Mexican,48,casad.,0
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-10-17,JS011500,2022-03-10,0,0.4666666667,14,femenino,JUAREZ,Mexican,25,casad.,0
+POS2456,MFS,S5,Direct,32599,Imp.Tra-LFT y/o Reglamento Int.,DNO,2022-10-20,JF010600,2017-03-08,5,63.46666667,1904,femenino,JUAREZ,Mexican,23,solter,0
+POS538,VS7,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-10-19,JT031800,2017-03-08,5,63.43333333,1903,femenino,CORDOBA,Mexican,28,U.Libr,2
+POS1667,VS9-ABS,S6,Managers,32448,Vol-Transferencia entre planta,SL1,2022-10-21,ADMINIST,2014-10-27,8,97.2,2916,masculino,PEÑON BLANCO,Mexican,54,casad.,1
+POS1745,MFS,S5,Direct,32599,Vol-Transferencia entre planta,DNO,2022-10-21,ADMINIST,2015-01-14,7,94.56666667,2837,masculino,PARRAL,Mexican,31,casad.,0
+POS2622,VS7,S6,Exempt,32696,Vol-Cambio de domicilio,E4,2022-10-21,ADMINIST,2016-04-20,6,79.16666667,2375,femenino,JUAREZ,Mexican,29,casad.,0
+POS538,VS9-ABS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-10-19,JT031800,2016-12-10,6,73.26666667,2198,femenino,JUAREZ,Mexican,32,solter,1
+POS343,VS4,S6,Exempt,32573,Vol-Otro empleo,E3,2022-10-28,ADMINIST,2015-10-28,7,85.23333333,2557,femenino,JUAREZ,Mexican,30,casad.,1
+POS1323,VS5,S5,Direct,32600,Vol-Insatisfacción personal,DO,2022-10-25,JF010600,2021-01-19,1,21.46666667,644,masculino,JUAREZ,Mexican,25,solter,0
+POS538,VS1-HOUS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-10-24,JF060600,2022-09-14,0,1.333333333,40,masculino,JUAREZ,Mexican,19,solter,1
+POS2939,VS5,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-10-24,JS011500,2022-09-14,0,1.333333333,40,femenino,CHIHUAHUA,Mexican,31,casad.,3
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-10-24,JF010600,2022-09-22,0,1.066666667,32,masculino,EJISO NUEVO BENAVIDES,Mexican,38,casad.,4
+POS2939,VS9-ABS,S5,Direct,32574,Vol-No regreso / no dio razón,DO,2022-10-27,JT012324,2022-09-29,0,0.9333333333,28,femenino,JUAREZ,Mexican,26,solter,1
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-10-24,JF010600,2022-03-10,0,0.7,21,masculino,SAN ANDRES TUXTLA,Mexican,26,solter,1
+POS2939,VS1-HOUS,S5,Direct,32546,Vol-No regreso / no dio razón,DO,2022-10-20,JS011500,2022-06-10,0,0.4666666667,14,femenino,SAN LUIS POTOSI,Mexican,39,casad.,3
+POS2939,VS9-ABS,S5,Direct,32690,Vol-No regreso / no dio razón,DO,2022-10-27,JT012324,2022-11-10,0,0.5333333333,16,masculino,CAMPECHE,Mexican,34,divorc,3
+POS2939,VS4,S5,Direct,32600,Vol-Transferencia entre planta,DO,2022-10-24,JS011500,2022-10-13,0,0.3666666667,11,femenino,JUAREZ,Mexican,20,U.Libr,0
+POS1323,VS5,S5,Direct,32599,Vol-Transferencia entre planta,DO,2022-10-28,JF010600,2018-11-01,4,58.36666667,1751,femenino,CHIHUAHUA,Mexican,26,U.Libr,2
+POS1380,MFS,S5,Direct,32575,Vol-Otro empleo,DO,2022-10-25,JF060600,2016-12-21,6,71.13333333,2134,femenino,JUAREZ,Mexican,27,solter,0
+POS347,LOG,S5,Direct,32575,Imp.Tra-Jubilación,DNO,2022-10-21,JF010600,1994-04-05,28,346.5666667,10397,masculino,"PARRAL, CHIH",Mexican,55,U.Libr,6
+POS1323,VS4,S5,Direct,32170,Imp.Tra-Jubilación,DO,2022-10-28,JF010600,1995-08-28,27,330.7666667,9923,femenino,JUAREZ,Mexican,57,casad.,4
+POS1230,VS5,S5,Direct,32425,Vol-Transferencia entre planta,DNO,2022-10-28,JF010600,2009-07-09,13,159.9666667,4799,masculino,JUAREZ,Mexican,31,solter,1
+POS2803,VS7,S5,Direct,32695,Vol-Otro empleo,DNO,2022-10-25,JF010600,2013-06-11,9,109.1666667,3275,masculino,JUAREZ,Mexican,37,casad.,3
+POS1230,TEF,S5,Direct,32583,Vol-Otro empleo,DNO,2022-10-25,ADMINIST,2015-09-12,7,83.73333333,2512,masculino,JUAREZ,Mexican,26,solter,0
+POS2939,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-04-10,JS011500,2022-09-22,0,0.4,12,femenino,JIMENEZ,Mexican,47,U.Libr,2
+POS1559,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DNO,2022-04-11,ADMINIST,2019-12-09,3,38.3,1149,masculino,JUAREZ,Mexican,24,casad.,1
+POS1323,VS9-ABS,S5,Direct,32500,Imp.Tra-Ausentismos continuos,DO,2022-02-11,JS011500,2020-11-26,2,23.53333333,706,femenino,GUANAJUATO,Mexican,33,solter,3
+POS1323,VS1,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-04-11,JT012324,2021-01-19,1,21.8,654,femenino,OAXACA,Mexican,35,U.Libr,3
+POS2858,QMM,S6,Exempt,32590,Vol-Otro empleo,E3,2022-04-11,ADMINIST,2021-10-14,1,12.86666667,386,masculino,CHIHUAHUA,Mexican,24,U.Libr,2
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-02-11,JT031800,2022-08-25,0,2.3,69,femenino,JUAREZ,Mexican,34,solter,3
+POS538,VS5,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-02-11,JT031800,2022-01-09,0,2.066666667,62,femenino,TRES VALLES,Mexican,29,solter,0
+POS2939,VS1,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-02-11,JF010600,2022-01-09,0,2.066666667,62,masculino,CHIHUAHUA,Mexican,35,solter,2
+POS538,VS9-ABS,S5,Direct,32575,Vol-Otro empleo,DO,2022-02-11,JT031800,2022-01-09,0,2.066666667,62,femenino,OAXACA,Mexican,25,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-02-11,JT031800,2022-09-14,0,1.633333333,49,masculino,CHIHUAHUA,Mexican,21,solter,0
+POS1380,MFS,S5,Direct,32583,Vol-No regreso / no dio razón,DO,2022-02-11,JT031800,2022-09-22,0,1.366666667,41,femenino,JUAREZ,Mexican,25,solter,1
+POS538,VS9-ABS,S5,Direct,32576,Vol-No regreso / no dio razón,DO,2022-02-11,JT031800,2022-09-22,0,1.366666667,41,femenino,PUEBLA,Mexican,28,viud.,3
+POS2939,VS9-ABS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-02-11,JS011500,2022-03-10,0,1,30,masculino,MINATITLAN,Mexican,35,casad.,2
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-02-11,JT031800,2022-03-10,0,1,30,femenino,COATZACOALCOS,Mexican,25,solter,2
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-02-11,JT012324,2022-10-13,0,0.6666666667,20,femenino,TORREON,Mexican,26,casad.,2
+POS2939,VS4,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-02-11,JS011500,2022-10-13,0,0.6666666667,20,masculino,QUINTANA ROO,Mexican,41,casad.,1
+POS2939,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-03-11,JS011500,2022-10-27,0,0.2333333333,7,masculino,ACAYUCAN,Mexican,41,casad.,2
+POS1921,MFS,S5,Direct,32674,Imp.Tra-Ausentismos continuos,DO,2022-04-11,JS011500,2022-07-21,0,3.533333333,106,masculino,JUAREZ,Mexican,24,solter,0
+POS2456,MFS,S5,Direct,32575,Vol-Otro empleo,DNO,2022-02-11,ADMINIST,2017-01-25,5,70.23333333,2107,femenino,VERACRUZ,Mexican,27,solter,0
+POS347,LOG,S5,Direct,32580,Vol-Otro empleo,DNO,2022-02-11,JF050600,2017-06-29,5,65.06666667,1952,masculino,JUAREZ,Mexican,34,U.Libr,2
+POS1230,VS9-ABS,S5,Direct,32696,Vol-Transferencia entre planta,DNO,2022-04-11,JF010600,1999-04-01,23,290.1666667,8705,masculino,JUAREZ,Mexican,45,casad.,2
+POS2076,HRL,S6,Exempt,32540,Vol-Otro empleo,E3,2022-11-11,ADMINIST,2018-11-26,4,48.2,1446,femenino,JUAREZ,Mexican,27,solter,0
+POS1921,MFS,S5,Direct,32696,Vol-No regreso / no dio razón,DO,2022-08-11,JF010600,2019-10-24,3,37.03333333,1111,masculino,JUAREZ,Mexican,21,solter,0
+POS538,VS9-ABS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-08-11,JF060600,2021-12-01,1,22.16666667,665,masculino,DURANGO,Mexican,26,solter,0
+POS2939,VS7,S5,Direct,32599,Imp.Tra-LFT y/o Reglamento Int.,DO,2022-08-11,JS011500,2022-08-18,0,2.733333333,82,femenino,JUAN R ESCUDERO,Mexican,39,solter,4
+POS2939,VS9-ABS,S5,Direct,32696,Vol-Estudios,DO,2022-08-11,JF010600,2022-08-09,0,2.033333333,61,femenino,CHIHUAHUA,Mexican,23,solter,0
+POS2939,VS1,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2022-09-11,JS011500,2022-09-22,0,1.6,48,femenino,JUAREZ,Mexican,31,casad.,1
+POS1661,MFS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-08-11,JS011500,2022-06-10,0,1.1,33,femenino,CIUDAD DE MEXICO,Mexican,48,casad.,2
+POS1661,MFS,S5,Direct,32599,Vol-Transferencia entre planta,DO,2022-08-11,JS011500,2022-10-27,0,0.4,12,femenino,ALLENDE,Mexican,25,U.Libr,1
+POS2939,VS9-ABS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-11-11,JS011500,2022-10-27,0,0.5,15,masculino,MAPASTEPEC,Mexican,24,U.Libr,1
+POS2939,VS1,S5,Direct,32574,Vol-No regreso / no dio razón,DO,2022-11-11,JS011500,2022-10-27,0,0.5,15,masculino,JUAREZ,Mexican,39,casad.,2
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-11-11,JS011500,2022-10-27,0,0.5,15,masculino,OAXACA,Mexican,29,U.Libr,2
+POS1376,VS7,S5,Direct,32590,Vol-Transferencia entre planta,DNO,2022-11-11,ADMINIST,2013-10-30,9,109.9666667,3299,masculino,DURANGO,Mexican,34,U.Libr,1
+POS1230,VS1,S5,Direct,32600,Vol-Otro empleo,DNO,2022-08-11,JF010600,2014-10-22,8,97.96666667,2939,masculino,DURANGO,Mexican,32,solter,0
+POS2802,TEF,S5,Direct,32600,Vol-Estudios,DNO,2022-11-18,JF010600,2018-10-18,4,49.73333333,1492,femenino,VERACRUZ,Mexican,22,solter,0
+POS1323,VS5,S5,Direct,32696,Imp.Tra-Ausentismos continuos,DO,2022-11-14,JF010600,2019-06-27,3,41.2,1236,femenino,CHIHUAHUA,Mexican,25,solter,0
+POS1323,VS7,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-11-14,JF010600,2020-01-10,2,25.8,774,masculino,JUAREZ,Mexican,30,U.Libr,1
+POS1921,MFS,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-11-18,JF010600,2021-01-26,1,22.03333333,661,femenino,CHIHUAHUA,Mexican,23,solter,0
+POS1559,MFS,S5,Direct,32690,Vol-Transferencia entre planta,DNO,2022-11-18,JF010600,2021-10-14,1,13.33333333,400,masculino,CHIHUAHUA,Mexican,28,solter,0
+POS60,TEF,S6,Exempt,32590,Vol-Otro empleo,E4,2022-11-18,ADMINIST,2021-11-11,1,12.4,372,masculino,CHIHUAHUA,Mexican,30,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-11-18,JF010600,2022-04-08,0,3.533333333,106,masculino,SAN PEDRO,Mexican,25,solter,1
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-11-18,JT031800,2022-01-09,0,2.6,78,femenino,JUAREZ,Mexican,23,U.Libr,1
+POS538,VS9-ABS,S5,Direct,3259,Vol-No regreso / no dio razón,DO,2022-11-18,JT031800,2022-09-22,0,1.9,57,masculino,CHIHUAHUA,Mexican,29,casad.,2
+POS2939,VS9-ABS,S5,Direct,27000,Vol-No regreso / no dio razón,DO,2022-11-18,JT012324,2022-09-29,0,1.666666667,50,masculino,CHIHUAHUA,Mexican,24,solter,0
+POS2939,VS9-ABS,S5,Direct,32599,Vol-Cambio de domicilio,DO,2022-11-18,JF010600,2022-03-10,0,1.533333333,46,masculino,DURANGO,Mexican,24,solter,0
+POS2939,VS9-ABS,S5,Direct,32695,Vol-No regreso / no dio razón,DO,2022-11-18,JT012324,2022-11-10,0,1.266666667,38,femenino,CHIHUAHUA,Mexican,27,solter,4
+POS1380,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-11-18,JT031800,2022-10-20,0,0.9666666667,29,femenino,COSOLEACAQUE,Mexican,23,solter,1
+POS1661,MFS,S5,Direct,32575,Imp.Tra-Ausentismos continuos,DO,2022-11-18,JS011500,2022-10-27,0,0.7333333333,22,femenino,CHIAPAS,Mexican,37,solter,4
+POS1230,VS7,S5,Direct,32575,Vol-Otro empleo,DNO,2022-11-18,JT012324,2017-05-10,5,62.33333333,1870,masculino,TUXTEPEC,Mexican,34,casad.,1
+POS2858,QMM,S6,Exempt,32553,Vol-Otro empleo,E4,2022-11-18,ADMINIST,2017-12-10,5,62.1,1863,femenino,CUERNAVACA,Mexican,33,solter,1
+POS538,VS1,S5,Direct,32696,Vol-Otro empleo,DO,2022-11-18,JF060600,2017-11-30,5,60.46666667,1814,masculino,CHIHUAHUA,Mexican,23,solter,0
+POS2224,TEF,S5,Direct,32100,Imp.Pat-Terminación del Contrato,DNO,2022-11-18,JF010600,2013-04-02,9,119.1333333,3574,masculino,JUAREZ,Mexican,43,U.Libr,4
+POS2802,TEF,S5,Direct,32599,Vol-Cambio de domicilio,DNO,2022-11-18,JF010600,2016-07-09,6,75.43333333,2263,femenino,MIGUEL ANGEL,Mexican,28,solter,0
+POS2622,VS7,S6,Exempt,32665,Vol-Otro empleo,E3,2022-11-17,ADMINIST,2016-11-23,6,72.83333333,2185,masculino,JUAREZ,Mexican,32,solter,1
+POS1323,VS1,S5,Direct,32580,Vol-Transferencia entre planta,DO,2022-11-25,JF010600,2019-04-07,3,41.33333333,1240,femenino,JUAREZ,Mexican,21,U.Libr,1
+POS538,VS9-ABS,S5,Direct,32575,Vol-Otro empleo,DO,2022-11-23,JF060600,2020-09-01,2,34.96666667,1049,femenino,VERACRUZ,Mexican,25,solter,1
+POS1380,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-11-23,JF060600,2020-01-23,2,34.5,1035,femenino,JUAREZ,Mexican,21,solter,1
+POS1921,MFS,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-11-23,JS011500,2020-12-03,2,32.86666667,986,femenino,COAHUILA,Mexican,45,solter,3
+POS1657,TEF,S6,Exempt,32574,Vol-Transferencia entre planta,E3,2022-11-25,ADMINIST,2020-10-09,2,26.86666667,806,masculino,CHIHUAHUA,Mexican,25,solter,0
+POS1323,VS5,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-11-23,JT012324,2020-10-15,2,25.63333333,769,femenino,OAXACA,Mexican,25,casad.,1
+POS538,VS9-ABS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-11-21,JT031800,2022-09-29,0,1.766666667,53,femenino,VERACRUZ,Mexican,28,casad.,2
+POS1323,VS1,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-11-25,JF010600,2017-03-16,5,69.33333333,2080,femenino,JUAREZ,Mexican,24,U.Libr,1
+POS1323,VS4,S5,Direct,32215,Imp.Tra-Jubilación,DO,2022-11-25,JF010600,1994-04-01,28,351.7333333,10552,masculino,JUAREZ,Mexican,64,casad.,3
+POS1230,VS7,S5,Direct,32180,Vol-Otro empleo,DNO,2022-11-23,JT012324,2014-04-06,8,103.1333333,3094,masculino,JUAREZ,Mexican,37,casad.,3
+POS1921,MFS,S5,Direct,32599,Vol-Insatisfacción personal,DO,2022-11-23,JF010600,2014-03-12,8,97.06666667,2912,femenino,JUAREZ,Mexican,26,solter,1
+POS538,VS7,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-11-23,JF060600,2016-07-09,6,75.6,2268,femenino,JESUS CARRANZA,Mexican,42,casad.,2
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-11-29,JT012324,2018-03-05,4,55.7,1671,femenino,CHIAPAS,Mexican,27,casad.,1
+POS347,LOG,S5,Direct,32750,Vol-Otro empleo,DNO,2022-11-29,JF050600,2018-06-14,4,54.3,1629,masculino,JUAREZ,Mexican,28,casad.,1
+POS2003,VS1,S5,Direct,32599,Vol-Otro empleo,DO,2022-11-29,JF050600,2018-12-13,4,48.23333333,1447,masculino,JUAREZ,Mexican,23,solter,0
+POS454,TEF,S5,Direct,32389,Vol-Transferencia entre planta,DNO,2022-02-12,ADMINIST,2018-12-20,4,48.1,1443,masculino,DURANGO,Mexican,27,solter,0
+POS347,LOG,S5,Direct,32500,Vol-Otro empleo,DNO,2022-11-29,JS011500,2019-03-14,3,45.2,1356,masculino,JUAREZ,Mexican,22,U.Libr,1
+POS2456,VS9-ABS,S5,Direct,32510,Vol-Prob personales y/o fam.,DNO,2022-11-29,JF010600,2019-04-25,3,43.8,1314,femenino,JUAREZ,Mexican,32,casad.,1
+POS1230,TEF,S5,Direct,32408,Vol-Transferencia entre planta,DNO,2022-02-12,ADMINIST,2020-10-09,2,27.1,813,femenino,CHIHUAHUA,Mexican,24,solter,0
+POS1323,VS4,S5,Direct,32599,Vol-Estudios,DO,2022-11-29,JF010600,2020-11-19,2,24.66666667,740,masculino,JUAREZ,Mexican,20,solter,0
+POS1380,MFS,S5,Direct,32695,Vol-Insatisfacción personal,DO,2022-11-29,JF060600,2021-11-02,1,21.86666667,656,femenino,COAHUILA DE ZARAGOZA,Mexican,22,solter,0
+POS1380,MFS,S5,Direct,32574,Vol-No regreso / no dio razón,DO,2022-11-28,JT031800,2022-09-22,0,2.233333333,67,masculino,JUAREZ,Mexican,22,solter,0
+POS538,VS9-ABS,S5,Direct,32690,Vol-No regreso / no dio razón,DO,2022-11-28,JT031800,2022-03-10,0,1.866666667,56,femenino,OAXACA,Mexican,23,U.Libr,0
+POS538,VS9-ABS,S5,Direct,32600,Vol-No regreso / no dio razón,DO,2022-11-28,JT031800,2022-03-11,0,0.8333333333,25,femenino,CHIHUAHUA,Mexican,31,solter,4
+POS538,VS9-ABS,S5,Direct,32600,Vol-No regreso / no dio razón,DO,2022-11-28,JF060600,2022-03-11,0,0.8333333333,25,femenino,CHIHUAHUA,Mexican,40,solter,1
+POS1323,VS5,S5,Direct,32590,Imp.Tra-LFT y/o Reglamento Int.,DO,2022-01-12,JS011500,2016-12-21,6,72.36666667,2171,masculino,JUAREZ,Mexican,26,solter,0
+POS347,LOG,S5,Direct,32594,Vol-Otro empleo,DNO,2022-11-29,JT012324,2017-06-29,5,65.96666667,1979,masculino,VERACRUZ,Mexican,27,casad.,1
+POS343,MFS,S6,Exempt,32575,Imp.Tra-Jubilación,E3,2022-02-12,JS011500,1999-04-15,23,287.7333333,8632,masculino,OAXACA,Mexican,55,casad.,2
+POS1323,VS1,S5,Direct,32060,Imp.Tra-Jubilación,DO,2022-02-12,JT012324,2009-08-18,13,161.8,4854,femenino,JUAREZ,Mexican,60,casad.,1
+POS2062,VS9-ABS,S6,Exempt,32599,Vol-Transferencia entre planta,E3,2022-02-12,JF010600,2012-02-16,10,131.4,3942,masculino,JUAREZ,Mexican,40,casad.,2
+POS1359,DBE,S6,Exempt,32617,Vol-Otro empleo,E4,2022-11-18,ADMINIST,2017-06-04,5,68.4,2052,femenino,CHIHUAHUA,Mexican,36,solter,2
+POS538,VS1,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-11-11,JF060600,2020-12-22,5,22.96666667,689,femenino,CHIHUAHUA,Mexican,32,casad.,1
+POS538,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-11-11,JF060600,2022-08-09,5,2.133333333,64,femenino,TORREON,Mexican,23,solter,1
+POS538,VS1,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-06-12,JF060600,2018-08-30,6,51.96666667,1559,femenino,JUAREZ,Mexican,23,solter,0
+POS2456,MFS,S5,Direct,32575,Vol-Otro empleo,DNO,2022-06-12,ADMINIST,2019-01-24,7,47.06666667,1412,masculino,JUAREZ,Mexican,26,solter,0
+POS1323,VS4,S5,Direct,32575,Vol-Otro empleo,DO,2022-06-12,JF010600,2019-02-21,8,46.13333333,1384,femenino,DURANGO,Mexican,25,solter,0
+POS1323,VS1-HOUS,S5,Direct,32590,Vol-Transferencia entre planta,DO,2022-09-12,JF010600,2020-11-24,9,24.83333333,745,femenino,CHIHUAHUA,Mexican,22,solter,0
+POS1921,MFS,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2022-05-12,JS011500,2022-07-28,0,4.333333333,130,masculino,COAHUILA,Mexican,24,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-06-12,JF010600,2022-11-08,11,3.9,117,femenino,COAHUILA,Mexican,48,divorc,2
+POS538,VS9-ABS,S5,Direct,32598,Vol-No regreso / no dio razón,DO,2022-05-12,JT031800,2022-09-29,0,2.233333333,67,masculino,CHIHUAHUA,Mexican,45,casad.,2
+POS2939,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-06-12,JS011500,2022-10-10,13,1.9,57,masculino,OAXACA,Mexican,20,U.Libr,1
+POS2939,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-05-12,JS011500,2022-10-20,0,1.533333333,46,femenino,MONTERREY,Mexican,46,divorc,5
+POS1661,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-05-12,JF010600,2022-10-20,0,1.533333333,46,femenino,CHIHUAHUA,Mexican,18,solter,0
+POS538,VS5,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-05-12,JT031800,2022-10-27,0,1.3,39,femenino,CHIHUAHUA,Mexican,24,solter,1
+POS1380,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-05-12,JT031800,2022-10-27,0,1.3,39,femenino,CHIHUAHUA,Mexican,35,casad.,4
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-05-12,JT031800,2022-03-11,0,1.066666667,32,femenino,JUAREZ,Mexican,19,U.Libr,1
+POS2939,VS9-ABS,S5,Direct,32599,Vol-Insatisfacción personal,DO,2022-06-12,JF010600,2022-03-11,19,1.1,33,femenino,CORDOBA,Mexican,32,solter,4
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-05-12,JT031800,2022-10-11,0,0.8333333333,25,femenino,JUAREZ,Mexican,25,solter,0
+POS2003,VS5,S5,Direct,32575,Vol-Insatisfacción personal,DO,2022-06-12,JS011500,2017-01-18,21,71.6,2148,masculino,TABASCO,Mexican,44,U.Libr,3
+POS1323,VS1,S5,Direct,32150,Imp.Tra-Jubilación,DO,2022-09-12,JT012324,2009-01-09,22,161.5666667,4847,femenino,JUAREZ,Mexican,59,casad.,3
+POS1230,VS4,S5,Direct,32668,Imp.Tra-Jubilación,DNO,2022-09-12,JF010600,2004-07-06,23,225.3,6759,masculino,JUAREZ,Mexican,55,casad.,1
+POS347,LOG,S5,Direct,32696,Vol-No regreso / no dio razón,DNO,2022-05-12,JS011500,2013-07-15,24,114.3333333,3430,masculino,XOCHIPALA,Mexican,34,solter,0
+POS538,VS9-ABS,S5,Direct,32650,Imp.Tra-Ausentismos continuos,DO,2022-05-12,JF060600,2017-09-14,25,63.6,1908,femenino,JUAREZ,Mexican,27,solter,2
+POS1376,MFS,S5,Direct,32590,Vol-Otro empleo,DNO,2022-06-12,JF050600,2013-10-30,26,110.8,3324,femenino,TORREON,Mexican,32,solter,1
+POS1323,VS7,S5,Direct,32575,Vol-Otro empleo,DO,2022-06-12,JS011500,2015-04-29,27,92.6,2778,femenino,JUAREZ,Mexican,26,solter,1
+POS1783,TEF,S6,Exempt,32605,Vol-Otro empleo,E4,2022-12-16,ADMINIST,2022-05-26,0,6.8,204,masculino,CIUDAD DE MEXICO,Mexican,33,solter,1
+POS2446,VS4,S6,Exempt,32543,Vol-Otro empleo,E4,2022-12-13,ADMINIST,2012-07-23,10,126.5,3795,masculino,VERACRUZ,Mexican,37,casad.,2
+POS2062,VS1,S6,Exempt,32423,Vol-Otro empleo,E3,2022-12-13,ADMINIST,2022-02-17,0,9.966666667,299,masculino,JUAREZ,Mexican,23,solter,0
+POS1323,VS5,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-12-13,JF010600,2019-03-10,3,38.9,1167,femenino,OAXACA,Mexican,21,solter,0
+POS1323,VS9-ABS,S5,Direct,32599,Vol-Prob personales y/o fam.,DO,2022-12-13,JF010600,2020-05-03,2,33.76666667,1013,femenino,JUAREZ,Mexican,27,solter,0
+POS538,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-12-12,JT031800,2022-07-21,0,4.8,144,femenino,JUAREZ,Mexican,22,U.Libr,0
+POS1380,MFS,S5,Direct,32599,Vol-No regreso / no dio razón,DO,2022-12-12,JT031800,2022-09-22,0,2.7,81,femenino,VILLA VICTORIA,Mexican,30,solter,1
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-12-12,JT031800,2022-03-11,0,1.3,39,femenino,OAXACA,Mexican,23,solter,1
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-12-12,JT031800,2022-03-11,0,1.3,39,masculino,JUAREZ,Mexican,22,U.Libr,1
+POS1661,MFS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-12-12,JT012324,2022-11-17,0,0.8333333333,25,masculino,CAMPECHE,Mexican,25,U.Libr,0
+POS538,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-12-12,JT031800,2022-11-17,0,0.8333333333,25,femenino,JUAREZ,Mexican,27,U.Libr,2
+POS1323,VS9-ABS,S5,Direct,32590,Vol-Otro empleo,DO,2022-12-13,JF010600,2017-05-10,5,63.16666667,1895,masculino,JUAREZ,Mexican,25,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Razones médicas,DO,2022-12-13,JT012324,2008-07-21,14,175.2666667,5258,femenino,GOMEZ FARIAS,Mexican,49,casad.,3
+POS1230,VS5,S5,Direct,32575,Vol-Cambio de domicilio,DNO,2022-12-13,JF010600,2013-02-10,9,111.9666667,3359,masculino,VERACRUZ,Mexican,31,casad.,0
+POS2003,TEF,S5,Direct,32696,Imp.Pat-Pensionado IMSS,DNO,2022-12-16,ADMINIST,2013-10-23,9,111.3666667,3341,masculino,JUAREZ,Mexican,54,U.Libr,2
+POS2003,VS5,S5,Direct,32696,Vol-Insatisfacción personal,DO,2022-12-13,JF010600,2015-09-03,7,94.53333333,2836,femenino,JUAREZ,Mexican,29,solter,0
+POS1230,VS4,S5,Direct,32573,Vol-Cambio de domicilio,DNO,2022-12-13,JS011500,2015-11-11,7,86.3,2589,masculino,OCAMPO,Mexican,30,casad.,0
+POS1323,VS7,S5,Direct,32576,Imp.Tra-Jubilación,DO,2022-12-13,JF010600,2016-04-05,6,80.46666667,2414,femenino,TORREON,Mexican,60,divorc,3
+POS1230,VS5,S5,Direct,32583,Vol-Otro empleo,DNO,2022-12-20,JF050600,2018-01-02,4,59.43333333,1783,masculino,PUEBLA,Mexican,23,solter,0
+POS1323,VS9-ABS,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-12-20,JS011500,2018-08-03,4,58.26666667,1748,femenino,TORREON,Mexican,40,U.Libr,2
+POS538,VS9-ABS,S5,Direct,32598,Vol-Prob personales y/o fam.,DO,2022-12-20,JF060600,2019-07-25,3,41.46666667,1244,femenino,DURANGO,Mexican,45,U.Libr,1
+POS1559,MFS,S5,Direct,32599,Vol-Otro empleo,DNO,2022-12-20,JT021800,2019-09-17,3,39.66666667,1190,femenino,JUAREZ,Mexican,24,solter,0
+POS1323,VS5,S5,Direct,32570,Vol-No regreso / no dio razón,DO,2022-12-22,JF010600,2019-09-17,3,39.73333333,1192,femenino,CHIHUAHUA,Mexican,47,divorc,2
+POS1323,VS1,S5,Direct,32575,Vol-Cambio de domicilio,DO,2022-12-20,JF010600,2019-09-24,3,39.43333333,1183,femenino,CHIHUAHUA,Mexican,21,solter,0
+POS1323,VS4,S5,Direct,32575,Vol-Transferencia entre planta,DO,2022-12-20,JT012324,2020-08-10,2,26.76666667,803,femenino,JUAREZ,Mexican,20,solter,0
+POS347,LOG,S5,Direct,32573,Vol-Transferencia entre planta,DNO,2022-12-20,JT012324,2020-01-12,2,24.96666667,749,masculino,JUAREZ,Mexican,24,solter,0
+POS1323,VS7,S5,Direct,32575,Vol-Prob personales y/o fam.,DO,2022-12-20,JS011500,2021-01-21,1,23.26666667,698,masculino,VERACRUZ,Mexican,38,casad.,2
+POS2915,TEF,S5,Direct,32575,Vol-Otro empleo,DNO,2022-12-20,JF010600,2022-09-06,0,6.466666667,194,masculino,JUAREZ,Mexican,27,U.Libr,2
+POS1380,MFS,S5,Direct,32590,Vol-No regreso / no dio razón,DO,2022-12-19,JF060600,2022-01-09,0,3.633333333,109,femenino,RIO GRANDE,Mexican,23,U.Libr,2
+POS347,LOG,S5,Direct,32590,Vol-Cambio de domicilio,DNO,2022-12-20,JS011500,2022-08-09,0,3.433333333,103,masculino,TUXTEPEC,Mexican,24,solter,0
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-12-20,JF010600,2022-03-10,0,2.6,78,femenino,JUAREZ,Mexican,20,solter,0
+POS2939,VS9-ABS,S5,Direct,32575,Imp.Tra-LFT y/o Reglamento Int.,DO,2022-12-19,JS011500,2022-03-10,0,2.566666667,77,masculino,JUAREZ,Mexican,20,solter,0
+POS1230,VS9-ABS,S5,Direct,32600,Vol-Prob personales y/o fam.,DNO,2022-12-20,JS011500,2022-06-10,0,2.5,75,masculino,CHIHUAHUA,Mexican,30,U.Libr,3
+POS2939,VS9-ABS,S5,Direct,32575,Vol-No regreso / no dio razón,DO,2022-12-19,JS011500,2022-01-12,0,0.6,18,femenino,CIUDAD DE MEXICO,Mexican,32,U.Libr,3
+POS347,LOG,S5,Direct,32594,Vol-Transferencia entre planta,DNO,2022-12-20,JS011500,2022-12-15,0,0.1666666667,5,masculino,VERACRUZ,Mexican,33,casad.,1
+POS1376,VS1,S5,Direct,32159,Vol-Prob personales y/o fam.,DNO,2022-12-20,JF010600,2017-09-28,5,63.63333333,1909,masculino,VERACRUZ,Mexican,27,solter,0
+POS1230,TEF,S5,Direct,32575,Vol-Otro empleo,DNO,2022-12-20,ADMINIST,2017-01-25,5,71.83333333,2155,femenino,JUAREZ,Mexican,28,casad.,0
+POS347,LOG,S5,Direct,32060,Imp.Tra-Jubilación,DNO,2022-12-23,JT012324,2004-06-14,18,225.5333333,6766,masculino,JUAREZ,Mexican,59,casad.,2
+POS1376,MFS,S5,Direct,32575,Vol-Prob personales y/o fam.,DNO,2022-12-20,JF010600,2008-06-10,14,172.9333333,5188,femenino,DELICIAS,Mexican,40,solter,2
+POS2803,VS7,S5,Direct,32580,Imp.Tra-Jubilación,DNO,2022-12-23,JT012324,2010-02-15,12,156.4666667,4694,masculino,DELICIAS,Mexican,57,U.Libr,3
+POS1230,VS4,S5,Direct,32674,Vol-Insatisfacción personal,DNO,2022-12-20,JF010600,2011-01-24,11,144.9333333,4348,masculino,JUAREZ,Mexican,37,casad.,3
+POS1323,VS9-ABS,S5,Direct,32598,Vol-Cambio de domicilio,DO,2022-12-20,JS011500,2013-04-02,9,120.2,3606,masculino,VERACRUZ,Mexican,61,casad.,4
+POS1974,MFS,S6,Exempt,32618,Vol-Prob personales y/o fam.,E4,2022-12-21,ADMINIST,2014-03-02,8,108.1,3243,masculino,JUAREZ,Mexican,62,casad.,3
+POS1230,VS1,S5,Direct,32677,Imp.Tra-Jubilación,DNO,2022-12-16,JT012324,2000-10-16,22,269.8666667,8096,masculino,SAN FRANCISCO DEL ORO,Mexican,57,casad.,2
+POS1323,VS7,S5,Direct,32599,Imp.Tra-Jubilación,DO,2022-02-12,JF010600,2007-10-22,15,184,5520,femenino,JUAREZ,Mexican,55,divorc,4
+POS790,QMM,S6,Exempt,32585,Vol-Transferencia entre planta,E4,2022-12-31,ADMINIST,2011-12-09,11,137.6,4128,masculino,CIUDAD DE MEXICO,Mexican,44,casad.,0
+POS2802,TEF,S5,Direct,32575,Vol-Cambio de domicilio,DNO,2022-07-26,JT012324,2015-05-08,7,84.9,2547,masculino,JUAREZ,Mexican,28,solter,0
+POS538,VS7,S5,Direct,32575,Vol-No regreso / no dio razón,DNO,2022-02-09,JT031800,2022-07-21,0,1.433333333,43,femenino,CHIHUAHUA,Mexican,21,solter,0
+POS538,VS9-ABS,S5,Direct,32600,Imp.Tra-Ausentismos continuos,DNO,2022-02-09,JT031800,2017-03-30,5,66.06666667,1982,femenino,VERACRUZ,Mexican,45,U.Libr,2
+POS2562,TEF,S6,Exempt,32574,Imp.Tra-LFT y/o Reglamento Int.,E3,2022-09-14,JF010600,2014-05-03,8,103.8333333,3115,masculino,JUAREZ,Mexican,46,casad.,4
